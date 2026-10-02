@@ -1,0 +1,52 @@
+{
+  "model": "Maruti Dzire",
+  "slug": "maruti-dzire",
+  "exShowroomRange": "₹6.79 - ₹10.14 Lakh",
+  "brochureUrl": "/cars/maruti/maruti-dzire/brochure.pdf",
+  "colors": [
+    {
+      "name": "Maruti Dzire Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/vehicles/cars/maruti/maruti-dzire/Dezire.png"
+    },
+    {
+      "name": "Maruti Dzire Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/maruti/maruti-dzire/img_1.png"
+    },
+    {
+      "name": "Maruti Dzire Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/maruti/maruti-dzire/img_2.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Maruti Dzire Standard / Base",
+      "exShowroomPrice": 6.79,
+      "onRoadPriceEst": 7.67,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Maruti Dzire Top / Luxury",
+      "exShowroomPrice": 10.14,
+      "onRoadPriceEst": 11.66,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹3.35 Lakh"
+    }
+  ],
+  "specs": {}
+}

@@ -1,0 +1,52 @@
+{
+  "model": "Bajaj Dominar 400",
+  "slug": "bajaj-dominar-400",
+  "exShowroomRange": "₹2.32 - ₹2.35 Lakh",
+  "brochureUrl": "/bikes/bajaj/bajaj-dominar-400/brochure.pdf",
+  "colors": [
+    {
+      "name": "Bajaj Dominar 400 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/bajaj/bajaj-dominar-400/hero.webp"
+    },
+    {
+      "name": "Bajaj Dominar 400 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/bajaj/bajaj-dominar-400/img_1.jpg"
+    },
+    {
+      "name": "Bajaj Dominar 400 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/bajaj/bajaj-dominar-400/img_2.webp"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Bajaj Dominar 400 Standard / Base",
+      "exShowroomPrice": 2.32,
+      "onRoadPriceEst": 2.62,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Bajaj Dominar 400 Top / Luxury",
+      "exShowroomPrice": 2.35,
+      "onRoadPriceEst": 2.7,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.03 Lakh"
+    }
+  ],
+  "specs": {}
+}

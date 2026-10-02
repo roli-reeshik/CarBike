@@ -1,0 +1,52 @@
+{
+  "model": "Royal Enfield Himalayan 450",
+  "slug": "royal-enfield-himalayan-450",
+  "exShowroomRange": "₹2.85 - ₹2.98 Lakh",
+  "brochureUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/brochure.pdf",
+  "colors": [
+    {
+      "name": "Royal Enfield Himalayan 450 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/hero.webp"
+    },
+    {
+      "name": "Royal Enfield Himalayan 450 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/img_1.png"
+    },
+    {
+      "name": "Royal Enfield Himalayan 450 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/img_2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Royal Enfield Himalayan 450 Standard / Base",
+      "exShowroomPrice": 2.85,
+      "onRoadPriceEst": 3.22,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Royal Enfield Himalayan 450 Top / Luxury",
+      "exShowroomPrice": 2.98,
+      "onRoadPriceEst": 3.43,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.13 Lakh"
+    }
+  ],
+  "specs": {}
+}

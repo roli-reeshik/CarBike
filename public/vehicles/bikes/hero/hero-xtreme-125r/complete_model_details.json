@@ -1,0 +1,52 @@
+{
+  "model": "Hero Xtreme 125R",
+  "slug": "hero-xtreme-125r",
+  "exShowroomRange": "₹0.95 - ₹1.0 Lakh",
+  "brochureUrl": "/bikes/hero/hero-xtreme-125r/brochure.pdf",
+  "colors": [
+    {
+      "name": "Hero Xtreme 125R Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/hero/hero-xtreme-125r/hero.png"
+    },
+    {
+      "name": "Hero Xtreme 125R Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/hero/hero-xtreme-125r/img_1.png"
+    },
+    {
+      "name": "Hero Xtreme 125R Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/hero/hero-xtreme-125r/img_2.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Hero Xtreme 125R Standard / Base",
+      "exShowroomPrice": 0.95,
+      "onRoadPriceEst": 1.07,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Hero Xtreme 125R Top / Luxury",
+      "exShowroomPrice": 1.0,
+      "onRoadPriceEst": 1.15,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.05 Lakh"
+    }
+  ],
+  "specs": {}
+}

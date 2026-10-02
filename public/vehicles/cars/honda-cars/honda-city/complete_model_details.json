@@ -1,0 +1,52 @@
+{
+  "model": "Honda City",
+  "slug": "honda-city",
+  "exShowroomRange": "₹12.08 - ₹16.35 Lakh",
+  "brochureUrl": "/cars/honda-cars/honda-city/brochure.pdf",
+  "colors": [
+    {
+      "name": "Honda City Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/honda-cars/honda-city/hero.jpg"
+    },
+    {
+      "name": "Honda City Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/honda-cars/honda-city/img_1.jpg"
+    },
+    {
+      "name": "Honda City Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/honda-cars/honda-city/img_2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Honda City Standard / Base",
+      "exShowroomPrice": 12.08,
+      "onRoadPriceEst": 13.65,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Honda City Top / Luxury",
+      "exShowroomPrice": 16.35,
+      "onRoadPriceEst": 18.8,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹4.27 Lakh"
+    }
+  ],
+  "specs": {}
+}

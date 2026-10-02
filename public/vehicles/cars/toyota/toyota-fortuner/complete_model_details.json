@@ -1,0 +1,52 @@
+{
+  "model": "Toyota Fortuner",
+  "slug": "toyota-fortuner",
+  "exShowroomRange": "₹33.43 - ₹51.44 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Toyota Fortuner Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/toyota/toyota-fortuner/hero.png"
+    },
+    {
+      "name": "Toyota Fortuner Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/toyota/toyota-fortuner/hero.png"
+    },
+    {
+      "name": "Toyota Fortuner Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/toyota/toyota-fortuner/hero.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Toyota Fortuner Standard / Base",
+      "exShowroomPrice": 33.43,
+      "onRoadPriceEst": 37.78,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Toyota Fortuner Top / Luxury",
+      "exShowroomPrice": 51.44,
+      "onRoadPriceEst": 59.16,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹18.01 Lakh"
+    }
+  ],
+  "specs": {}
+}

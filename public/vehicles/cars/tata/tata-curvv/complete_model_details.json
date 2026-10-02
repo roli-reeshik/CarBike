@@ -1,0 +1,42 @@
+{
+  "model": "Tata Curvv",
+  "slug": "tata-curvv",
+  "exShowroomRange": "₹9.99 - ₹17.69 Lakh",
+  "brochureUrl": "/cars/tata/tata-curvv/brochure.pdf",
+  "colors": [
+    {
+      "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/tata/tata-curvv/hero.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Tata Curvv Standard / Base",
+      "exShowroomPrice": 9.99,
+      "onRoadPriceEst": 11.29,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Tata Curvv Top / Luxury",
+      "exShowroomPrice": 17.69,
+      "onRoadPriceEst": 20.34,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹7.7 Lakh"
+    }
+  ],
+  "specs": {}
+}

@@ -1,0 +1,52 @@
+{
+  "model": "Honda SP 125",
+  "slug": "honda-sp-125",
+  "exShowroomRange": "₹0.86 - ₹0.91 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Honda SP 125 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Honda SP 125 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Honda SP 125 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Honda SP 125 Standard / Base",
+      "exShowroomPrice": 0.86,
+      "onRoadPriceEst": 0.97,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Honda SP 125 Top / Luxury",
+      "exShowroomPrice": 0.91,
+      "onRoadPriceEst": 1.05,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.05 Lakh"
+    }
+  ],
+  "specs": {}
+}

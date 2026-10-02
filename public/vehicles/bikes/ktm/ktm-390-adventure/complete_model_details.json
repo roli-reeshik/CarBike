@@ -1,0 +1,52 @@
+{
+  "model": "KTM 390 Adventure",
+  "slug": "ktm-390-adventure",
+  "exShowroomRange": "₹3.39 - ₹3.65 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "KTM 390 Adventure Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/ktm/ktm-390-adventure/img_1.webp"
+    },
+    {
+      "name": "KTM 390 Adventure Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/ktm/ktm-390-adventure/img_2.webp"
+    },
+    {
+      "name": "KTM 390 Adventure Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/ktm/ktm-390-adventure/img_3.webp"
+    }
+  ],
+  "variants": [
+    {
+      "name": "KTM 390 Adventure Standard / Base",
+      "exShowroomPrice": 3.39,
+      "onRoadPriceEst": 3.83,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "KTM 390 Adventure Top / Luxury",
+      "exShowroomPrice": 3.65,
+      "onRoadPriceEst": 4.2,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.26 Lakh"
+    }
+  ],
+  "specs": {}
+}

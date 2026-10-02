@@ -1,0 +1,52 @@
+{
+  "model": "Volkswagen Virtus",
+  "slug": "volkswagen-virtus",
+  "exShowroomRange": "₹11.56 - ₹19.41 Lakh",
+  "brochureUrl": "/cars/volkswagen/volkswagen-virtus/brochure.pdf",
+  "colors": [
+    {
+      "name": "Volkswagen Virtus Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Volkswagen Virtus Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Volkswagen Virtus Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Volkswagen Virtus Standard / Base",
+      "exShowroomPrice": 11.56,
+      "onRoadPriceEst": 13.06,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Volkswagen Virtus Top / Luxury",
+      "exShowroomPrice": 19.41,
+      "onRoadPriceEst": 22.32,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹7.85 Lakh"
+    }
+  ],
+  "specs": {}
+}

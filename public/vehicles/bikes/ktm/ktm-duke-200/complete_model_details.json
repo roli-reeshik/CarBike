@@ -1,0 +1,52 @@
+{
+  "model": "KTM Duke 200",
+  "slug": "ktm-duke-200",
+  "exShowroomRange": "₹1.98 - ₹2.05 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "KTM Duke 200 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/ktm/ktm-duke-200/hero.webp"
+    },
+    {
+      "name": "KTM Duke 200 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/ktm/ktm-duke-200/img_1.webp"
+    },
+    {
+      "name": "KTM Duke 200 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/ktm/ktm-duke-200/img_2.webp"
+    }
+  ],
+  "variants": [
+    {
+      "name": "KTM Duke 200 Standard / Base",
+      "exShowroomPrice": 1.98,
+      "onRoadPriceEst": 2.24,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "KTM Duke 200 Top / Luxury",
+      "exShowroomPrice": 2.05,
+      "onRoadPriceEst": 2.36,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.07 Lakh"
+    }
+  ],
+  "specs": {}
+}

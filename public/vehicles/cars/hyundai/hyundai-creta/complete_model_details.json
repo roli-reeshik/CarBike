@@ -1,0 +1,52 @@
+{
+  "model": "Hyundai Creta",
+  "slug": "hyundai-creta",
+  "exShowroomRange": "₹11.0 - ₹20.15 Lakh",
+  "brochureUrl": "/cars/hyundai/hyundai-creta/brochure.pdf",
+  "colors": [
+    {
+      "name": "Hyundai Creta Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/hyundai/hyundai-creta/hero.jpg"
+    },
+    {
+      "name": "Hyundai Creta Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/hyundai/hyundai-creta/img_1.jpg"
+    },
+    {
+      "name": "Hyundai Creta Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/hyundai/hyundai-creta/img_2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Hyundai Creta Standard / Base",
+      "exShowroomPrice": 11.0,
+      "onRoadPriceEst": 12.43,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Hyundai Creta Top / Luxury",
+      "exShowroomPrice": 20.15,
+      "onRoadPriceEst": 23.17,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹9.15 Lakh"
+    }
+  ],
+  "specs": {}
+}

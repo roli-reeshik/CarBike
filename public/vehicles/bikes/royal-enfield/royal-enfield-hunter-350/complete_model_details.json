@@ -1,0 +1,52 @@
+{
+  "model": "Royal Enfield Hunter 350",
+  "slug": "royal-enfield-hunter-350",
+  "exShowroomRange": "₹1.5 - ₹1.75 Lakh",
+  "brochureUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/brochure.pdf",
+  "colors": [
+    {
+      "name": "Royal Enfield Hunter 350 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/hero.jpg"
+    },
+    {
+      "name": "Royal Enfield Hunter 350 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/img_1.jpeg"
+    },
+    {
+      "name": "Royal Enfield Hunter 350 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/img_2.jpeg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Royal Enfield Hunter 350 Standard / Base",
+      "exShowroomPrice": 1.5,
+      "onRoadPriceEst": 1.69,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Royal Enfield Hunter 350 Top / Luxury",
+      "exShowroomPrice": 1.75,
+      "onRoadPriceEst": 2.01,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.25 Lakh"
+    }
+  ],
+  "specs": {}
+}

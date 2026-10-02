@@ -1,0 +1,52 @@
+{
+  "model": "Mahindra Scorpio-N",
+  "slug": "mahindra-scorpio-n",
+  "exShowroomRange": "₹13.85 - ₹24.54 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Mahindra Scorpio-N Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Mahindra Scorpio-N Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Mahindra Scorpio-N Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Mahindra Scorpio-N Standard / Base",
+      "exShowroomPrice": 13.85,
+      "onRoadPriceEst": 15.65,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Mahindra Scorpio-N Top / Luxury",
+      "exShowroomPrice": 24.54,
+      "onRoadPriceEst": 28.22,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹10.69 Lakh"
+    }
+  ],
+  "specs": {}
+}

@@ -1,0 +1,42 @@
+{
+  "model": "Tata Punch",
+  "slug": "tata-punch",
+  "exShowroomRange": "₹6.13 - ₹10.2 Lakh",
+  "brochureUrl": "/cars/tata/tata-punch/brochure.pdf",
+  "colors": [
+    {
+      "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/tata/tata-punch/hero.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Tata Punch Standard / Base",
+      "exShowroomPrice": 6.13,
+      "onRoadPriceEst": 6.93,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Tata Punch Top / Luxury",
+      "exShowroomPrice": 10.2,
+      "onRoadPriceEst": 11.73,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹4.07 Lakh"
+    }
+  ],
+  "specs": {}
+}

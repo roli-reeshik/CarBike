@@ -1,0 +1,194 @@
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum VehicleType {
+  CAR
+  BIKE
+}
+
+enum LaunchStatus {
+  UPCOMING
+  PRE_BOOKING_OPEN
+  NEW_LAUNCH
+  POPULAR
+  LAUNCHED
+  DISCONTINUED
+}
+
+enum LeadType {
+  OFFER
+  TEST_DRIVE
+  LAUNCH_ALERT
+}
+
+enum LeadStatus {
+  PENDING
+  CONTACTED
+  CLOSED
+}
+
+model Brand {
+  id          String      @id @default(cuid())
+  name        String      @unique
+  slug        String      @unique
+  logoUrl     String?
+  vehicleType VehicleType
+  vehicles    Vehicle[]
+  dealers     Dealer[]
+  createdAt   DateTime    @default(now())
+}
+
+model Vehicle {
+  id                String       @id @default(cuid())
+  brandId           String
+  brand             Brand        @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  name              String
+  slug              String       @unique
+  category          VehicleType
+  tagline           String?
+  bodyType          String // SUV, Sedan, Cruiser, Commuter, etc.
+  fuelTypes         String[] // Petrol, Diesel, EV, CNG
+  transmissionTypes String[] // Manual, Automatic
+  heroImage         String
+  priceMin          Decimal      @db.Decimal(10, 2)
+  priceMax          Decimal      @db.Decimal(10, 2)
+  budgetRange       String // under_8, 8_15, 15_25, 25_plus, under_1.5, 1.5_2.5, etc.
+  ncapRating        Int?
+  isFeatured        Boolean      @default(false)
+
+  // Upcoming Vehicle Lifecycle Fields
+  launchStatus         LaunchStatus @default(LAUNCHED)
+  expectedLaunchDate   String?
+  isDateConfirmed      Boolean      @default(false)
+  expectedPriceMinLakh Decimal?     @db.Decimal(10, 2)
+  expectedPriceMaxLakh Decimal?     @db.Decimal(10, 2)
+  preBookingAmount     String?
+  spyShotGallery       String[]     @default([])
+
+  // Engine & Performance Specs
+  engineOrBattery   String
+  powerBhp          String
+  torqueNm          String
+  mileageOrRange    String
+  groundClearanceMm Int?
+  seatingCapacity   Int? // 5, 7 for Cars
+  bikeStyle         String? // Commuter, Cruiser, Sport for Bikes
+
+  // Deep specs & features from Excel workbooks
+  engineSpecs   Json? // Stores structured objects from Engine.xlsx
+  featureMatrix Json? // Stores category and feature objects with trim matrix from Features.xlsx
+
+  variants Variant[]
+  colors   VehicleColor[]
+  dealers  Dealer[]
+  reviews  Review[]
+  leads    Lead[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([category, budgetRange])
+  @@index([category, bodyType])
+  @@index([launchStatus])
+}
+
+model Variant {
+  id              String   @id @default(cuid())
+  vehicleId       String
+  vehicle         Vehicle  @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  name            String
+  powertrain      String? // i-VTEC (Petrol) or e:HEV (Strong Hybrid)
+  exShowroomPrice Decimal  @db.Decimal(10, 2)
+  onRoadPriceEst  Decimal? @db.Decimal(10, 2)
+  engineCc        Int?
+  powerBhp        Decimal? @db.Decimal(6, 2)
+  torqueNm        Decimal? @db.Decimal(6, 2)
+  mileageKmpl     Decimal? @db.Decimal(5, 2)
+  transmission    String
+  seatingCapacity Int?
+  keyFeatures     String[]
+  leads           Lead[]
+  createdAt       DateTime @default(now())
+}
+
+model VehicleColor {
+  id         String  @id @default(cuid())
+  vehicleId  String
+  vehicle    Vehicle @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  name       String
+  hexCode    String?
+  previewUrl String
+  imageUrl   String? // Direct path to vehicle image asset
+}
+
+enum OutletType {
+  SHOWROOM
+  SERVICE
+  THREE_S_FACILITY
+}
+
+model Dealer {
+  id             String     @id @default(cuid())
+  brandId        String
+  brand          Brand      @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  vehicleId      String?
+  vehicle        Vehicle?   @relation(fields: [vehicleId], references: [id], onDelete: SetNull)
+  name           String // e.g. "Courtesy Honda", "Koncept Hyundai", "Ring Road Škoda"
+  dealerCode     String?
+  outletType     OutletType @default(SHOWROOM) // SHOWROOM | SERVICE | 3S_FACILITY
+  address        String
+  city           String
+  state          String
+  pincode        String?
+  phone          String
+  email          String?
+  rating         Float?     @default(4.2)
+  reviewCount    Int?       @default(150)
+  latitude       Float?
+  longitude      Float?
+  googleMapsUrl  String?
+  operatingHours String?    @default("9:30 AM - 7:30 PM (Mon-Sun)")
+  isVerified     Boolean    @default(true)
+  createdAt      DateTime   @default(now())
+  updatedAt      DateTime   @updatedAt
+
+  @@index([brandId])
+  @@index([city])
+  @@index([state])
+}
+
+model Review {
+  id            String   @id @default(cuid())
+  vehicleId     String
+  vehicle       Vehicle  @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  authorName    String
+  city          String
+  ratingOverall Int // 1-5
+  ratingMileage Int?
+  ratingComfort Int?
+  title         String
+  comment       String
+  isVerified    Boolean  @default(true)
+  createdAt     DateTime @default(now())
+}
+
+model Lead {
+  id        String     @id @default(cuid())
+  userName  String
+  phone     String
+  city      String
+  vehicleId String
+  vehicle   Vehicle    @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  variantId String?
+  variant   Variant?   @relation(fields: [variantId], references: [id], onDelete: SetNull)
+  leadType  LeadType   @default(OFFER)
+  status    LeadStatus @default(PENDING)
+  createdAt DateTime   @default(now())
+}

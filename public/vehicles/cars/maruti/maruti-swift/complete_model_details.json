@@ -1,0 +1,52 @@
+{
+  "model": "Maruti Swift",
+  "slug": "maruti-swift",
+  "exShowroomRange": "₹6.49 - ₹9.6 Lakh",
+  "brochureUrl": "/cars/maruti/maruti-swift/brochure.pdf",
+  "colors": [
+    {
+      "name": "Maruti Swift Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/vehicles/cars/maruti/maruti-swift/Swift-1.png"
+    },
+    {
+      "name": "Maruti Swift Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/maruti/maruti-swift/img_1.jpg"
+    },
+    {
+      "name": "Maruti Swift Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/maruti/maruti-swift/img_2.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Maruti Swift Standard / Base",
+      "exShowroomPrice": 6.49,
+      "onRoadPriceEst": 7.33,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Maruti Swift Top / Luxury",
+      "exShowroomPrice": 9.6,
+      "onRoadPriceEst": 11.04,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹3.11 Lakh"
+    }
+  ],
+  "specs": {}
+}

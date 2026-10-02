@@ -1,0 +1,4878 @@
+[
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Nexon",
+      "slug": "tata-nexon",
+      "category": "CAR",
+      "tagline": "All-new Tata Nexon engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/tata/tata-nexon/hero.png",
+      "brochureUrl": "/vehicles/cars/tata/tata-nexon/brochure.pdf",
+      "priceMin": 8.15,
+      "priceMax": 15.6,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/tata/tata-nexon/hero.png",
+        "/vehicles/cars/tata/tata-nexon/img_1.png",
+        "/vehicles/cars/tata/tata-nexon/img_2.png",
+        "/vehicles/cars/tata/tata-nexon/img_3.png",
+        "/vehicles/cars/tata/tata-nexon/img_4.png",
+        "/vehicles/cars/tata/tata-nexon/img_5.png",
+        "/vehicles/cars/tata/tata-nexon/img_6.jpg",
+        "/vehicles/cars/tata/tata-nexon/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-nexon/hero.png"
+        },
+        {
+          "name": "Gncap 5 Star Rating",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-nexon/img_1.png"
+        },
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-nexon/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Nexon Smart / Pure (Base)",
+          "exShowroomPrice": 8.15,
+          "onRoadPriceEst": 9.21,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Nexon Creative (Mid)",
+          "exShowroomPrice": 10.63,
+          "onRoadPriceEst": 12.12,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.48 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Tata Nexon Fearless / Top Spec",
+          "exShowroomPrice": 15.6,
+          "onRoadPriceEst": 17.94,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹7.45 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Punch",
+      "slug": "tata-punch",
+      "category": "CAR",
+      "tagline": "All-new Tata Punch engineered for superior performance and comfort.",
+      "bodyType": "Micro SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/tata/tata-punch/hero.png",
+      "brochureUrl": "/vehicles/cars/tata/tata-punch/brochure.pdf",
+      "priceMin": 6.13,
+      "priceMax": 10.2,
+      "budgetRange": "under_8",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/tata/tata-punch/hero.png",
+        "/vehicles/cars/tata/tata-punch/img_1.png",
+        "/vehicles/cars/tata/tata-punch/img_2.png",
+        "/vehicles/cars/tata/tata-punch/img_3.png",
+        "/vehicles/cars/tata/tata-punch/img_4.png",
+        "/vehicles/cars/tata/tata-punch/img_5.png",
+        "/vehicles/cars/tata/tata-punch/img_6.jpg",
+        "/vehicles/cars/tata/tata-punch/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "6 Airbags As Standard",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-punch/hero.png"
+        },
+        {
+          "name": "Auto Dimming Irvm",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-punch/img_1.png"
+        },
+        {
+          "name": "Itpms",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-punch/img_2.png"
+        },
+        {
+          "name": "Auto Headlamps & Rain Sensing Wipers",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-punch/img_3.png"
+        },
+        {
+          "name": "Front Fog Lamps With Cornering Function",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-punch/img_4.png"
+        },
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-punch/img_5.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Punch Smart / Pure (Base)",
+          "exShowroomPrice": 6.13,
+          "onRoadPriceEst": 6.93,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Punch Creative (Mid)",
+          "exShowroomPrice": 7.49,
+          "onRoadPriceEst": 8.54,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.36 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Tata Punch Fearless / Top Spec",
+          "exShowroomPrice": 10.2,
+          "onRoadPriceEst": 11.73,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹4.07 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Curvv",
+      "slug": "tata-curvv",
+      "category": "CAR",
+      "tagline": "All-new Tata Curvv engineered for superior performance and comfort.",
+      "bodyType": "SUV Coupe",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/tata/tata-curvv/hero.jpg",
+      "brochureUrl": "/vehicles/cars/tata/tata-curvv/brochure.pdf",
+      "priceMin": 9.99,
+      "priceMax": 17.69,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/tata/tata-curvv/hero.jpg",
+        "/vehicles/cars/tata/tata-curvv/img_1.jpg",
+        "/vehicles/cars/tata/tata-curvv/img_2.png",
+        "/vehicles/cars/tata/tata-curvv/img_3.png",
+        "/vehicles/cars/tata/tata-curvv/img_4.png",
+        "/vehicles/cars/tata/tata-curvv/img_5.png",
+        "/vehicles/cars/tata/tata-curvv/img_6.png"
+      ],
+      "colors": [
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-curvv/hero.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Curvv Smart / Pure (Base)",
+          "exShowroomPrice": 9.99,
+          "onRoadPriceEst": 11.29,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Curvv Creative (Mid)",
+          "exShowroomPrice": 12.56,
+          "onRoadPriceEst": 14.32,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.57 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Tata Curvv Fearless / Top Spec",
+          "exShowroomPrice": 17.69,
+          "onRoadPriceEst": 20.34,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹7.7 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Harrier",
+      "slug": "tata-harrier",
+      "category": "CAR",
+      "tagline": "All-new Tata Harrier engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/tata/tata-harrier/hero.png",
+      "brochureUrl": "/vehicles/cars/tata/tata-harrier/brochure.pdf",
+      "priceMin": 15.49,
+      "priceMax": 26.44,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/tata/tata-harrier/hero.png",
+        "/vehicles/cars/tata/tata-harrier/img_1.png",
+        "/vehicles/cars/tata/tata-harrier/img_2.png",
+        "/vehicles/cars/tata/tata-harrier/img_3.png",
+        "/vehicles/cars/tata/tata-harrier/img_4.png",
+        "/vehicles/cars/tata/tata-harrier/img_5.png",
+        "/vehicles/cars/tata/tata-harrier/img_6.png",
+        "/vehicles/cars/tata/tata-harrier/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/hero.png"
+        },
+        {
+          "name": "Land Rover D8 Derived Omegarc Platform",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_1.png"
+        },
+        {
+          "name": "5 Star Rating",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_2.png"
+        },
+        {
+          "name": "Built In 7 Airbags",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_3.png"
+        },
+        {
+          "name": "Emergency Call/Break Down Call",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_4.png"
+        },
+        {
+          "name": "Advanced Electronic Stability Program ( Esp)",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_5.png"
+        },
+        {
+          "name": "Tyre Pressure Monitoring System",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_6.png"
+        },
+        {
+          "name": "Adaptive Cruise Control With Stop & Go",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_7.png"
+        },
+        {
+          "name": "Adaptive Steering Assist With Acc",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/hero.png"
+        },
+        {
+          "name": "Lane Keep Assist",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/tata/tata-harrier/img_1.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Harrier Smart / Pure (Base)",
+          "exShowroomPrice": 15.49,
+          "onRoadPriceEst": 17.5,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Harrier Creative (Mid)",
+          "exShowroomPrice": 19.14,
+          "onRoadPriceEst": 21.82,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹3.65 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Tata Harrier Fearless / Top Spec",
+          "exShowroomPrice": 26.44,
+          "onRoadPriceEst": 30.41,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹10.95 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Brezza",
+      "slug": "maruti-brezza",
+      "category": "CAR",
+      "tagline": "All-new Maruti Brezza engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/maruti/maruti-brezza/hero.png",
+      "brochureUrl": "/vehicles/cars/maruti/maruti-brezza/brochure.pdf",
+      "priceMin": 8.34,
+      "priceMax": 14.14,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/maruti/maruti-brezza/hero.png",
+        "/vehicles/cars/maruti/maruti-brezza/img_1.jpg",
+        "/vehicles/cars/maruti/maruti-brezza/img_2.jpg",
+        "/vehicles/cars/maruti/maruti-brezza/img_3.jpg",
+        "/vehicles/cars/maruti/maruti-brezza/img_4.jpg",
+        "/vehicles/cars/maruti/maruti-brezza/img_5.jpg",
+        "/vehicles/cars/maruti/maruti-brezza/img_6.jpg",
+        "/vehicles/cars/maruti/maruti-brezza/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/maruti/maruti-brezza/hero.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/maruti/maruti-brezza/img_1.jpg"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/maruti/maruti-brezza/img_2.jpg"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/maruti/maruti-brezza/img_3.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Brezza Smart / Pure (Base)",
+          "exShowroomPrice": 8.34,
+          "onRoadPriceEst": 9.42,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Brezza Creative (Mid)",
+          "exShowroomPrice": 10.27,
+          "onRoadPriceEst": 11.71,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.93 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Maruti Brezza Fearless / Top Spec",
+          "exShowroomPrice": 14.14,
+          "onRoadPriceEst": 16.26,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹5.8 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Swift",
+      "slug": "maruti-swift",
+      "category": "CAR",
+      "tagline": "All-new Maruti Swift engineered for superior performance and comfort.",
+      "bodyType": "Hatchback",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/maruti/maruti-swift/Swift-1.png",
+      "brochureUrl": "/vehicles/cars/maruti/maruti-swift/brochure.pdf",
+      "priceMin": 6.49,
+      "priceMax": 9.6,
+      "budgetRange": "under_8",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/maruti/maruti-swift/Swift-1.png",
+        "/vehicles/cars/maruti/maruti-swift/img_1.png",
+        "/vehicles/cars/maruti/maruti-swift/img_2.png",
+        "/vehicles/cars/maruti/maruti-swift/img_3.png",
+        "/vehicles/cars/maruti/maruti-swift/img_4.jpg",
+        "/vehicles/cars/maruti/maruti-swift/img_5.jpg",
+        "/vehicles/cars/maruti/maruti-swift/img_6.png",
+        "/vehicles/cars/maruti/maruti-swift/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/maruti/maruti-swift/Swift-1.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/maruti/maruti-swift/img_1.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/maruti/maruti-swift/img_2.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/maruti/maruti-swift/img_3.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Swift Smart / Pure (Base)",
+          "exShowroomPrice": 6.49,
+          "onRoadPriceEst": 7.33,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Swift Creative (Mid)",
+          "exShowroomPrice": 7.53,
+          "onRoadPriceEst": 8.58,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.04 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Maruti Swift Fearless / Top Spec",
+          "exShowroomPrice": 9.6,
+          "onRoadPriceEst": 11.04,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹3.11 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Dzire",
+      "slug": "maruti-dzire",
+      "category": "CAR",
+      "tagline": "All-new Maruti Dzire engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/maruti/maruti-dzire/Dezire.png",
+      "brochureUrl": "/vehicles/cars/maruti/maruti-dzire/brochure.pdf",
+      "priceMin": 6.79,
+      "priceMax": 10.14,
+      "budgetRange": "under_8",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/maruti/maruti-dzire/Dezire.png",
+        "/vehicles/cars/maruti/maruti-dzire/img_1.png",
+        "/vehicles/cars/maruti/maruti-dzire/img_2.png",
+        "/vehicles/cars/maruti/maruti-dzire/img_3.png",
+        "/vehicles/cars/maruti/maruti-dzire/img_4.jpg",
+        "/vehicles/cars/maruti/maruti-dzire/img_5.jpg",
+        "/vehicles/cars/maruti/maruti-dzire/img_6.png",
+        "/vehicles/cars/maruti/maruti-dzire/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/maruti/maruti-dzire/Dezire.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/maruti/maruti-dzire/img_1.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/maruti/maruti-dzire/img_2.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/maruti/maruti-dzire/img_3.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Dzire Smart / Pure (Base)",
+          "exShowroomPrice": 6.79,
+          "onRoadPriceEst": 7.67,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Dzire Creative (Mid)",
+          "exShowroomPrice": 7.91,
+          "onRoadPriceEst": 9.02,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.12 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Maruti Dzire Fearless / Top Spec",
+          "exShowroomPrice": 10.14,
+          "onRoadPriceEst": 11.66,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹3.35 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Ertiga",
+      "slug": "maruti-ertiga",
+      "category": "CAR",
+      "tagline": "All-new Maruti Ertiga engineered for superior performance and comfort.",
+      "bodyType": "MUV / MPV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/maruti/maruti-ertiga/hero.png",
+      "brochureUrl": "/vehicles/cars/maruti/maruti-ertiga/brochure.pdf",
+      "priceMin": 8.69,
+      "priceMax": 13.03,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/maruti/maruti-ertiga/hero.png",
+        "/vehicles/cars/maruti/maruti-ertiga/img_1.png",
+        "/vehicles/cars/maruti/maruti-ertiga/img_2.png",
+        "/vehicles/cars/maruti/maruti-ertiga/img_3.png",
+        "/vehicles/cars/maruti/maruti-ertiga/img_4.jpg",
+        "/vehicles/cars/maruti/maruti-ertiga/img_5.jpg",
+        "/vehicles/cars/maruti/maruti-ertiga/img_6.jpg",
+        "/vehicles/cars/maruti/maruti-ertiga/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/maruti/maruti-ertiga/hero.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/maruti/maruti-ertiga/img_1.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/maruti/maruti-ertiga/img_2.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/maruti/maruti-ertiga/img_3.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Ertiga Smart / Pure (Base)",
+          "exShowroomPrice": 8.69,
+          "onRoadPriceEst": 9.82,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Ertiga Creative (Mid)",
+          "exShowroomPrice": 10.14,
+          "onRoadPriceEst": 11.56,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.45 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Maruti Ertiga Fearless / Top Spec",
+          "exShowroomPrice": 13.03,
+          "onRoadPriceEst": 14.98,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹4.34 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Mahindra Auto",
+      "slug": "mahindra",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Mahindra XUV700",
+      "slug": "mahindra-xuv700",
+      "category": "CAR",
+      "tagline": "All-new Mahindra XUV700 engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/mahindra/mahindra-xuv700/hero.jpg",
+      "brochureUrl": null,
+      "priceMin": 14.49,
+      "priceMax": 26.99,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mahindra XUV700 Smart / Pure (Base)",
+          "exShowroomPrice": 14.49,
+          "onRoadPriceEst": 16.37,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Mahindra XUV700 Creative (Mid)",
+          "exShowroomPrice": 18.66,
+          "onRoadPriceEst": 21.27,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹4.17 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Mahindra XUV700 Fearless / Top Spec",
+          "exShowroomPrice": 26.99,
+          "onRoadPriceEst": 31.04,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹12.5 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Mahindra Auto",
+      "slug": "mahindra",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Mahindra Thar",
+      "slug": "mahindra-thar",
+      "category": "CAR",
+      "tagline": "All-new Mahindra Thar engineered for superior performance and comfort.",
+      "bodyType": "Off-Roader (4x4)",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/mahindra/mahindra-thar/hero.jpg",
+      "brochureUrl": null,
+      "priceMin": 11.35,
+      "priceMax": 17.6,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mahindra Thar Smart / Pure (Base)",
+          "exShowroomPrice": 11.35,
+          "onRoadPriceEst": 12.83,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Mahindra Thar Creative (Mid)",
+          "exShowroomPrice": 13.43,
+          "onRoadPriceEst": 15.31,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.08 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Mahindra Thar Fearless / Top Spec",
+          "exShowroomPrice": 17.6,
+          "onRoadPriceEst": 20.24,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹6.25 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Mahindra Auto",
+      "slug": "mahindra",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Mahindra Scorpio-N",
+      "slug": "mahindra-scorpio-n",
+      "category": "CAR",
+      "tagline": "All-new Mahindra Scorpio-N engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/mahindra/mahindra-scorpio-n/hero.jpg",
+      "brochureUrl": null,
+      "priceMin": 13.85,
+      "priceMax": 24.54,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mahindra Scorpio-N Smart / Pure (Base)",
+          "exShowroomPrice": 13.85,
+          "onRoadPriceEst": 15.65,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Mahindra Scorpio-N Creative (Mid)",
+          "exShowroomPrice": 17.41,
+          "onRoadPriceEst": 19.85,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹3.56 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Mahindra Scorpio-N Fearless / Top Spec",
+          "exShowroomPrice": 24.54,
+          "onRoadPriceEst": 28.22,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹10.69 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hyundai India",
+      "slug": "hyundai",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Hyundai Creta",
+      "slug": "hyundai-creta",
+      "category": "CAR",
+      "tagline": "All-new Hyundai Creta engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/hyundai/hyundai-creta/img_2.png",
+      "brochureUrl": "/vehicles/cars/hyundai/hyundai-creta/brochure.pdf",
+      "priceMin": 11.0,
+      "priceMax": 20.15,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/hyundai/hyundai-creta/img_2.png",
+        "/vehicles/cars/hyundai/hyundai-creta/img_3.png",
+        "/vehicles/cars/hyundai/hyundai-creta/img_4.png",
+        "/vehicles/cars/hyundai/hyundai-creta/img_5.png",
+        "/vehicles/cars/hyundai/hyundai-creta/img_6.png",
+        "/vehicles/cars/hyundai/hyundai-creta/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-creta/img_2.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-creta/img_3.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-creta/img_4.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-creta/img_5.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hyundai Creta Smart / Pure (Base)",
+          "exShowroomPrice": 11.0,
+          "onRoadPriceEst": 12.43,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hyundai Creta Creative (Mid)",
+          "exShowroomPrice": 14.05,
+          "onRoadPriceEst": 16.02,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹3.05 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Hyundai Creta Fearless / Top Spec",
+          "exShowroomPrice": 20.15,
+          "onRoadPriceEst": 23.17,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹9.15 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hyundai India",
+      "slug": "hyundai",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Hyundai Venue",
+      "slug": "hyundai-venue",
+      "category": "CAR",
+      "tagline": "All-new Hyundai Venue engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/hyundai/hyundai-venue/img_2.png",
+      "brochureUrl": "/vehicles/cars/hyundai/hyundai-venue/brochure.pdf",
+      "priceMin": 7.94,
+      "priceMax": 13.48,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/hyundai/hyundai-venue/img_2.png",
+        "/vehicles/cars/hyundai/hyundai-venue/img_3.png",
+        "/vehicles/cars/hyundai/hyundai-venue/img_4.png",
+        "/vehicles/cars/hyundai/hyundai-venue/img_5.png",
+        "/vehicles/cars/hyundai/hyundai-venue/img_6.png",
+        "/vehicles/cars/hyundai/hyundai-venue/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_2.png"
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_3.png"
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_4.png"
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_5.png"
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_6.png"
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_7.png"
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_2.png"
+        },
+        {
+          "name": "Color 8",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_3.png"
+        },
+        {
+          "name": "Color 9",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_4.png"
+        },
+        {
+          "name": "Color 10",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-venue/img_5.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hyundai Venue Smart / Pure (Base)",
+          "exShowroomPrice": 7.94,
+          "onRoadPriceEst": 8.97,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hyundai Venue Creative (Mid)",
+          "exShowroomPrice": 9.79,
+          "onRoadPriceEst": 11.16,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.85 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Hyundai Venue Fearless / Top Spec",
+          "exShowroomPrice": 13.48,
+          "onRoadPriceEst": 15.5,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹5.54 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Royal Enfield",
+      "slug": "royal-enfield",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Royal Enfield Classic 350",
+      "slug": "royal-enfield-classic-350",
+      "category": "BIKE",
+      "tagline": "All-new Royal Enfield Classic 350 engineered for superior performance and comfort.",
+      "bodyType": "Cruiser",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/hero.webp",
+      "brochureUrl": "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/brochure.pdf",
+      "priceMin": 1.93,
+      "priceMax": 2.3,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Cruiser",
+      "galleryImages": [
+        "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/hero.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_2.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_3.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_4.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_5.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_6.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/hero.webp"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_2.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_3.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-classic-350/img_4.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Royal Enfield Classic 350 Smart / Pure (Base)",
+          "exShowroomPrice": 1.93,
+          "onRoadPriceEst": 2.18,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Royal Enfield Classic 350 Creative (Mid)",
+          "exShowroomPrice": 2.05,
+          "onRoadPriceEst": 2.34,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.12 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Royal Enfield Classic 350 Fearless / Top Spec",
+          "exShowroomPrice": 2.3,
+          "onRoadPriceEst": 2.64,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.37 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Royal Enfield",
+      "slug": "royal-enfield",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Royal Enfield Hunter 350",
+      "slug": "royal-enfield-hunter-350",
+      "category": "BIKE",
+      "tagline": "All-new Royal Enfield Hunter 350 engineered for superior performance and comfort.",
+      "bodyType": "Roadster",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/hero.webp",
+      "brochureUrl": "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/brochure.pdf",
+      "priceMin": 1.5,
+      "priceMax": 1.75,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Roadster",
+      "galleryImages": [
+        "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/hero.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_2.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_3.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_4.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_5.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_6.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/hero.webp"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_2.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_3.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-hunter-350/img_4.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Royal Enfield Hunter 350 Smart / Pure (Base)",
+          "exShowroomPrice": 1.5,
+          "onRoadPriceEst": 1.69,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Royal Enfield Hunter 350 Creative (Mid)",
+          "exShowroomPrice": 1.58,
+          "onRoadPriceEst": 1.8,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.08 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Royal Enfield Hunter 350 Fearless / Top Spec",
+          "exShowroomPrice": 1.75,
+          "onRoadPriceEst": 2.01,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.25 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Royal Enfield",
+      "slug": "royal-enfield",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Royal Enfield Himalayan 450",
+      "slug": "royal-enfield-himalayan-450",
+      "category": "BIKE",
+      "tagline": "All-new Royal Enfield Himalayan 450 engineered for superior performance and comfort.",
+      "bodyType": "Adventure / Tourer",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/hero.webp",
+      "brochureUrl": "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/brochure.pdf",
+      "priceMin": 2.85,
+      "priceMax": 2.98,
+      "budgetRange": "2.5_plus",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Adventure / Tourer",
+      "galleryImages": [
+        "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/hero.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_2.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_3.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_4.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_5.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_6.webp",
+        "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/hero.webp"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_2.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_3.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/royal-enfield/royal-enfield-himalayan-450/img_4.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Royal Enfield Himalayan 450 Smart / Pure (Base)",
+          "exShowroomPrice": 2.85,
+          "onRoadPriceEst": 3.22,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Royal Enfield Himalayan 450 Creative (Mid)",
+          "exShowroomPrice": 2.89,
+          "onRoadPriceEst": 3.29,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.04 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Royal Enfield Himalayan 450 Fearless / Top Spec",
+          "exShowroomPrice": 2.98,
+          "onRoadPriceEst": 3.43,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.13 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "TVS Motor",
+      "slug": "tvs",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "TVS Raider 125",
+      "slug": "tvs-raider-125",
+      "category": "BIKE",
+      "tagline": "All-new TVS Raider 125 engineered for superior performance and comfort.",
+      "bodyType": "Commuter",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/tvs/tvs-raider-125/hero.webp",
+      "brochureUrl": "/vehicles/bikes/tvs/tvs-raider-125/brochure.pdf",
+      "priceMin": 0.95,
+      "priceMax": 1.05,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Commuter",
+      "galleryImages": [
+        "/vehicles/bikes/tvs/tvs-raider-125/hero.webp",
+        "/vehicles/bikes/tvs/tvs-raider-125/img_1.webp",
+        "/vehicles/bikes/tvs/tvs-raider-125/img_2.webp",
+        "/vehicles/bikes/tvs/tvs-raider-125/img_3.webp",
+        "/vehicles/bikes/tvs/tvs-raider-125/img_4.webp",
+        "/vehicles/bikes/tvs/tvs-raider-125/img_5.webp",
+        "/vehicles/bikes/tvs/tvs-raider-125/img_6.webp",
+        "/vehicles/bikes/tvs/tvs-raider-125/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Nitro Green",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/hero.webp"
+        },
+        {
+          "name": "/Tvs-Raider/-/Media/Brand-Pages-Webp/Raider/Raider-360/360-Raider/Tft-Dd/Nitro-Green/1.Webp",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_1.webp"
+        },
+        {
+          "name": "Striking Red",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_2.webp"
+        },
+        {
+          "name": "/Tvs-Raider/-/Media/Brand-Pages-Webp/Raider/Raider-360/360-Raider/Tft-Dd/Striking-Red/1.Webp",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_3.webp"
+        },
+        {
+          "name": "Metallic Blue",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_4.webp"
+        },
+        {
+          "name": "/Tvs-Raider/-/Media/Brand-Pages-Webp/Raider/Raider-360/360-Raider/Tft-Dd/Metallicblue/1.Webp",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_5.webp"
+        },
+        {
+          "name": "Nitro Green",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_6.webp"
+        },
+        {
+          "name": "/Tvs-Raider/-/Media/Brand-Pages-Webp/Raider/Raider-360/360-Raider/Sxc-Dd/Nitro-Green/1.Webp",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_7.webp"
+        },
+        {
+          "name": "Striking Red",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/hero.webp"
+        },
+        {
+          "name": "/Tvs-Raider/-/Media/Brand-Pages-Webp/Raider/Raider-360/360-Raider/Sxc-Dd/Striking-Red/1.Webp",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-raider-125/img_1.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "TVS Raider 125 Smart / Pure (Base)",
+          "exShowroomPrice": 0.95,
+          "onRoadPriceEst": 1.07,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "TVS Raider 125 Creative (Mid)",
+          "exShowroomPrice": 0.98,
+          "onRoadPriceEst": 1.12,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.03 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "TVS Raider 125 Fearless / Top Spec",
+          "exShowroomPrice": 1.05,
+          "onRoadPriceEst": 1.21,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.1 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "TVS Motor",
+      "slug": "tvs",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "TVS Apache RTR 160",
+      "slug": "tvs-apache-rtr-160",
+      "category": "BIKE",
+      "tagline": "All-new TVS Apache RTR 160 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/tvs/tvs-apache-rtr-160/hero.webp",
+      "brochureUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/brochure.pdf",
+      "priceMin": 1.25,
+      "priceMax": 1.38,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/hero.webp",
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_1.webp",
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_2.webp",
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_3.webp",
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_4.webp",
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_5.webp",
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_6.webp",
+        "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/hero.webp"
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_1.webp"
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_2.webp"
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_3.webp"
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_4.webp"
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_5.webp"
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_6.webp"
+        },
+        {
+          "name": "Color 8",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_7.webp"
+        },
+        {
+          "name": "Color 9",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/hero.webp"
+        },
+        {
+          "name": "Color 10",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/tvs/tvs-apache-rtr-160/img_1.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "TVS Apache RTR 160 Smart / Pure (Base)",
+          "exShowroomPrice": 1.25,
+          "onRoadPriceEst": 1.41,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "TVS Apache RTR 160 Creative (Mid)",
+          "exShowroomPrice": 1.29,
+          "onRoadPriceEst": 1.47,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.04 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "TVS Apache RTR 160 Fearless / Top Spec",
+          "exShowroomPrice": 1.38,
+          "onRoadPriceEst": 1.59,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.13 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hero MotoCorp",
+      "slug": "hero",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Hero Splendor Plus",
+      "slug": "hero-splendor-plus",
+      "category": "BIKE",
+      "tagline": "All-new Hero Splendor Plus engineered for superior performance and comfort.",
+      "bodyType": "Commuter",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/hero/hero-splendor-plus/hero.jpg",
+      "brochureUrl": "/vehicles/bikes/hero/hero-splendor-plus/brochure.pdf",
+      "priceMin": 0.75,
+      "priceMax": 0.79,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Commuter",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hero Splendor Plus Smart / Pure (Base)",
+          "exShowroomPrice": 0.75,
+          "onRoadPriceEst": 0.85,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hero Splendor Plus Creative (Mid)",
+          "exShowroomPrice": 0.76,
+          "onRoadPriceEst": 0.87,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.01 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Hero Splendor Plus Fearless / Top Spec",
+          "exShowroomPrice": 0.79,
+          "onRoadPriceEst": 0.91,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.04 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hero MotoCorp",
+      "slug": "hero",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Hero Xtreme 125R",
+      "slug": "hero-xtreme-125r",
+      "category": "BIKE",
+      "tagline": "All-new Hero Xtreme 125R engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/hero/hero-xtreme-125r/img_1.png",
+      "brochureUrl": "/vehicles/bikes/hero/hero-xtreme-125r/brochure.pdf",
+      "priceMin": 0.95,
+      "priceMax": 1.0,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/vehicles/bikes/hero/hero-xtreme-125r/img_1.png",
+        "/vehicles/bikes/hero/hero-xtreme-125r/img_2.png",
+        "/vehicles/bikes/hero/hero-xtreme-125r/img_3.png",
+        "/vehicles/bikes/hero/hero-xtreme-125r/img_4.png",
+        "/vehicles/bikes/hero/hero-xtreme-125r/img_5.png",
+        "/vehicles/bikes/hero/hero-xtreme-125r/img_6.png",
+        "/vehicles/bikes/hero/hero-xtreme-125r/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/hero/hero-xtreme-125r/img_1.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/hero/hero-xtreme-125r/img_2.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/hero/hero-xtreme-125r/img_3.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/hero/hero-xtreme-125r/img_4.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hero Xtreme 125R Smart / Pure (Base)",
+          "exShowroomPrice": 0.95,
+          "onRoadPriceEst": 1.07,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hero Xtreme 125R Creative (Mid)",
+          "exShowroomPrice": 0.97,
+          "onRoadPriceEst": 1.11,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.02 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Hero Xtreme 125R Fearless / Top Spec",
+          "exShowroomPrice": 1.0,
+          "onRoadPriceEst": 1.15,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.05 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hyundai India",
+      "slug": "hyundai",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Hyundai Verna",
+      "slug": "hyundai-verna",
+      "category": "CAR",
+      "tagline": "All-new Hyundai Verna engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/hyundai/hyundai-verna/img_2.png",
+      "brochureUrl": "/vehicles/cars/hyundai/hyundai-verna/brochure.pdf",
+      "priceMin": 11.0,
+      "priceMax": 17.42,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/hyundai/hyundai-verna/img_2.png",
+        "/vehicles/cars/hyundai/hyundai-verna/img_3.png",
+        "/vehicles/cars/hyundai/hyundai-verna/img_4.png",
+        "/vehicles/cars/hyundai/hyundai-verna/img_5.png",
+        "/vehicles/cars/hyundai/hyundai-verna/img_6.png",
+        "/vehicles/cars/hyundai/hyundai-verna/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-verna/img_2.png"
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-verna/img_3.png"
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-verna/img_4.png"
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-verna/img_5.png"
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-verna/img_6.png"
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-verna/img_7.png"
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/hyundai/hyundai-verna/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hyundai Verna Smart / Pure (Base)",
+          "exShowroomPrice": 11.0,
+          "onRoadPriceEst": 12.43,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hyundai Verna Creative (Mid)",
+          "exShowroomPrice": 13.14,
+          "onRoadPriceEst": 14.98,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.14 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Hyundai Verna Fearless / Top Spec",
+          "exShowroomPrice": 17.42,
+          "onRoadPriceEst": 20.03,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹6.42 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Toyota India",
+      "slug": "toyota",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Toyota Innova Hycross",
+      "slug": "toyota-innova-hycross",
+      "category": "CAR",
+      "tagline": "All-new Toyota Innova Hycross engineered for superior performance and comfort.",
+      "bodyType": "MUV / MPV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/toyota/toyota-innova-hycross/hero.png",
+      "brochureUrl": null,
+      "priceMin": 19.77,
+      "priceMax": 30.98,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/toyota/toyota-innova-hycross/hero.png"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/toyota/toyota-innova-hycross/hero.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/toyota/toyota-innova-hycross/hero.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/toyota/toyota-innova-hycross/hero.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/toyota/toyota-innova-hycross/hero.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Toyota Innova Hycross Smart / Pure (Base)",
+          "exShowroomPrice": 19.77,
+          "onRoadPriceEst": 22.34,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Toyota Innova Hycross Creative (Mid)",
+          "exShowroomPrice": 23.51,
+          "onRoadPriceEst": 26.8,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹3.74 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Toyota Innova Hycross Fearless / Top Spec",
+          "exShowroomPrice": 30.98,
+          "onRoadPriceEst": 35.63,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹11.21 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Toyota India",
+      "slug": "toyota",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Toyota Urban Cruiser Hyryder",
+      "slug": "toyota-urban-cruiser-hyryder",
+      "category": "CAR",
+      "tagline": "All-new Toyota Urban Cruiser Hyryder engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/toyota/toyota-urban-cruiser-hyryder/hero.png",
+      "brochureUrl": null,
+      "priceMin": 11.14,
+      "priceMax": 20.19,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Toyota Urban Cruiser Hyryder Smart / Pure (Base)",
+          "exShowroomPrice": 11.14,
+          "onRoadPriceEst": 12.59,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Toyota Urban Cruiser Hyryder Creative (Mid)",
+          "exShowroomPrice": 14.16,
+          "onRoadPriceEst": 16.14,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹3.02 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Toyota Urban Cruiser Hyryder Fearless / Top Spec",
+          "exShowroomPrice": 20.19,
+          "onRoadPriceEst": 23.22,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹9.05 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Toyota India",
+      "slug": "toyota",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Toyota Fortuner",
+      "slug": "toyota-fortuner",
+      "category": "CAR",
+      "tagline": "All-new Toyota Fortuner engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/toyota/toyota-fortuner/hero.png",
+      "brochureUrl": null,
+      "priceMin": 33.43,
+      "priceMax": 51.44,
+      "budgetRange": "25_plus",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/toyota/toyota-fortuner/hero.png"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/toyota/toyota-fortuner/hero.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/toyota/toyota-fortuner/hero.png"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/toyota/toyota-fortuner/hero.png"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/toyota/toyota-fortuner/hero.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Toyota Fortuner Smart / Pure (Base)",
+          "exShowroomPrice": 33.43,
+          "onRoadPriceEst": 37.78,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Toyota Fortuner Creative (Mid)",
+          "exShowroomPrice": 39.43,
+          "onRoadPriceEst": 44.95,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹6.0 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Toyota Fortuner Fearless / Top Spec",
+          "exShowroomPrice": 51.44,
+          "onRoadPriceEst": 59.16,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹18.01 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Kia India",
+      "slug": "kia",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Kia Seltos",
+      "slug": "kia-seltos",
+      "category": "CAR",
+      "tagline": "All-new Kia Seltos engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/kia/kia-seltos/hero.jpg",
+      "brochureUrl": "/vehicles/cars/kia/kia-seltos/brochure.pdf",
+      "priceMin": 10.9,
+      "priceMax": 20.35,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 8",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 9",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Aurora Black Pearl",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Kia Seltos Smart / Pure (Base)",
+          "exShowroomPrice": 10.9,
+          "onRoadPriceEst": 12.32,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Kia Seltos Creative (Mid)",
+          "exShowroomPrice": 14.05,
+          "onRoadPriceEst": 16.02,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹3.15 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Kia Seltos Fearless / Top Spec",
+          "exShowroomPrice": 20.35,
+          "onRoadPriceEst": 23.4,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹9.45 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Kia India",
+      "slug": "kia",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Kia Sonet",
+      "slug": "kia-sonet",
+      "category": "CAR",
+      "tagline": "All-new Kia Sonet engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/kia/kia-sonet/hero.jpg",
+      "brochureUrl": "/vehicles/cars/kia/kia-sonet/brochure.pdf",
+      "priceMin": 7.99,
+      "priceMax": 15.75,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Aurora Black Pearl",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Matte Graphite",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        },
+        {
+          "name": "Color 10",
+          "hexCode": "#3b82f6",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Kia Sonet Smart / Pure (Base)",
+          "exShowroomPrice": 7.99,
+          "onRoadPriceEst": 9.03,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Kia Sonet Creative (Mid)",
+          "exShowroomPrice": 10.58,
+          "onRoadPriceEst": 12.06,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.59 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Kia Sonet Fearless / Top Spec",
+          "exShowroomPrice": 15.75,
+          "onRoadPriceEst": 18.11,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹7.76 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "MG Motor",
+      "slug": "mg",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "MG Hector",
+      "slug": "mg-hector",
+      "category": "CAR",
+      "tagline": "All-new MG Hector engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/mg/mg-hector/hero.png",
+      "brochureUrl": "/vehicles/cars/mg/mg-hector/brochure.pdf",
+      "priceMin": 13.99,
+      "priceMax": 22.24,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/mg/mg-hector/hero.png",
+        "/vehicles/cars/mg/mg-hector/img_1.png",
+        "/vehicles/cars/mg/mg-hector/img_2.png",
+        "/vehicles/cars/mg/mg-hector/img_3.png",
+        "/vehicles/cars/mg/mg-hector/img_4.png",
+        "/vehicles/cars/mg/mg-hector/img_5.png",
+        "/vehicles/cars/mg/mg-hector/img_6.webp"
+      ],
+      "colors": [
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/mg/mg-hector/hero.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/mg/mg-hector/img_1.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/mg/mg-hector/img_2.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/mg/mg-hector/img_3.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/cars/mg/mg-hector/img_4.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "MG Hector Smart / Pure (Base)",
+          "exShowroomPrice": 13.99,
+          "onRoadPriceEst": 15.81,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "MG Hector Creative (Mid)",
+          "exShowroomPrice": 16.74,
+          "onRoadPriceEst": 19.08,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.75 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "MG Hector Fearless / Top Spec",
+          "exShowroomPrice": 22.24,
+          "onRoadPriceEst": 25.58,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹8.25 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "MG Motor",
+      "slug": "mg",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "MG Windsor EV",
+      "slug": "mg-windsor-ev",
+      "category": "CAR",
+      "tagline": "All-new MG Windsor EV engineered for superior performance and comfort.",
+      "bodyType": "Crossover",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/mg/mg-windsor-ev/hero.webp",
+      "brochureUrl": "/vehicles/cars/mg/mg-windsor-ev/brochure.pdf",
+      "priceMin": 13.5,
+      "priceMax": 15.5,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/mg/mg-windsor-ev/hero.webp",
+        "/vehicles/cars/mg/mg-windsor-ev/img_1.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/mg/mg-windsor-ev/hero.webp"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/mg/mg-windsor-ev/img_1.jpg"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/mg/mg-windsor-ev/hero.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/mg/mg-windsor-ev/img_1.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "MG Windsor EV Smart / Pure (Base)",
+          "exShowroomPrice": 13.5,
+          "onRoadPriceEst": 15.25,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "MG Windsor EV Creative (Mid)",
+          "exShowroomPrice": 14.17,
+          "onRoadPriceEst": 16.15,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.67 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "MG Windsor EV Fearless / Top Spec",
+          "exShowroomPrice": 15.5,
+          "onRoadPriceEst": 17.82,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹2.0 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Skoda India",
+      "slug": "skoda",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Skoda Slavia",
+      "slug": "skoda-slavia",
+      "category": "CAR",
+      "tagline": "All-new Skoda Slavia engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/skoda/skoda-slavia/hero.webp",
+      "brochureUrl": null,
+      "priceMin": 10.69,
+      "priceMax": 18.69,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/skoda/skoda-slavia/hero.webp",
+        "/vehicles/cars/skoda/skoda-slavia/img_1.webp",
+        "/vehicles/cars/skoda/skoda-slavia/img_2.webp",
+        "/vehicles/cars/skoda/skoda-slavia/img_3.webp",
+        "/vehicles/cars/skoda/skoda-slavia/img_4.webp",
+        "/vehicles/cars/skoda/skoda-slavia/img_5.webp",
+        "/vehicles/cars/skoda/skoda-slavia/img_6.webp",
+        "/vehicles/cars/skoda/skoda-slavia/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/skoda/skoda-slavia/hero.webp"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/skoda/skoda-slavia/img_1.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/skoda/skoda-slavia/img_2.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/skoda/skoda-slavia/img_3.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Skoda Slavia Smart / Pure (Base)",
+          "exShowroomPrice": 10.69,
+          "onRoadPriceEst": 12.08,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Skoda Slavia Creative (Mid)",
+          "exShowroomPrice": 13.36,
+          "onRoadPriceEst": 15.23,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.67 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Skoda Slavia Fearless / Top Spec",
+          "exShowroomPrice": 18.69,
+          "onRoadPriceEst": 21.49,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹8.0 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Skoda India",
+      "slug": "skoda",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Skoda Kushaq",
+      "slug": "skoda-kushaq",
+      "category": "CAR",
+      "tagline": "All-new Skoda Kushaq engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/skoda/skoda-kushaq/Kushaq-1.png",
+      "brochureUrl": null,
+      "priceMin": 10.89,
+      "priceMax": 18.79,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/skoda/skoda-kushaq/Kushaq-1.png",
+        "/vehicles/cars/skoda/skoda-kushaq/img_1.webp",
+        "/vehicles/cars/skoda/skoda-kushaq/img_2.webp",
+        "/vehicles/cars/skoda/skoda-kushaq/img_3.webp",
+        "/vehicles/cars/skoda/skoda-kushaq/img_4.webp",
+        "/vehicles/cars/skoda/skoda-kushaq/img_5.webp",
+        "/vehicles/cars/skoda/skoda-kushaq/img_6.webp",
+        "/vehicles/cars/skoda/skoda-kushaq/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/skoda/skoda-kushaq/Kushaq-1.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/cars/skoda/skoda-kushaq/img_1.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/cars/skoda/skoda-kushaq/img_2.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/cars/skoda/skoda-kushaq/img_3.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Skoda Kushaq Smart / Pure (Base)",
+          "exShowroomPrice": 10.89,
+          "onRoadPriceEst": 12.31,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Skoda Kushaq Creative (Mid)",
+          "exShowroomPrice": 13.52,
+          "onRoadPriceEst": 15.41,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.63 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Skoda Kushaq Fearless / Top Spec",
+          "exShowroomPrice": 18.79,
+          "onRoadPriceEst": 21.61,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹7.9 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda Cars",
+      "slug": "honda-cars",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Honda Elevate",
+      "slug": "honda-elevate",
+      "category": "CAR",
+      "tagline": "All-new Honda Elevate engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/honda-cars/honda-elevate/hero.jpg",
+      "brochureUrl": "/vehicles/cars/honda-cars/honda-elevate/brochure.pdf",
+      "priceMin": 11.69,
+      "priceMax": 16.43,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda Elevate Smart / Pure (Base)",
+          "exShowroomPrice": 11.69,
+          "onRoadPriceEst": 13.21,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda Elevate Creative (Mid)",
+          "exShowroomPrice": 13.27,
+          "onRoadPriceEst": 15.13,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.58 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Honda Elevate Fearless / Top Spec",
+          "exShowroomPrice": 16.43,
+          "onRoadPriceEst": 18.89,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹4.74 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda Cars",
+      "slug": "honda-cars",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Honda City",
+      "slug": "honda-city",
+      "category": "CAR",
+      "tagline": "All-new Honda City engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/honda-cars/honda-city/hero.jpg",
+      "brochureUrl": "/vehicles/cars/honda-cars/honda-city/brochure.pdf",
+      "priceMin": 12.08,
+      "priceMax": 16.35,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda City Smart / Pure (Base)",
+          "exShowroomPrice": 12.08,
+          "onRoadPriceEst": 13.65,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda City Creative (Mid)",
+          "exShowroomPrice": 13.5,
+          "onRoadPriceEst": 15.39,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹1.42 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Honda City Fearless / Top Spec",
+          "exShowroomPrice": 16.35,
+          "onRoadPriceEst": 18.8,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹4.27 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Volkswagen India",
+      "slug": "volkswagen",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Volkswagen Virtus",
+      "slug": "volkswagen-virtus",
+      "category": "CAR",
+      "tagline": "All-new Volkswagen Virtus engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/volkswagen/volkswagen-virtus/hero.jpg",
+      "brochureUrl": "/vehicles/cars/volkswagen/volkswagen-virtus/brochure.pdf",
+      "priceMin": 11.56,
+      "priceMax": 19.41,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Volkswagen Virtus Smart / Pure (Base)",
+          "exShowroomPrice": 11.56,
+          "onRoadPriceEst": 13.06,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Volkswagen Virtus Creative (Mid)",
+          "exShowroomPrice": 14.18,
+          "onRoadPriceEst": 16.17,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.62 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Volkswagen Virtus Fearless / Top Spec",
+          "exShowroomPrice": 19.41,
+          "onRoadPriceEst": 22.32,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹7.85 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Volkswagen India",
+      "slug": "volkswagen",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Volkswagen Taigun",
+      "slug": "volkswagen-taigun",
+      "category": "CAR",
+      "tagline": "All-new Volkswagen Taigun engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/volkswagen/volkswagen-taigun/hero.jpg",
+      "brochureUrl": "/vehicles/cars/volkswagen/volkswagen-taigun/brochure.pdf",
+      "priceMin": 11.7,
+      "priceMax": 19.74,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Volkswagen Taigun Smart / Pure (Base)",
+          "exShowroomPrice": 11.7,
+          "onRoadPriceEst": 13.22,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Volkswagen Taigun Creative (Mid)",
+          "exShowroomPrice": 14.38,
+          "onRoadPriceEst": 16.39,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹2.68 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Volkswagen Taigun Fearless / Top Spec",
+          "exShowroomPrice": 19.74,
+          "onRoadPriceEst": 22.7,
+          "transmission": "Automatic",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹8.04 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Bajaj Auto",
+      "slug": "bajaj",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Bajaj Pulsar NS200",
+      "slug": "bajaj-pulsar-ns200",
+      "category": "BIKE",
+      "tagline": "All-new Bajaj Pulsar NS200 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/hero.webp",
+      "brochureUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/brochure.pdf",
+      "priceMin": 1.58,
+      "priceMax": 1.62,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/hero.webp",
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_1.webp",
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_2.webp",
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_3.png",
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_4.webp",
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_5.webp",
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_6.webp",
+        "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Call Us:  +91 7219821111",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/hero.webp"
+        },
+        {
+          "name": "Email:  Customerservice@Bajajauto.Co.In",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_1.webp"
+        },
+        {
+          "name": "Disc",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_2.webp"
+        },
+        {
+          "name": "Drum",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_3.png"
+        },
+        {
+          "name": "N",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_4.webp"
+        },
+        {
+          "name": "Ns",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_5.webp"
+        },
+        {
+          "name": "Rs",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_6.webp"
+        },
+        {
+          "name": "Classic",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_7.webp"
+        },
+        {
+          "name": "250",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/hero.webp"
+        },
+        {
+          "name": "400",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-pulsar-ns200/img_1.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bajaj Pulsar NS200 Smart / Pure (Base)",
+          "exShowroomPrice": 1.58,
+          "onRoadPriceEst": 1.79,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Bajaj Pulsar NS200 Creative (Mid)",
+          "exShowroomPrice": 1.59,
+          "onRoadPriceEst": 1.81,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.01 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Bajaj Pulsar NS200 Fearless / Top Spec",
+          "exShowroomPrice": 1.62,
+          "onRoadPriceEst": 1.86,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.04 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Bajaj Auto",
+      "slug": "bajaj",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Bajaj Dominar 400",
+      "slug": "bajaj-dominar-400",
+      "category": "BIKE",
+      "tagline": "All-new Bajaj Dominar 400 engineered for superior performance and comfort.",
+      "bodyType": "Adventure / Tourer",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/bajaj/bajaj-dominar-400/hero.webp",
+      "brochureUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/brochure.pdf",
+      "priceMin": 2.32,
+      "priceMax": 2.35,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Adventure / Tourer",
+      "galleryImages": [
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/hero.webp",
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/img_1.jpg",
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/img_2.webp",
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/img_3.jpg",
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/img_4.webp",
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/img_5.jpg",
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/img_6.webp",
+        "/vehicles/bikes/bajaj/bajaj-dominar-400/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Call Us:  +91 7219821111",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/hero.webp"
+        },
+        {
+          "name": "Email:  Customerservice@Bajajauto.Co.In",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_1.jpg"
+        },
+        {
+          "name": "Disc",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_2.webp"
+        },
+        {
+          "name": "Drum",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_3.jpg"
+        },
+        {
+          "name": "N",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_4.webp"
+        },
+        {
+          "name": "Ns",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_5.jpg"
+        },
+        {
+          "name": "Rs",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_6.webp"
+        },
+        {
+          "name": "Classic",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_7.jpg"
+        },
+        {
+          "name": "250",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/hero.webp"
+        },
+        {
+          "name": "400",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/vehicles/bikes/bajaj/bajaj-dominar-400/img_1.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bajaj Dominar 400 Smart / Pure (Base)",
+          "exShowroomPrice": 2.32,
+          "onRoadPriceEst": 2.62,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Bajaj Dominar 400 Creative (Mid)",
+          "exShowroomPrice": 2.33,
+          "onRoadPriceEst": 2.66,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.01 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Bajaj Dominar 400 Fearless / Top Spec",
+          "exShowroomPrice": 2.35,
+          "onRoadPriceEst": 2.7,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.03 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda 2Wheelers",
+      "slug": "honda-2wheelers",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Honda CB350",
+      "slug": "honda-cb350",
+      "category": "BIKE",
+      "tagline": "All-new Honda CB350 engineered for superior performance and comfort.",
+      "bodyType": "Cruiser",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/honda-2wheelers/honda-cb350/hero.jpg",
+      "brochureUrl": null,
+      "priceMin": 2.0,
+      "priceMax": 2.18,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Cruiser",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda CB350 Smart / Pure (Base)",
+          "exShowroomPrice": 2.0,
+          "onRoadPriceEst": 2.26,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda CB350 Creative (Mid)",
+          "exShowroomPrice": 2.06,
+          "onRoadPriceEst": 2.35,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.06 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Honda CB350 Fearless / Top Spec",
+          "exShowroomPrice": 2.18,
+          "onRoadPriceEst": 2.51,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.18 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda 2Wheelers",
+      "slug": "honda-2wheelers",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Honda SP 125",
+      "slug": "honda-sp-125",
+      "category": "BIKE",
+      "tagline": "All-new Honda SP 125 engineered for superior performance and comfort.",
+      "bodyType": "Commuter",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/honda-2wheelers/honda-sp-125/hero.jpg",
+      "brochureUrl": null,
+      "priceMin": 0.86,
+      "priceMax": 0.91,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Commuter",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda SP 125 Smart / Pure (Base)",
+          "exShowroomPrice": 0.86,
+          "onRoadPriceEst": 0.97,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda SP 125 Creative (Mid)",
+          "exShowroomPrice": 0.88,
+          "onRoadPriceEst": 1.0,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.02 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Honda SP 125 Fearless / Top Spec",
+          "exShowroomPrice": 0.91,
+          "onRoadPriceEst": 1.05,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.05 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Yamaha Motor",
+      "slug": "yamaha",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Yamaha R15 V4",
+      "slug": "yamaha-r15-v4",
+      "category": "BIKE",
+      "tagline": "All-new Yamaha R15 V4 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/yamaha/yamaha-r15-v4/hero.webp",
+      "brochureUrl": null,
+      "priceMin": 1.83,
+      "priceMax": 1.98,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/hero.webp",
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/img_1.webp",
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/img_2.webp",
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/img_3.webp",
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/img_4.webp",
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/img_5.webp",
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/img_6.webp",
+        "/vehicles/bikes/yamaha/yamaha-r15-v4/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-r15-v4/hero.webp"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-r15-v4/img_1.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-r15-v4/img_2.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-r15-v4/img_3.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Yamaha R15 V4 Smart / Pure (Base)",
+          "exShowroomPrice": 1.83,
+          "onRoadPriceEst": 2.07,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Yamaha R15 V4 Creative (Mid)",
+          "exShowroomPrice": 1.88,
+          "onRoadPriceEst": 2.14,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.05 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Yamaha R15 V4 Fearless / Top Spec",
+          "exShowroomPrice": 1.98,
+          "onRoadPriceEst": 2.28,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.15 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Yamaha Motor",
+      "slug": "yamaha",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Yamaha MT-15 V2",
+      "slug": "yamaha-mt-15-v2",
+      "category": "BIKE",
+      "tagline": "All-new Yamaha MT-15 V2 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/yamaha/yamaha-mt-15-v2/hero.webp",
+      "brochureUrl": null,
+      "priceMin": 1.68,
+      "priceMax": 1.74,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/hero.webp",
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_1.webp",
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_2.webp",
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_3.webp",
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_4.webp",
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_5.webp",
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_6.webp",
+        "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-mt-15-v2/hero.webp"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_1.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_2.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/yamaha/yamaha-mt-15-v2/img_3.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Yamaha MT-15 V2 Smart / Pure (Base)",
+          "exShowroomPrice": 1.68,
+          "onRoadPriceEst": 1.9,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Yamaha MT-15 V2 Creative (Mid)",
+          "exShowroomPrice": 1.7,
+          "onRoadPriceEst": 1.94,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.02 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Yamaha MT-15 V2 Fearless / Top Spec",
+          "exShowroomPrice": 1.74,
+          "onRoadPriceEst": 2.0,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.06 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Suzuki Motorcycle",
+      "slug": "suzuki-2wheelers",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Suzuki Gixxer SF 250",
+      "slug": "suzuki-gixxer-sf-250",
+      "category": "BIKE",
+      "tagline": "All-new Suzuki Gixxer SF 250 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/suzuki-2wheelers/suzuki-gixxer-sf-250/hero.jpg",
+      "brochureUrl": null,
+      "priceMin": 1.92,
+      "priceMax": 2.06,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Suzuki Gixxer SF 250 Smart / Pure (Base)",
+          "exShowroomPrice": 1.92,
+          "onRoadPriceEst": 2.17,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Suzuki Gixxer SF 250 Creative (Mid)",
+          "exShowroomPrice": 1.97,
+          "onRoadPriceEst": 2.25,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.05 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "Suzuki Gixxer SF 250 Fearless / Top Spec",
+          "exShowroomPrice": 2.06,
+          "onRoadPriceEst": 2.37,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.14 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "KTM India",
+      "slug": "ktm",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "KTM Duke 200",
+      "slug": "ktm-duke-200",
+      "category": "BIKE",
+      "tagline": "All-new KTM Duke 200 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/ktm/ktm-duke-200/img_1.png",
+      "brochureUrl": null,
+      "priceMin": 1.98,
+      "priceMax": 2.05,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/vehicles/bikes/ktm/ktm-duke-200/img_1.png",
+        "/vehicles/bikes/ktm/ktm-duke-200/img_2.webp",
+        "/vehicles/bikes/ktm/ktm-duke-200/img_3.webp",
+        "/vehicles/bikes/ktm/ktm-duke-200/img_4.webp",
+        "/vehicles/bikes/ktm/ktm-duke-200/img_5.webp",
+        "/vehicles/bikes/ktm/ktm-duke-200/img_6.webp",
+        "/vehicles/bikes/ktm/ktm-duke-200/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-duke-200/img_1.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-duke-200/img_2.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-duke-200/img_3.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-duke-200/img_4.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "KTM Duke 200 Smart / Pure (Base)",
+          "exShowroomPrice": 1.98,
+          "onRoadPriceEst": 2.24,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "KTM Duke 200 Creative (Mid)",
+          "exShowroomPrice": 2.0,
+          "onRoadPriceEst": 2.28,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.02 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "KTM Duke 200 Fearless / Top Spec",
+          "exShowroomPrice": 2.05,
+          "onRoadPriceEst": 2.36,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.07 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "KTM India",
+      "slug": "ktm",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "KTM 390 Adventure",
+      "slug": "ktm-390-adventure",
+      "category": "BIKE",
+      "tagline": "All-new KTM 390 Adventure engineered for superior performance and comfort.",
+      "bodyType": "Adventure / Tourer",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/vehicles/bikes/ktm/ktm-390-adventure/img_1.png",
+      "brochureUrl": null,
+      "priceMin": 3.39,
+      "priceMax": 3.65,
+      "budgetRange": "2.5_plus",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Adventure / Tourer",
+      "galleryImages": [
+        "/vehicles/bikes/ktm/ktm-390-adventure/img_1.png",
+        "/vehicles/bikes/ktm/ktm-390-adventure/img_2.webp",
+        "/vehicles/bikes/ktm/ktm-390-adventure/img_3.webp",
+        "/vehicles/bikes/ktm/ktm-390-adventure/img_4.webp",
+        "/vehicles/bikes/ktm/ktm-390-adventure/img_5.webp",
+        "/vehicles/bikes/ktm/ktm-390-adventure/img_6.webp",
+        "/vehicles/bikes/ktm/ktm-390-adventure/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-390-adventure/img_1.png"
+        },
+        {
+          "name": "Daytona Grey / Stealth",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-390-adventure/img_2.webp"
+        },
+        {
+          "name": "Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-390-adventure/img_3.webp"
+        },
+        {
+          "name": "Midnight Black",
+          "hexCode": "#111827",
+          "previewUrl": "/vehicles/bikes/ktm/ktm-390-adventure/img_4.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "KTM 390 Adventure Smart / Pure (Base)",
+          "exShowroomPrice": 3.39,
+          "onRoadPriceEst": 3.83,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD",
+            "ISOFIX Child Mounts"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "KTM 390 Adventure Creative (Mid)",
+          "exShowroomPrice": 3.48,
+          "onRoadPriceEst": 3.97,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "7-inch Touchscreen Infotainment",
+            "Steering Controls",
+            "Reverse Camera",
+            "Electric ORVMs"
+          ],
+          "priceDifferenceOverBase": "+₹0.09 Lakh (Adds Touchscreen & Camera)"
+        },
+        {
+          "name": "KTM 390 Adventure Fearless / Top Spec",
+          "exShowroomPrice": 3.65,
+          "onRoadPriceEst": 4.2,
+          "transmission": "Manual",
+          "fuelType": "Petrol / Diesel",
+          "keyFeatures": [
+            "10.25-inch HD Display",
+            "Wireless Android Auto / Apple CarPlay",
+            "Ventilated Seats",
+            "360-Degree Camera",
+            "Panoramic Sunroof"
+          ],
+          "priceDifferenceOverBase": "+₹0.26 Lakh (Adds ADAS, 360 Cam, Sunroof)"
+        }
+      ]
+    }
+  }
+]

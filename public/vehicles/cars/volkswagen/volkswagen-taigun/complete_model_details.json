@@ -1,0 +1,52 @@
+{
+  "model": "Volkswagen Taigun",
+  "slug": "volkswagen-taigun",
+  "exShowroomRange": "₹11.7 - ₹19.74 Lakh",
+  "brochureUrl": "/cars/volkswagen/volkswagen-taigun/brochure.pdf",
+  "colors": [
+    {
+      "name": "Volkswagen Taigun Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Volkswagen Taigun Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Volkswagen Taigun Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Volkswagen Taigun Standard / Base",
+      "exShowroomPrice": 11.7,
+      "onRoadPriceEst": 13.22,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Volkswagen Taigun Top / Luxury",
+      "exShowroomPrice": 19.74,
+      "onRoadPriceEst": 22.7,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹8.04 Lakh"
+    }
+  ],
+  "specs": {}
+}

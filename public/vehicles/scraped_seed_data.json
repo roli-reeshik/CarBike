@@ -1,0 +1,3975 @@
+[
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Nexon",
+      "slug": "tata-nexon",
+      "category": "CAR",
+      "tagline": "All-new Tata Nexon engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/tata/tata-nexon/hero.png",
+      "brochureUrl": "/cars/tata/tata-nexon/brochure.pdf",
+      "priceMin": 8.15,
+      "priceMax": 15.6,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/tata/tata-nexon/hero.png",
+        "/cars/tata/tata-nexon/img_1.png",
+        "/cars/tata/tata-nexon/img_2.png",
+        "/cars/tata/tata-nexon/img_3.png",
+        "/cars/tata/tata-nexon/img_4.png",
+        "/cars/tata/tata-nexon/img_5.png",
+        "/cars/tata/tata-nexon/img_6.jpg",
+        "/cars/tata/tata-nexon/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/tata/tata-nexon/hero.png"
+        },
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/tata/tata-nexon/img_1.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Nexon Standard / Base",
+          "exShowroomPrice": 8.15,
+          "onRoadPriceEst": 9.21,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Nexon Top / Luxury",
+          "exShowroomPrice": 15.6,
+          "onRoadPriceEst": 17.94,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹7.45 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Punch",
+      "slug": "tata-punch",
+      "category": "CAR",
+      "tagline": "All-new Tata Punch engineered for superior performance and comfort.",
+      "bodyType": "Micro SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/tata/tata-punch/hero.png",
+      "brochureUrl": "/cars/tata/tata-punch/brochure.pdf",
+      "priceMin": 6.13,
+      "priceMax": 10.2,
+      "budgetRange": "under_8",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/tata/tata-punch/hero.png",
+        "/cars/tata/tata-punch/img_1.png",
+        "/cars/tata/tata-punch/img_2.png",
+        "/cars/tata/tata-punch/img_3.png",
+        "/cars/tata/tata-punch/img_4.png",
+        "/cars/tata/tata-punch/img_5.png",
+        "/cars/tata/tata-punch/img_6.jpg",
+        "/cars/tata/tata-punch/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/tata/tata-punch/hero.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Punch Standard / Base",
+          "exShowroomPrice": 6.13,
+          "onRoadPriceEst": 6.93,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Punch Top / Luxury",
+          "exShowroomPrice": 10.2,
+          "onRoadPriceEst": 11.73,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹4.07 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Curvv",
+      "slug": "tata-curvv",
+      "category": "CAR",
+      "tagline": "All-new Tata Curvv engineered for superior performance and comfort.",
+      "bodyType": "SUV Coupe",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/tata/tata-curvv/hero.jpg",
+      "brochureUrl": "/cars/tata/tata-curvv/brochure.pdf",
+      "priceMin": 9.99,
+      "priceMax": 17.69,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/tata/tata-curvv/hero.jpg",
+        "/cars/tata/tata-curvv/img_1.jpg",
+        "/cars/tata/tata-curvv/img_2.png",
+        "/cars/tata/tata-curvv/img_3.png",
+        "/cars/tata/tata-curvv/img_4.png",
+        "/cars/tata/tata-curvv/img_5.png",
+        "/cars/tata/tata-curvv/img_6.png"
+      ],
+      "colors": [
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/tata/tata-curvv/hero.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Curvv Standard / Base",
+          "exShowroomPrice": 9.99,
+          "onRoadPriceEst": 11.29,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Curvv Top / Luxury",
+          "exShowroomPrice": 17.69,
+          "onRoadPriceEst": 20.34,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹7.7 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Tata Motors",
+      "slug": "tata",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Tata Harrier",
+      "slug": "tata-harrier",
+      "category": "CAR",
+      "tagline": "All-new Tata Harrier engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/tata/tata-harrier/hero.png",
+      "brochureUrl": "/cars/tata/tata-harrier/brochure.pdf",
+      "priceMin": 15.49,
+      "priceMax": 26.44,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/tata/tata-harrier/hero.png",
+        "/cars/tata/tata-harrier/img_1.png",
+        "/cars/tata/tata-harrier/img_2.png",
+        "/cars/tata/tata-harrier/img_3.png",
+        "/cars/tata/tata-harrier/img_4.png",
+        "/cars/tata/tata-harrier/img_5.png",
+        "/cars/tata/tata-harrier/img_6.png",
+        "/cars/tata/tata-harrier/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/tata/tata-harrier/hero.png"
+        },
+        {
+          "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/tata/tata-harrier/img_1.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tata Harrier Standard / Base",
+          "exShowroomPrice": 15.49,
+          "onRoadPriceEst": 17.5,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Tata Harrier Top / Luxury",
+          "exShowroomPrice": 26.44,
+          "onRoadPriceEst": 30.41,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹10.95 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Brezza",
+      "slug": "maruti-brezza",
+      "category": "CAR",
+      "tagline": "All-new Maruti Brezza engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/maruti/maruti-brezza/hero.jpeg",
+      "brochureUrl": "/cars/maruti/maruti-brezza/brochure.pdf",
+      "priceMin": 8.34,
+      "priceMax": 14.14,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/maruti/maruti-brezza/hero.jpeg",
+        "/cars/maruti/maruti-brezza/img_1.jpg",
+        "/cars/maruti/maruti-brezza/img_2.jpg",
+        "/cars/maruti/maruti-brezza/img_3.jpg",
+        "/cars/maruti/maruti-brezza/img_4.jpg",
+        "/cars/maruti/maruti-brezza/img_5.jpg",
+        "/cars/maruti/maruti-brezza/img_6.png",
+        "/cars/maruti/maruti-brezza/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Maruti Brezza Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/maruti/maruti-brezza/hero.jpeg"
+        },
+        {
+          "name": "Maruti Brezza Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/maruti/maruti-brezza/img_1.jpg"
+        },
+        {
+          "name": "Maruti Brezza Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/maruti/maruti-brezza/img_2.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Brezza Standard / Base",
+          "exShowroomPrice": 8.34,
+          "onRoadPriceEst": 9.42,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Brezza Top / Luxury",
+          "exShowroomPrice": 14.14,
+          "onRoadPriceEst": 16.26,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹5.8 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Swift",
+      "slug": "maruti-swift",
+      "category": "CAR",
+      "tagline": "All-new Maruti Swift engineered for superior performance and comfort.",
+      "bodyType": "Hatchback",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/maruti/maruti-swift/Swift-1.png",
+      "brochureUrl": "/cars/maruti/maruti-swift/brochure.pdf",
+      "priceMin": 6.49,
+      "priceMax": 9.6,
+      "budgetRange": "under_8",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/maruti/maruti-swift/Swift-1.png",
+        "/cars/maruti/maruti-swift/img_1.jpg",
+        "/cars/maruti/maruti-swift/img_2.png",
+        "/cars/maruti/maruti-swift/img_3.png",
+        "/cars/maruti/maruti-swift/img_4.png",
+        "/cars/maruti/maruti-swift/img_5.png",
+        "/cars/maruti/maruti-swift/img_6.png",
+        "/cars/maruti/maruti-swift/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Maruti Swift Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/maruti/maruti-swift/Swift-1.png"
+        },
+        {
+          "name": "Maruti Swift Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/maruti/maruti-swift/img_1.jpg"
+        },
+        {
+          "name": "Maruti Swift Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/maruti/maruti-swift/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Swift Standard / Base",
+          "exShowroomPrice": 6.49,
+          "onRoadPriceEst": 7.33,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Swift Top / Luxury",
+          "exShowroomPrice": 9.6,
+          "onRoadPriceEst": 11.04,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹3.11 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Dzire",
+      "slug": "maruti-dzire",
+      "category": "CAR",
+      "tagline": "All-new Maruti Dzire engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/maruti/maruti-dzire/Dezire.png",
+      "brochureUrl": "/cars/maruti/maruti-dzire/brochure.pdf",
+      "priceMin": 6.79,
+      "priceMax": 10.14,
+      "budgetRange": "under_8",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/maruti/maruti-dzire/Dezire.png",
+        "/cars/maruti/maruti-dzire/img_1.png",
+        "/cars/maruti/maruti-dzire/img_2.png",
+        "/cars/maruti/maruti-dzire/img_3.png",
+        "/cars/maruti/maruti-dzire/img_4.png",
+        "/cars/maruti/maruti-dzire/img_5.png",
+        "/cars/maruti/maruti-dzire/img_6.png",
+        "/cars/maruti/maruti-dzire/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Maruti Dzire Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/maruti/maruti-dzire/Dezire.png"
+        },
+        {
+          "name": "Maruti Dzire Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/maruti/maruti-dzire/img_1.png"
+        },
+        {
+          "name": "Maruti Dzire Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/maruti/maruti-dzire/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Dzire Standard / Base",
+          "exShowroomPrice": 6.79,
+          "onRoadPriceEst": 7.67,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Dzire Top / Luxury",
+          "exShowroomPrice": 10.14,
+          "onRoadPriceEst": 11.66,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹3.35 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Maruti Suzuki",
+      "slug": "maruti",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Maruti Ertiga",
+      "slug": "maruti-ertiga",
+      "category": "CAR",
+      "tagline": "All-new Maruti Ertiga engineered for superior performance and comfort.",
+      "bodyType": "MUV / MPV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/maruti/maruti-ertiga/hero.jpg",
+      "brochureUrl": "/cars/maruti/maruti-ertiga/brochure.pdf",
+      "priceMin": 8.69,
+      "priceMax": 13.03,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/maruti/maruti-ertiga/hero.jpg",
+        "/cars/maruti/maruti-ertiga/img_1.jpg",
+        "/cars/maruti/maruti-ertiga/img_2.png",
+        "/cars/maruti/maruti-ertiga/img_3.png",
+        "/cars/maruti/maruti-ertiga/img_4.png",
+        "/cars/maruti/maruti-ertiga/img_5.png",
+        "/cars/maruti/maruti-ertiga/img_6.jpg",
+        "/cars/maruti/maruti-ertiga/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Maruti Ertiga Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/maruti/maruti-ertiga/hero.jpg"
+        },
+        {
+          "name": "Maruti Ertiga Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/maruti/maruti-ertiga/img_1.jpg"
+        },
+        {
+          "name": "Maruti Ertiga Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/maruti/maruti-ertiga/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Maruti Ertiga Standard / Base",
+          "exShowroomPrice": 8.69,
+          "onRoadPriceEst": 9.82,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Maruti Ertiga Top / Luxury",
+          "exShowroomPrice": 13.03,
+          "onRoadPriceEst": 14.98,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹4.34 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Mahindra Auto",
+      "slug": "mahindra",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Mahindra XUV700",
+      "slug": "mahindra-xuv700",
+      "category": "CAR",
+      "tagline": "All-new Mahindra XUV700 engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "",
+      "brochureUrl": null,
+      "priceMin": 14.49,
+      "priceMax": 26.99,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Mahindra XUV700 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Mahindra XUV700 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Mahindra XUV700 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mahindra XUV700 Standard / Base",
+          "exShowroomPrice": 14.49,
+          "onRoadPriceEst": 16.37,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Mahindra XUV700 Top / Luxury",
+          "exShowroomPrice": 26.99,
+          "onRoadPriceEst": 31.04,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹12.5 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Mahindra Auto",
+      "slug": "mahindra",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Mahindra Thar",
+      "slug": "mahindra-thar",
+      "category": "CAR",
+      "tagline": "All-new Mahindra Thar engineered for superior performance and comfort.",
+      "bodyType": "Off-Roader (4x4)",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "",
+      "brochureUrl": null,
+      "priceMin": 11.35,
+      "priceMax": 17.6,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Mahindra Thar Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Mahindra Thar Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Mahindra Thar Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mahindra Thar Standard / Base",
+          "exShowroomPrice": 11.35,
+          "onRoadPriceEst": 12.83,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Mahindra Thar Top / Luxury",
+          "exShowroomPrice": 17.6,
+          "onRoadPriceEst": 20.24,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹6.25 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Mahindra Auto",
+      "slug": "mahindra",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Mahindra Scorpio-N",
+      "slug": "mahindra-scorpio-n",
+      "category": "CAR",
+      "tagline": "All-new Mahindra Scorpio-N engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "",
+      "brochureUrl": null,
+      "priceMin": 13.85,
+      "priceMax": 24.54,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Mahindra Scorpio-N Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Mahindra Scorpio-N Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Mahindra Scorpio-N Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mahindra Scorpio-N Standard / Base",
+          "exShowroomPrice": 13.85,
+          "onRoadPriceEst": 15.65,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Mahindra Scorpio-N Top / Luxury",
+          "exShowroomPrice": 24.54,
+          "onRoadPriceEst": 28.22,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹10.69 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hyundai India",
+      "slug": "hyundai",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Hyundai Creta",
+      "slug": "hyundai-creta",
+      "category": "CAR",
+      "tagline": "All-new Hyundai Creta engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/hyundai/hyundai-creta/hero.jpg",
+      "brochureUrl": "/cars/hyundai/hyundai-creta/brochure.pdf",
+      "priceMin": 11.0,
+      "priceMax": 20.15,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/hyundai/hyundai-creta/hero.jpg",
+        "/cars/hyundai/hyundai-creta/img_1.jpg",
+        "/cars/hyundai/hyundai-creta/img_2.jpg",
+        "/cars/hyundai/hyundai-creta/img_3.jpg",
+        "/cars/hyundai/hyundai-creta/img_4.jpg",
+        "/cars/hyundai/hyundai-creta/img_5.jpg",
+        "/cars/hyundai/hyundai-creta/img_6.jpg",
+        "/cars/hyundai/hyundai-creta/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Hyundai Creta Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/hyundai/hyundai-creta/hero.jpg"
+        },
+        {
+          "name": "Hyundai Creta Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/hyundai/hyundai-creta/img_1.jpg"
+        },
+        {
+          "name": "Hyundai Creta Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/hyundai/hyundai-creta/img_2.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hyundai Creta Standard / Base",
+          "exShowroomPrice": 11.0,
+          "onRoadPriceEst": 12.43,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hyundai Creta Top / Luxury",
+          "exShowroomPrice": 20.15,
+          "onRoadPriceEst": 23.17,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹9.15 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hyundai India",
+      "slug": "hyundai",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Hyundai Venue",
+      "slug": "hyundai-venue",
+      "category": "CAR",
+      "tagline": "All-new Hyundai Venue engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/hyundai/hyundai-venue/hero.jpg",
+      "brochureUrl": "/cars/hyundai/hyundai-venue/brochure.pdf",
+      "priceMin": 7.94,
+      "priceMax": 13.48,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/hyundai/hyundai-venue/hero.jpg",
+        "/cars/hyundai/hyundai-venue/img_1.jpg",
+        "/cars/hyundai/hyundai-venue/img_2.jpg",
+        "/cars/hyundai/hyundai-venue/img_3.jpg",
+        "/cars/hyundai/hyundai-venue/img_4.jpg",
+        "/cars/hyundai/hyundai-venue/img_5.jpg",
+        "/cars/hyundai/hyundai-venue/img_6.jpg",
+        "/cars/hyundai/hyundai-venue/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/hero.jpg"
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/img_1.jpg"
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/img_2.jpg"
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/img_3.jpg"
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/img_4.jpg"
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/img_5.jpg"
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/img_6.jpg"
+        },
+        {
+          "name": "Color 8",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-venue/img_7.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hyundai Venue Standard / Base",
+          "exShowroomPrice": 7.94,
+          "onRoadPriceEst": 8.97,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hyundai Venue Top / Luxury",
+          "exShowroomPrice": 13.48,
+          "onRoadPriceEst": 15.5,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹5.54 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hyundai India",
+      "slug": "hyundai",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Hyundai Verna",
+      "slug": "hyundai-verna",
+      "category": "CAR",
+      "tagline": "All-new Hyundai Verna engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/hyundai/hyundai-verna/hero.jpg",
+      "brochureUrl": "/cars/hyundai/hyundai-verna/brochure.pdf",
+      "priceMin": 11.0,
+      "priceMax": 17.42,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/hyundai/hyundai-verna/hero.jpg",
+        "/cars/hyundai/hyundai-verna/img_1.jpg",
+        "/cars/hyundai/hyundai-verna/img_2.jpg",
+        "/cars/hyundai/hyundai-verna/img_3.jpg",
+        "/cars/hyundai/hyundai-verna/img_4.jpg",
+        "/cars/hyundai/hyundai-verna/img_5.jpg",
+        "/cars/hyundai/hyundai-verna/img_6.jpg",
+        "/cars/hyundai/hyundai-verna/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-verna/hero.jpg"
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-verna/img_1.jpg"
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-verna/img_2.jpg"
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-verna/img_3.jpg"
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-verna/img_4.jpg"
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-verna/img_5.jpg"
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/hyundai/hyundai-verna/img_6.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hyundai Verna Standard / Base",
+          "exShowroomPrice": 11.0,
+          "onRoadPriceEst": 12.43,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hyundai Verna Top / Luxury",
+          "exShowroomPrice": 17.42,
+          "onRoadPriceEst": 20.03,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹6.42 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Toyota India",
+      "slug": "toyota",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Toyota Innova Hycross",
+      "slug": "toyota-innova-hycross",
+      "category": "CAR",
+      "tagline": "All-new Toyota Innova Hycross engineered for superior performance and comfort.",
+      "bodyType": "MUV / MPV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/toyota/toyota-innova-hycross/hero.png",
+      "brochureUrl": null,
+      "priceMin": 19.77,
+      "priceMax": 30.98,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/toyota/toyota-innova-hycross/hero.png"
+      ],
+      "colors": [
+        {
+          "name": "Toyota Innova Hycross Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/toyota/toyota-innova-hycross/hero.png"
+        },
+        {
+          "name": "Toyota Innova Hycross Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/toyota/toyota-innova-hycross/hero.png"
+        },
+        {
+          "name": "Toyota Innova Hycross Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/toyota/toyota-innova-hycross/hero.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Toyota Innova Hycross Standard / Base",
+          "exShowroomPrice": 19.77,
+          "onRoadPriceEst": 22.34,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Toyota Innova Hycross Top / Luxury",
+          "exShowroomPrice": 30.98,
+          "onRoadPriceEst": 35.63,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹11.21 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Toyota India",
+      "slug": "toyota",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Toyota Urban Cruiser Hyryder",
+      "slug": "toyota-urban-cruiser-hyryder",
+      "category": "CAR",
+      "tagline": "All-new Toyota Urban Cruiser Hyryder engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png",
+      "brochureUrl": null,
+      "priceMin": 11.14,
+      "priceMax": 20.19,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+      ],
+      "colors": [
+        {
+          "name": "Toyota Urban Cruiser Hyryder Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+        },
+        {
+          "name": "Toyota Urban Cruiser Hyryder Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+        },
+        {
+          "name": "Toyota Urban Cruiser Hyryder Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Toyota Urban Cruiser Hyryder Standard / Base",
+          "exShowroomPrice": 11.14,
+          "onRoadPriceEst": 12.59,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Toyota Urban Cruiser Hyryder Top / Luxury",
+          "exShowroomPrice": 20.19,
+          "onRoadPriceEst": 23.22,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹9.05 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Toyota India",
+      "slug": "toyota",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Toyota Fortuner",
+      "slug": "toyota-fortuner",
+      "category": "CAR",
+      "tagline": "All-new Toyota Fortuner engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/toyota/toyota-fortuner/hero.png",
+      "brochureUrl": null,
+      "priceMin": 33.43,
+      "priceMax": 51.44,
+      "budgetRange": "25_plus",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/toyota/toyota-fortuner/hero.png"
+      ],
+      "colors": [
+        {
+          "name": "Toyota Fortuner Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/toyota/toyota-fortuner/hero.png"
+        },
+        {
+          "name": "Toyota Fortuner Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/toyota/toyota-fortuner/hero.png"
+        },
+        {
+          "name": "Toyota Fortuner Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/toyota/toyota-fortuner/hero.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Toyota Fortuner Standard / Base",
+          "exShowroomPrice": 33.43,
+          "onRoadPriceEst": 37.78,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Toyota Fortuner Top / Luxury",
+          "exShowroomPrice": 51.44,
+          "onRoadPriceEst": 59.16,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹18.01 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Kia India",
+      "slug": "kia",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Kia Seltos",
+      "slug": "kia-seltos",
+      "category": "CAR",
+      "tagline": "All-new Kia Seltos engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/kia/kia-seltos/hero.png",
+      "brochureUrl": "/cars/kia/kia-seltos/brochure.pdf",
+      "priceMin": 10.9,
+      "priceMax": 20.35,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/kia/kia-seltos/hero.png",
+        "/cars/kia/kia-seltos/img_1.png",
+        "/cars/kia/kia-seltos/img_2.png",
+        "/cars/kia/kia-seltos/img_3.png",
+        "/cars/kia/kia-seltos/img_4.png",
+        "/cars/kia/kia-seltos/img_5.png",
+        "/cars/kia/kia-seltos/img_6.jpg",
+        "/cars/kia/kia-seltos/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/hero.png"
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/img_1.png"
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/img_2.png"
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/img_3.png"
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/img_4.png"
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/img_5.png"
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/img_6.jpg"
+        },
+        {
+          "name": "Color 8",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-seltos/img_7.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Kia Seltos Standard / Base",
+          "exShowroomPrice": 10.9,
+          "onRoadPriceEst": 12.32,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Kia Seltos Top / Luxury",
+          "exShowroomPrice": 20.35,
+          "onRoadPriceEst": 23.4,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹9.45 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Kia India",
+      "slug": "kia",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Kia Sonet",
+      "slug": "kia-sonet",
+      "category": "CAR",
+      "tagline": "All-new Kia Sonet engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/kia/kia-sonet/hero.jpg",
+      "brochureUrl": "/cars/kia/kia-sonet/brochure.pdf",
+      "priceMin": 7.99,
+      "priceMax": 15.75,
+      "budgetRange": "8_15",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/kia/kia-sonet/hero.jpg",
+        "/cars/kia/kia-sonet/img_1.jpg",
+        "/cars/kia/kia-sonet/img_2.png",
+        "/cars/kia/kia-sonet/img_3.png",
+        "/cars/kia/kia-sonet/img_4.png",
+        "/cars/kia/kia-sonet/img_5.png",
+        "/cars/kia/kia-sonet/img_6.png",
+        "/cars/kia/kia-sonet/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Color 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/hero.jpg"
+        },
+        {
+          "name": "Color 2",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/img_1.jpg"
+        },
+        {
+          "name": "Color 3",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/img_2.png"
+        },
+        {
+          "name": "Color 4",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/img_3.png"
+        },
+        {
+          "name": "Color 5",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/img_4.png"
+        },
+        {
+          "name": "Color 6",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/img_5.png"
+        },
+        {
+          "name": "Color 7",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/img_6.png"
+        },
+        {
+          "name": "Aurora Black Pearl",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/kia/kia-sonet/img_7.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Kia Sonet Standard / Base",
+          "exShowroomPrice": 7.99,
+          "onRoadPriceEst": 9.03,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Kia Sonet Top / Luxury",
+          "exShowroomPrice": 15.75,
+          "onRoadPriceEst": 18.11,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹7.76 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "MG Motor",
+      "slug": "mg",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "MG Hector",
+      "slug": "mg-hector",
+      "category": "CAR",
+      "tagline": "All-new MG Hector engineered for superior performance and comfort.",
+      "bodyType": "Full-Size SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/mg/mg-hector/hero.png",
+      "brochureUrl": "/cars/mg/mg-hector/brochure.pdf",
+      "priceMin": 13.99,
+      "priceMax": 22.24,
+      "budgetRange": "15_25",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/mg/mg-hector/hero.png",
+        "/cars/mg/mg-hector/img_1.png",
+        "/cars/mg/mg-hector/img_2.png",
+        "/cars/mg/mg-hector/img_3.png",
+        "/cars/mg/mg-hector/img_4.png",
+        "/cars/mg/mg-hector/img_5.png",
+        "/cars/mg/mg-hector/img_6.png"
+      ],
+      "colors": [
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/mg/mg-hector/hero.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/mg/mg-hector/img_1.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/mg/mg-hector/img_2.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/mg/mg-hector/img_3.png"
+        },
+        {
+          "name": "Slide 1",
+          "hexCode": "#3b82f6",
+          "previewUrl": "/cars/mg/mg-hector/img_4.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "MG Hector Standard / Base",
+          "exShowroomPrice": 13.99,
+          "onRoadPriceEst": 15.81,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "MG Hector Top / Luxury",
+          "exShowroomPrice": 22.24,
+          "onRoadPriceEst": 25.58,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹8.25 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "MG Motor",
+      "slug": "mg",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "MG Windsor EV",
+      "slug": "mg-windsor-ev",
+      "category": "CAR",
+      "tagline": "All-new MG Windsor EV engineered for superior performance and comfort.",
+      "bodyType": "Crossover",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/mg/mg-windsor-ev/hero.jpg",
+      "brochureUrl": "/cars/mg/mg-windsor-ev/brochure.pdf",
+      "priceMin": 13.5,
+      "priceMax": 15.5,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/mg/mg-windsor-ev/hero.jpg"
+      ],
+      "colors": [
+        {
+          "name": "MG Windsor EV Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/mg/mg-windsor-ev/hero.jpg"
+        },
+        {
+          "name": "MG Windsor EV Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/mg/mg-windsor-ev/hero.jpg"
+        },
+        {
+          "name": "MG Windsor EV Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/mg/mg-windsor-ev/hero.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "MG Windsor EV Standard / Base",
+          "exShowroomPrice": 13.5,
+          "onRoadPriceEst": 15.25,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "MG Windsor EV Top / Luxury",
+          "exShowroomPrice": 15.5,
+          "onRoadPriceEst": 17.82,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹2.0 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Skoda India",
+      "slug": "skoda",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Skoda Slavia",
+      "slug": "skoda-slavia",
+      "category": "CAR",
+      "tagline": "All-new Skoda Slavia engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/skoda/skoda-slavia/hero.webp",
+      "brochureUrl": null,
+      "priceMin": 10.69,
+      "priceMax": 18.69,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/skoda/skoda-slavia/hero.webp",
+        "/cars/skoda/skoda-slavia/img_1.webp",
+        "/cars/skoda/skoda-slavia/img_2.webp",
+        "/cars/skoda/skoda-slavia/img_3.webp",
+        "/cars/skoda/skoda-slavia/img_4.webp",
+        "/cars/skoda/skoda-slavia/img_5.webp",
+        "/cars/skoda/skoda-slavia/img_6.webp",
+        "/cars/skoda/skoda-slavia/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Skoda Slavia Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/skoda/skoda-slavia/hero.webp"
+        },
+        {
+          "name": "Skoda Slavia Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/skoda/skoda-slavia/img_1.webp"
+        },
+        {
+          "name": "Skoda Slavia Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/skoda/skoda-slavia/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Skoda Slavia Standard / Base",
+          "exShowroomPrice": 10.69,
+          "onRoadPriceEst": 12.08,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Skoda Slavia Top / Luxury",
+          "exShowroomPrice": 18.69,
+          "onRoadPriceEst": 21.49,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹8.0 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Skoda India",
+      "slug": "skoda",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Skoda Kushaq",
+      "slug": "skoda-kushaq",
+      "category": "CAR",
+      "tagline": "All-new Skoda Kushaq engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/vehicles/cars/skoda/skoda-kushaq/Kushaq-1.png",
+      "brochureUrl": null,
+      "priceMin": 10.89,
+      "priceMax": 18.79,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/vehicles/cars/skoda/skoda-kushaq/Kushaq-1.png",
+        "/cars/skoda/skoda-kushaq/img_1.webp",
+        "/cars/skoda/skoda-kushaq/img_2.webp",
+        "/cars/skoda/skoda-kushaq/img_3.webp",
+        "/cars/skoda/skoda-kushaq/img_4.webp",
+        "/cars/skoda/skoda-kushaq/img_5.webp",
+        "/cars/skoda/skoda-kushaq/img_6.webp",
+        "/cars/skoda/skoda-kushaq/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Skoda Kushaq Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/vehicles/cars/skoda/skoda-kushaq/Kushaq-1.png"
+        },
+        {
+          "name": "Skoda Kushaq Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/skoda/skoda-kushaq/img_1.webp"
+        },
+        {
+          "name": "Skoda Kushaq Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/skoda/skoda-kushaq/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Skoda Kushaq Standard / Base",
+          "exShowroomPrice": 10.89,
+          "onRoadPriceEst": 12.31,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Skoda Kushaq Top / Luxury",
+          "exShowroomPrice": 18.79,
+          "onRoadPriceEst": 21.61,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹7.9 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda Cars",
+      "slug": "honda-cars",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Honda Elevate",
+      "slug": "honda-elevate",
+      "category": "CAR",
+      "tagline": "All-new Honda Elevate engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/honda-cars/honda-elevate/hero.jpg",
+      "brochureUrl": "/cars/honda-cars/honda-elevate/brochure.pdf",
+      "priceMin": 11.69,
+      "priceMax": 16.43,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/honda-cars/honda-elevate/hero.jpg",
+        "/cars/honda-cars/honda-elevate/img_1.jpg",
+        "/cars/honda-cars/honda-elevate/img_2.jpg",
+        "/cars/honda-cars/honda-elevate/img_3.jpg",
+        "/cars/honda-cars/honda-elevate/img_4.jpg",
+        "/cars/honda-cars/honda-elevate/img_5.jpg",
+        "/cars/honda-cars/honda-elevate/img_6.jpg",
+        "/cars/honda-cars/honda-elevate/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Honda Elevate Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/honda-cars/honda-elevate/hero.jpg"
+        },
+        {
+          "name": "Honda Elevate Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/honda-cars/honda-elevate/img_1.jpg"
+        },
+        {
+          "name": "Honda Elevate Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/honda-cars/honda-elevate/img_2.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda Elevate Standard / Base",
+          "exShowroomPrice": 11.69,
+          "onRoadPriceEst": 13.21,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda Elevate Top / Luxury",
+          "exShowroomPrice": 16.43,
+          "onRoadPriceEst": 18.89,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹4.74 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda Cars",
+      "slug": "honda-cars",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Honda City",
+      "slug": "honda-city",
+      "category": "CAR",
+      "tagline": "All-new Honda City engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "/cars/honda-cars/honda-city/hero.jpg",
+      "brochureUrl": "/cars/honda-cars/honda-city/brochure.pdf",
+      "priceMin": 12.08,
+      "priceMax": 16.35,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [
+        "/cars/honda-cars/honda-city/hero.jpg",
+        "/cars/honda-cars/honda-city/img_1.jpg",
+        "/cars/honda-cars/honda-city/img_2.jpg",
+        "/cars/honda-cars/honda-city/img_3.jpg",
+        "/cars/honda-cars/honda-city/img_4.jpg",
+        "/cars/honda-cars/honda-city/img_5.jpg",
+        "/cars/honda-cars/honda-city/img_6.jpg",
+        "/cars/honda-cars/honda-city/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Honda City Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/cars/honda-cars/honda-city/hero.jpg"
+        },
+        {
+          "name": "Honda City Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/cars/honda-cars/honda-city/img_1.jpg"
+        },
+        {
+          "name": "Honda City Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/cars/honda-cars/honda-city/img_2.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda City Standard / Base",
+          "exShowroomPrice": 12.08,
+          "onRoadPriceEst": 13.65,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda City Top / Luxury",
+          "exShowroomPrice": 16.35,
+          "onRoadPriceEst": 18.8,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹4.27 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Volkswagen India",
+      "slug": "volkswagen",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Volkswagen Virtus",
+      "slug": "volkswagen-virtus",
+      "category": "CAR",
+      "tagline": "All-new Volkswagen Virtus engineered for superior performance and comfort.",
+      "bodyType": "Sedan",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "",
+      "brochureUrl": "/cars/volkswagen/volkswagen-virtus/brochure.pdf",
+      "priceMin": 11.56,
+      "priceMax": 19.41,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Volkswagen Virtus Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Volkswagen Virtus Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Volkswagen Virtus Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Volkswagen Virtus Standard / Base",
+          "exShowroomPrice": 11.56,
+          "onRoadPriceEst": 13.06,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Volkswagen Virtus Top / Luxury",
+          "exShowroomPrice": 19.41,
+          "onRoadPriceEst": 22.32,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹7.85 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Volkswagen India",
+      "slug": "volkswagen",
+      "vehicleType": "CAR"
+    },
+    "vehicle": {
+      "name": "Volkswagen Taigun",
+      "slug": "volkswagen-taigun",
+      "category": "CAR",
+      "tagline": "All-new Volkswagen Taigun engineered for superior performance and comfort.",
+      "bodyType": "Compact SUV",
+      "fuelTypes": [
+        "Petrol",
+        "Diesel"
+      ],
+      "transmissionTypes": [
+        "Manual",
+        "Automatic"
+      ],
+      "heroImage": "",
+      "brochureUrl": "/cars/volkswagen/volkswagen-taigun/brochure.pdf",
+      "priceMin": 11.7,
+      "priceMax": 19.74,
+      "budgetRange": "10_20",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "1199 cc",
+      "powerBhp": "118 BHP",
+      "torqueNm": "170 Nm",
+      "mileageOrRange": "18.5 kmpl",
+      "groundClearanceMm": 190,
+      "seatingCapacity": 5,
+      "bikeStyle": null,
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Volkswagen Taigun Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Volkswagen Taigun Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Volkswagen Taigun Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Volkswagen Taigun Standard / Base",
+          "exShowroomPrice": 11.7,
+          "onRoadPriceEst": 13.22,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Volkswagen Taigun Top / Luxury",
+          "exShowroomPrice": 19.74,
+          "onRoadPriceEst": 22.7,
+          "transmission": "Automatic",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹8.04 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Royal Enfield",
+      "slug": "royal-enfield",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Royal Enfield Classic 350",
+      "slug": "royal-enfield-classic-350",
+      "category": "BIKE",
+      "tagline": "All-new Royal Enfield Classic 350 engineered for superior performance and comfort.",
+      "bodyType": "Cruiser",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/royal-enfield/royal-enfield-classic-350/hero.jpg",
+      "brochureUrl": "/bikes/royal-enfield/royal-enfield-classic-350/brochure.pdf",
+      "priceMin": 1.93,
+      "priceMax": 2.3,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Cruiser",
+      "galleryImages": [
+        "/bikes/royal-enfield/royal-enfield-classic-350/hero.jpg",
+        "/bikes/royal-enfield/royal-enfield-classic-350/img_1.jpg",
+        "/bikes/royal-enfield/royal-enfield-classic-350/img_2.jpg",
+        "/bikes/royal-enfield/royal-enfield-classic-350/img_3.jpg",
+        "/bikes/royal-enfield/royal-enfield-classic-350/img_4.jpg",
+        "/bikes/royal-enfield/royal-enfield-classic-350/img_5.jpg",
+        "/bikes/royal-enfield/royal-enfield-classic-350/img_6.jpg",
+        "/bikes/royal-enfield/royal-enfield-classic-350/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Royal Enfield Classic 350 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-classic-350/hero.jpg"
+        },
+        {
+          "name": "Royal Enfield Classic 350 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-classic-350/img_1.jpg"
+        },
+        {
+          "name": "Royal Enfield Classic 350 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-classic-350/img_2.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Royal Enfield Classic 350 Standard / Base",
+          "exShowroomPrice": 1.93,
+          "onRoadPriceEst": 2.18,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Royal Enfield Classic 350 Top / Luxury",
+          "exShowroomPrice": 2.3,
+          "onRoadPriceEst": 2.64,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.37 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Royal Enfield",
+      "slug": "royal-enfield",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Royal Enfield Hunter 350",
+      "slug": "royal-enfield-hunter-350",
+      "category": "BIKE",
+      "tagline": "All-new Royal Enfield Hunter 350 engineered for superior performance and comfort.",
+      "bodyType": "Roadster",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/royal-enfield/royal-enfield-hunter-350/hero.jpg",
+      "brochureUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/brochure.pdf",
+      "priceMin": 1.5,
+      "priceMax": 1.75,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Roadster",
+      "galleryImages": [
+        "/bikes/royal-enfield/royal-enfield-hunter-350/hero.jpg",
+        "/bikes/royal-enfield/royal-enfield-hunter-350/img_1.jpeg",
+        "/bikes/royal-enfield/royal-enfield-hunter-350/img_2.jpeg",
+        "/bikes/royal-enfield/royal-enfield-hunter-350/img_3.jpeg",
+        "/bikes/royal-enfield/royal-enfield-hunter-350/img_4.jpg",
+        "/bikes/royal-enfield/royal-enfield-hunter-350/img_5.jpeg",
+        "/bikes/royal-enfield/royal-enfield-hunter-350/img_6.png",
+        "/bikes/royal-enfield/royal-enfield-hunter-350/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Royal Enfield Hunter 350 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/hero.jpg"
+        },
+        {
+          "name": "Royal Enfield Hunter 350 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/img_1.jpeg"
+        },
+        {
+          "name": "Royal Enfield Hunter 350 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-hunter-350/img_2.jpeg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Royal Enfield Hunter 350 Standard / Base",
+          "exShowroomPrice": 1.5,
+          "onRoadPriceEst": 1.69,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Royal Enfield Hunter 350 Top / Luxury",
+          "exShowroomPrice": 1.75,
+          "onRoadPriceEst": 2.01,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.25 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Royal Enfield",
+      "slug": "royal-enfield",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Royal Enfield Himalayan 450",
+      "slug": "royal-enfield-himalayan-450",
+      "category": "BIKE",
+      "tagline": "All-new Royal Enfield Himalayan 450 engineered for superior performance and comfort.",
+      "bodyType": "Adventure / Tourer",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/royal-enfield/royal-enfield-himalayan-450/hero.webp",
+      "brochureUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/brochure.pdf",
+      "priceMin": 2.85,
+      "priceMax": 2.98,
+      "budgetRange": "2.5_plus",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Adventure / Tourer",
+      "galleryImages": [
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/hero.webp",
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/img_1.png",
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/img_2.jpg",
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/img_3.jpg",
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/img_4.webp",
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/img_5.webp",
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/img_6.png",
+        "/bikes/royal-enfield/royal-enfield-himalayan-450/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Royal Enfield Himalayan 450 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/hero.webp"
+        },
+        {
+          "name": "Royal Enfield Himalayan 450 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/img_1.png"
+        },
+        {
+          "name": "Royal Enfield Himalayan 450 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/royal-enfield/royal-enfield-himalayan-450/img_2.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Royal Enfield Himalayan 450 Standard / Base",
+          "exShowroomPrice": 2.85,
+          "onRoadPriceEst": 3.22,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Royal Enfield Himalayan 450 Top / Luxury",
+          "exShowroomPrice": 2.98,
+          "onRoadPriceEst": 3.43,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.13 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "TVS Motor",
+      "slug": "tvs",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "TVS Raider 125",
+      "slug": "tvs-raider-125",
+      "category": "BIKE",
+      "tagline": "All-new TVS Raider 125 engineered for superior performance and comfort.",
+      "bodyType": "Commuter",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/tvs/tvs-raider-125/hero.webp",
+      "brochureUrl": "/bikes/tvs/tvs-raider-125/brochure.pdf",
+      "priceMin": 0.95,
+      "priceMax": 1.05,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Commuter",
+      "galleryImages": [
+        "/bikes/tvs/tvs-raider-125/hero.webp",
+        "/bikes/tvs/tvs-raider-125/img_1.webp",
+        "/bikes/tvs/tvs-raider-125/img_2.webp",
+        "/bikes/tvs/tvs-raider-125/img_3.webp",
+        "/bikes/tvs/tvs-raider-125/img_4.webp",
+        "/bikes/tvs/tvs-raider-125/img_5.webp",
+        "/bikes/tvs/tvs-raider-125/img_6.webp",
+        "/bikes/tvs/tvs-raider-125/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "TVS Raider 125 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/tvs/tvs-raider-125/hero.webp"
+        },
+        {
+          "name": "TVS Raider 125 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/tvs/tvs-raider-125/img_1.webp"
+        },
+        {
+          "name": "TVS Raider 125 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/tvs/tvs-raider-125/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "TVS Raider 125 Standard / Base",
+          "exShowroomPrice": 0.95,
+          "onRoadPriceEst": 1.07,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "TVS Raider 125 Top / Luxury",
+          "exShowroomPrice": 1.05,
+          "onRoadPriceEst": 1.21,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.1 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "TVS Motor",
+      "slug": "tvs",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "TVS Apache RTR 160",
+      "slug": "tvs-apache-rtr-160",
+      "category": "BIKE",
+      "tagline": "All-new TVS Apache RTR 160 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/tvs/tvs-apache-rtr-160/hero.webp",
+      "brochureUrl": "/bikes/tvs/tvs-apache-rtr-160/brochure.pdf",
+      "priceMin": 1.25,
+      "priceMax": 1.38,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/bikes/tvs/tvs-apache-rtr-160/hero.webp",
+        "/bikes/tvs/tvs-apache-rtr-160/img_1.webp",
+        "/bikes/tvs/tvs-apache-rtr-160/img_2.webp",
+        "/bikes/tvs/tvs-apache-rtr-160/img_3.webp",
+        "/bikes/tvs/tvs-apache-rtr-160/img_4.webp",
+        "/bikes/tvs/tvs-apache-rtr-160/img_5.webp",
+        "/bikes/tvs/tvs-apache-rtr-160/img_6.webp",
+        "/bikes/tvs/tvs-apache-rtr-160/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "TVS Apache RTR 160 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/tvs/tvs-apache-rtr-160/hero.webp"
+        },
+        {
+          "name": "TVS Apache RTR 160 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/tvs/tvs-apache-rtr-160/img_1.webp"
+        },
+        {
+          "name": "TVS Apache RTR 160 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/tvs/tvs-apache-rtr-160/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "TVS Apache RTR 160 Standard / Base",
+          "exShowroomPrice": 1.25,
+          "onRoadPriceEst": 1.41,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "TVS Apache RTR 160 Top / Luxury",
+          "exShowroomPrice": 1.38,
+          "onRoadPriceEst": 1.59,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.13 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hero MotoCorp",
+      "slug": "hero",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Hero Splendor Plus",
+      "slug": "hero-splendor-plus",
+      "category": "BIKE",
+      "tagline": "All-new Hero Splendor Plus engineered for superior performance and comfort.",
+      "bodyType": "Commuter",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/hero/hero-splendor-plus/hero.png",
+      "brochureUrl": "/bikes/hero/hero-splendor-plus/brochure.pdf",
+      "priceMin": 0.75,
+      "priceMax": 0.79,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Commuter",
+      "galleryImages": [
+        "/bikes/hero/hero-splendor-plus/hero.png",
+        "/bikes/hero/hero-splendor-plus/img_1.png",
+        "/bikes/hero/hero-splendor-plus/img_2.png",
+        "/bikes/hero/hero-splendor-plus/img_3.png"
+      ],
+      "colors": [
+        {
+          "name": "Hero Splendor Plus Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/hero/hero-splendor-plus/hero.png"
+        },
+        {
+          "name": "Hero Splendor Plus Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/hero/hero-splendor-plus/img_1.png"
+        },
+        {
+          "name": "Hero Splendor Plus Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/hero/hero-splendor-plus/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hero Splendor Plus Standard / Base",
+          "exShowroomPrice": 0.75,
+          "onRoadPriceEst": 0.85,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hero Splendor Plus Top / Luxury",
+          "exShowroomPrice": 0.79,
+          "onRoadPriceEst": 0.91,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.04 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Hero MotoCorp",
+      "slug": "hero",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Hero Xtreme 125R",
+      "slug": "hero-xtreme-125r",
+      "category": "BIKE",
+      "tagline": "All-new Hero Xtreme 125R engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/hero/hero-xtreme-125r/hero.png",
+      "brochureUrl": "/bikes/hero/hero-xtreme-125r/brochure.pdf",
+      "priceMin": 0.95,
+      "priceMax": 1.0,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/bikes/hero/hero-xtreme-125r/hero.png",
+        "/bikes/hero/hero-xtreme-125r/img_1.png",
+        "/bikes/hero/hero-xtreme-125r/img_2.png",
+        "/bikes/hero/hero-xtreme-125r/img_3.png",
+        "/bikes/hero/hero-xtreme-125r/img_4.png",
+        "/bikes/hero/hero-xtreme-125r/img_5.png",
+        "/bikes/hero/hero-xtreme-125r/img_6.png",
+        "/bikes/hero/hero-xtreme-125r/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Hero Xtreme 125R Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/hero/hero-xtreme-125r/hero.png"
+        },
+        {
+          "name": "Hero Xtreme 125R Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/hero/hero-xtreme-125r/img_1.png"
+        },
+        {
+          "name": "Hero Xtreme 125R Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/hero/hero-xtreme-125r/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hero Xtreme 125R Standard / Base",
+          "exShowroomPrice": 0.95,
+          "onRoadPriceEst": 1.07,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Hero Xtreme 125R Top / Luxury",
+          "exShowroomPrice": 1.0,
+          "onRoadPriceEst": 1.15,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.05 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Bajaj Auto",
+      "slug": "bajaj",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Bajaj Pulsar NS200",
+      "slug": "bajaj-pulsar-ns200",
+      "category": "BIKE",
+      "tagline": "All-new Bajaj Pulsar NS200 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/bajaj/bajaj-pulsar-ns200/hero.webp",
+      "brochureUrl": "/bikes/bajaj/bajaj-pulsar-ns200/brochure.pdf",
+      "priceMin": 1.58,
+      "priceMax": 1.62,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/bikes/bajaj/bajaj-pulsar-ns200/hero.webp",
+        "/bikes/bajaj/bajaj-pulsar-ns200/img_1.webp",
+        "/bikes/bajaj/bajaj-pulsar-ns200/img_2.png",
+        "/bikes/bajaj/bajaj-pulsar-ns200/img_3.webp",
+        "/bikes/bajaj/bajaj-pulsar-ns200/img_4.webp",
+        "/bikes/bajaj/bajaj-pulsar-ns200/img_5.webp",
+        "/bikes/bajaj/bajaj-pulsar-ns200/img_6.webp",
+        "/bikes/bajaj/bajaj-pulsar-ns200/img_7.png"
+      ],
+      "colors": [
+        {
+          "name": "Bajaj Pulsar NS200 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/bajaj/bajaj-pulsar-ns200/hero.webp"
+        },
+        {
+          "name": "Bajaj Pulsar NS200 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/bajaj/bajaj-pulsar-ns200/img_1.webp"
+        },
+        {
+          "name": "Bajaj Pulsar NS200 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/bajaj/bajaj-pulsar-ns200/img_2.png"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bajaj Pulsar NS200 Standard / Base",
+          "exShowroomPrice": 1.58,
+          "onRoadPriceEst": 1.79,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Bajaj Pulsar NS200 Top / Luxury",
+          "exShowroomPrice": 1.62,
+          "onRoadPriceEst": 1.86,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.04 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Bajaj Auto",
+      "slug": "bajaj",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Bajaj Dominar 400",
+      "slug": "bajaj-dominar-400",
+      "category": "BIKE",
+      "tagline": "All-new Bajaj Dominar 400 engineered for superior performance and comfort.",
+      "bodyType": "Adventure / Tourer",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/bajaj/bajaj-dominar-400/hero.webp",
+      "brochureUrl": "/bikes/bajaj/bajaj-dominar-400/brochure.pdf",
+      "priceMin": 2.32,
+      "priceMax": 2.35,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Adventure / Tourer",
+      "galleryImages": [
+        "/bikes/bajaj/bajaj-dominar-400/hero.webp",
+        "/bikes/bajaj/bajaj-dominar-400/img_1.jpg",
+        "/bikes/bajaj/bajaj-dominar-400/img_2.webp",
+        "/bikes/bajaj/bajaj-dominar-400/img_3.jpg",
+        "/bikes/bajaj/bajaj-dominar-400/img_4.webp",
+        "/bikes/bajaj/bajaj-dominar-400/img_5.jpg",
+        "/bikes/bajaj/bajaj-dominar-400/img_6.webp",
+        "/bikes/bajaj/bajaj-dominar-400/img_7.jpg"
+      ],
+      "colors": [
+        {
+          "name": "Bajaj Dominar 400 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/bajaj/bajaj-dominar-400/hero.webp"
+        },
+        {
+          "name": "Bajaj Dominar 400 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/bajaj/bajaj-dominar-400/img_1.jpg"
+        },
+        {
+          "name": "Bajaj Dominar 400 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/bajaj/bajaj-dominar-400/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bajaj Dominar 400 Standard / Base",
+          "exShowroomPrice": 2.32,
+          "onRoadPriceEst": 2.62,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Bajaj Dominar 400 Top / Luxury",
+          "exShowroomPrice": 2.35,
+          "onRoadPriceEst": 2.7,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.03 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda 2Wheelers",
+      "slug": "honda-2wheelers",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Honda CB350",
+      "slug": "honda-cb350",
+      "category": "BIKE",
+      "tagline": "All-new Honda CB350 engineered for superior performance and comfort.",
+      "bodyType": "Cruiser",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "",
+      "brochureUrl": null,
+      "priceMin": 2.0,
+      "priceMax": 2.18,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Cruiser",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Honda CB350 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Honda CB350 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Honda CB350 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda CB350 Standard / Base",
+          "exShowroomPrice": 2.0,
+          "onRoadPriceEst": 2.26,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda CB350 Top / Luxury",
+          "exShowroomPrice": 2.18,
+          "onRoadPriceEst": 2.51,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.18 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Honda 2Wheelers",
+      "slug": "honda-2wheelers",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Honda SP 125",
+      "slug": "honda-sp-125",
+      "category": "BIKE",
+      "tagline": "All-new Honda SP 125 engineered for superior performance and comfort.",
+      "bodyType": "Commuter",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "",
+      "brochureUrl": null,
+      "priceMin": 0.86,
+      "priceMax": 0.91,
+      "budgetRange": "under_1.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Commuter",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Honda SP 125 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Honda SP 125 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Honda SP 125 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda SP 125 Standard / Base",
+          "exShowroomPrice": 0.86,
+          "onRoadPriceEst": 0.97,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Honda SP 125 Top / Luxury",
+          "exShowroomPrice": 0.91,
+          "onRoadPriceEst": 1.05,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.05 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Yamaha Motor",
+      "slug": "yamaha",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Yamaha R15 V4",
+      "slug": "yamaha-r15-v4",
+      "category": "BIKE",
+      "tagline": "All-new Yamaha R15 V4 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/yamaha/yamaha-r15-v4/hero.webp",
+      "brochureUrl": null,
+      "priceMin": 1.83,
+      "priceMax": 1.98,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/bikes/yamaha/yamaha-r15-v4/hero.webp",
+        "/bikes/yamaha/yamaha-r15-v4/img_1.webp",
+        "/bikes/yamaha/yamaha-r15-v4/img_2.webp",
+        "/bikes/yamaha/yamaha-r15-v4/img_3.webp",
+        "/bikes/yamaha/yamaha-r15-v4/img_4.webp",
+        "/bikes/yamaha/yamaha-r15-v4/img_5.webp",
+        "/bikes/yamaha/yamaha-r15-v4/img_6.webp",
+        "/bikes/yamaha/yamaha-r15-v4/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Yamaha R15 V4 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/yamaha/yamaha-r15-v4/hero.webp"
+        },
+        {
+          "name": "Yamaha R15 V4 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/yamaha/yamaha-r15-v4/img_1.webp"
+        },
+        {
+          "name": "Yamaha R15 V4 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/yamaha/yamaha-r15-v4/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Yamaha R15 V4 Standard / Base",
+          "exShowroomPrice": 1.83,
+          "onRoadPriceEst": 2.07,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Yamaha R15 V4 Top / Luxury",
+          "exShowroomPrice": 1.98,
+          "onRoadPriceEst": 2.28,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.15 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Yamaha Motor",
+      "slug": "yamaha",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Yamaha MT-15 V2",
+      "slug": "yamaha-mt-15-v2",
+      "category": "BIKE",
+      "tagline": "All-new Yamaha MT-15 V2 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/yamaha/yamaha-mt-15-v2/hero.webp",
+      "brochureUrl": null,
+      "priceMin": 1.68,
+      "priceMax": 1.74,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/bikes/yamaha/yamaha-mt-15-v2/hero.webp",
+        "/bikes/yamaha/yamaha-mt-15-v2/img_1.webp",
+        "/bikes/yamaha/yamaha-mt-15-v2/img_2.webp",
+        "/bikes/yamaha/yamaha-mt-15-v2/img_3.webp",
+        "/bikes/yamaha/yamaha-mt-15-v2/img_4.webp",
+        "/bikes/yamaha/yamaha-mt-15-v2/img_5.webp",
+        "/bikes/yamaha/yamaha-mt-15-v2/img_6.webp",
+        "/bikes/yamaha/yamaha-mt-15-v2/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "Yamaha MT-15 V2 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/yamaha/yamaha-mt-15-v2/hero.webp"
+        },
+        {
+          "name": "Yamaha MT-15 V2 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/yamaha/yamaha-mt-15-v2/img_1.webp"
+        },
+        {
+          "name": "Yamaha MT-15 V2 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/yamaha/yamaha-mt-15-v2/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Yamaha MT-15 V2 Standard / Base",
+          "exShowroomPrice": 1.68,
+          "onRoadPriceEst": 1.9,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Yamaha MT-15 V2 Top / Luxury",
+          "exShowroomPrice": 1.74,
+          "onRoadPriceEst": 2.0,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.06 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Suzuki Motorcycle",
+      "slug": "suzuki-2wheelers",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Suzuki Gixxer SF 250",
+      "slug": "suzuki-gixxer-sf-250",
+      "category": "BIKE",
+      "tagline": "All-new Suzuki Gixxer SF 250 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "",
+      "brochureUrl": null,
+      "priceMin": 1.92,
+      "priceMax": 2.06,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Suzuki Gixxer SF 250 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Suzuki Gixxer SF 250 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Suzuki Gixxer SF 250 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Suzuki Gixxer SF 250 Standard / Base",
+          "exShowroomPrice": 1.92,
+          "onRoadPriceEst": 2.17,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Suzuki Gixxer SF 250 Top / Luxury",
+          "exShowroomPrice": 2.06,
+          "onRoadPriceEst": 2.37,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.14 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "KTM India",
+      "slug": "ktm",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "KTM Duke 200",
+      "slug": "ktm-duke-200",
+      "category": "BIKE",
+      "tagline": "All-new KTM Duke 200 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/ktm/ktm-duke-200/hero.webp",
+      "brochureUrl": null,
+      "priceMin": 1.98,
+      "priceMax": 2.05,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/bikes/ktm/ktm-duke-200/hero.webp",
+        "/bikes/ktm/ktm-duke-200/img_1.webp",
+        "/bikes/ktm/ktm-duke-200/img_2.webp",
+        "/bikes/ktm/ktm-duke-200/img_3.webp",
+        "/bikes/ktm/ktm-duke-200/img_4.webp",
+        "/bikes/ktm/ktm-duke-200/img_5.webp",
+        "/bikes/ktm/ktm-duke-200/img_6.webp",
+        "/bikes/ktm/ktm-duke-200/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "KTM Duke 200 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/ktm/ktm-duke-200/hero.webp"
+        },
+        {
+          "name": "KTM Duke 200 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/ktm/ktm-duke-200/img_1.webp"
+        },
+        {
+          "name": "KTM Duke 200 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/ktm/ktm-duke-200/img_2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "KTM Duke 200 Standard / Base",
+          "exShowroomPrice": 1.98,
+          "onRoadPriceEst": 2.24,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "KTM Duke 200 Top / Luxury",
+          "exShowroomPrice": 2.05,
+          "onRoadPriceEst": 2.36,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.07 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "KTM India",
+      "slug": "ktm",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "KTM 390 Adventure",
+      "slug": "ktm-390-adventure",
+      "category": "BIKE",
+      "tagline": "All-new KTM 390 Adventure engineered for superior performance and comfort.",
+      "bodyType": "Adventure / Tourer",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/ktm/ktm-390-adventure/img_1.webp",
+      "brochureUrl": null,
+      "priceMin": 3.39,
+      "priceMax": 3.65,
+      "budgetRange": "2.5_plus",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Adventure / Tourer",
+      "galleryImages": [
+        "/bikes/ktm/ktm-390-adventure/img_1.webp",
+        "/bikes/ktm/ktm-390-adventure/img_2.webp",
+        "/bikes/ktm/ktm-390-adventure/img_3.webp",
+        "/bikes/ktm/ktm-390-adventure/img_4.webp",
+        "/bikes/ktm/ktm-390-adventure/img_5.webp",
+        "/bikes/ktm/ktm-390-adventure/img_6.webp",
+        "/bikes/ktm/ktm-390-adventure/img_7.webp"
+      ],
+      "colors": [
+        {
+          "name": "KTM 390 Adventure Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/ktm/ktm-390-adventure/img_1.webp"
+        },
+        {
+          "name": "KTM 390 Adventure Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/ktm/ktm-390-adventure/img_2.webp"
+        },
+        {
+          "name": "KTM 390 Adventure Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/ktm/ktm-390-adventure/img_3.webp"
+        }
+      ],
+      "variants": [
+        {
+          "name": "KTM 390 Adventure Standard / Base",
+          "exShowroomPrice": 3.39,
+          "onRoadPriceEst": 3.83,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "KTM 390 Adventure Top / Luxury",
+          "exShowroomPrice": 3.65,
+          "onRoadPriceEst": 4.2,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.26 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Kawasaki India",
+      "slug": "kawasaki",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Kawasaki Ninja 300",
+      "slug": "kawasaki-ninja-300",
+      "category": "BIKE",
+      "tagline": "All-new Kawasaki Ninja 300 engineered for superior performance and comfort.",
+      "bodyType": "Sport",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "/bikes/kawasaki/kawasaki-ninja-300/hero.jpeg",
+      "brochureUrl": null,
+      "priceMin": 3.43,
+      "priceMax": 3.45,
+      "budgetRange": "2.5_plus",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Sport",
+      "galleryImages": [
+        "/bikes/kawasaki/kawasaki-ninja-300/hero.jpeg",
+        "/bikes/kawasaki/kawasaki-ninja-300/img_1.jpeg",
+        "/bikes/kawasaki/kawasaki-ninja-300/img_2.jpg",
+        "/bikes/kawasaki/kawasaki-ninja-300/img_3.jpg",
+        "/bikes/kawasaki/kawasaki-ninja-300/img_4.png",
+        "/bikes/kawasaki/kawasaki-ninja-300/img_5.jpeg",
+        "/bikes/kawasaki/kawasaki-ninja-300/img_6.jpeg",
+        "/bikes/kawasaki/kawasaki-ninja-300/img_7.jpeg"
+      ],
+      "colors": [
+        {
+          "name": "Kawasaki Ninja 300 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": "/bikes/kawasaki/kawasaki-ninja-300/hero.jpeg"
+        },
+        {
+          "name": "Kawasaki Ninja 300 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": "/bikes/kawasaki/kawasaki-ninja-300/img_1.jpeg"
+        },
+        {
+          "name": "Kawasaki Ninja 300 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": "/bikes/kawasaki/kawasaki-ninja-300/img_2.jpg"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Kawasaki Ninja 300 Standard / Base",
+          "exShowroomPrice": 3.43,
+          "onRoadPriceEst": 3.88,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Kawasaki Ninja 300 Top / Luxury",
+          "exShowroomPrice": 3.45,
+          "onRoadPriceEst": 3.97,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.02 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "brand": {
+      "name": "Jawa Yezdi",
+      "slug": "jawa-yezdi",
+      "vehicleType": "BIKE"
+    },
+    "vehicle": {
+      "name": "Jawa 350",
+      "slug": "jawa-350",
+      "category": "BIKE",
+      "tagline": "All-new Jawa 350 engineered for superior performance and comfort.",
+      "bodyType": "Cruiser",
+      "fuelTypes": [
+        "Petrol"
+      ],
+      "transmissionTypes": [
+        "Manual"
+      ],
+      "heroImage": "",
+      "brochureUrl": null,
+      "priceMin": 2.15,
+      "priceMax": 2.25,
+      "budgetRange": "1.5_2.5",
+      "launchStatus": "LAUNCHED",
+      "engineOrBattery": "125 cc",
+      "powerBhp": "11.3 BHP",
+      "torqueNm": "11.2 Nm",
+      "mileageOrRange": "55 kmpl",
+      "groundClearanceMm": 170,
+      "seatingCapacity": null,
+      "bikeStyle": "Cruiser",
+      "galleryImages": [],
+      "colors": [
+        {
+          "name": "Jawa 350 Pristine White",
+          "hexCode": "#FFFFFF",
+          "previewUrl": ""
+        },
+        {
+          "name": "Jawa 350 Daytona Grey",
+          "hexCode": "#4A4D4E",
+          "previewUrl": ""
+        },
+        {
+          "name": "Jawa 350 Signature Red",
+          "hexCode": "#B91C1C",
+          "previewUrl": ""
+        }
+      ],
+      "variants": [
+        {
+          "name": "Jawa 350 Standard / Base",
+          "exShowroomPrice": 2.15,
+          "onRoadPriceEst": 2.43,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Front Power Windows",
+            "Dual Airbags",
+            "ABS with EBD"
+          ],
+          "priceDifferenceOverBase": "Base Standard"
+        },
+        {
+          "name": "Jawa 350 Top / Luxury",
+          "exShowroomPrice": 2.25,
+          "onRoadPriceEst": 2.59,
+          "transmission": "Manual",
+          "fuelType": "Petrol",
+          "keyFeatures": [
+            "Touchscreen Infotainment",
+            "Alloy Wheels",
+            "Connected Car Tech"
+          ],
+          "priceDifferenceOverBase": "+₹0.1 Lakh"
+        }
+      ]
+    }
+  }
+]

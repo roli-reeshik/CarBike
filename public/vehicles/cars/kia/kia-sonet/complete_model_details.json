@@ -1,0 +1,79 @@
+{
+  "model": "Kia Sonet",
+  "slug": "kia-sonet",
+  "exShowroomRange": "₹7.99 - ₹15.75 Lakh",
+  "brochureUrl": "/cars/kia/kia-sonet/brochure.pdf",
+  "colors": [
+    {
+      "name": "Color 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/hero.jpg"
+    },
+    {
+      "name": "Color 2",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/img_1.jpg"
+    },
+    {
+      "name": "Color 3",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/img_2.png"
+    },
+    {
+      "name": "Color 4",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/img_3.png"
+    },
+    {
+      "name": "Color 5",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/img_4.png"
+    },
+    {
+      "name": "Color 6",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/img_5.png"
+    },
+    {
+      "name": "Color 7",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/img_6.png"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-sonet/img_7.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Kia Sonet Standard / Base",
+      "exShowroomPrice": 7.99,
+      "onRoadPriceEst": 9.03,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Kia Sonet Top / Luxury",
+      "exShowroomPrice": 15.75,
+      "onRoadPriceEst": 18.11,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹7.76 Lakh"
+    }
+  ],
+  "specs": {
+    "how it works": "Book Online"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "model": "Kawasaki Ninja 300",
+  "slug": "kawasaki-ninja-300",
+  "exShowroomRange": "₹3.43 - ₹3.45 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Kawasaki Ninja 300 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/kawasaki/kawasaki-ninja-300/hero.jpeg"
+    },
+    {
+      "name": "Kawasaki Ninja 300 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/kawasaki/kawasaki-ninja-300/img_1.jpeg"
+    },
+    {
+      "name": "Kawasaki Ninja 300 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/kawasaki/kawasaki-ninja-300/img_2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Kawasaki Ninja 300 Standard / Base",
+      "exShowroomPrice": 3.43,
+      "onRoadPriceEst": 3.88,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Kawasaki Ninja 300 Top / Luxury",
+      "exShowroomPrice": 3.45,
+      "onRoadPriceEst": 3.97,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.02 Lakh"
+    }
+  ],
+  "specs": {}
+}

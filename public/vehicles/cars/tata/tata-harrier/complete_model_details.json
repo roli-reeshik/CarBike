@@ -1,0 +1,47 @@
+{
+  "model": "Tata Harrier",
+  "slug": "tata-harrier",
+  "exShowroomRange": "₹15.49 - ₹26.44 Lakh",
+  "brochureUrl": "/cars/tata/tata-harrier/brochure.pdf",
+  "colors": [
+    {
+      "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/tata/tata-harrier/hero.png"
+    },
+    {
+      "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/tata/tata-harrier/img_1.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Tata Harrier Standard / Base",
+      "exShowroomPrice": 15.49,
+      "onRoadPriceEst": 17.5,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Tata Harrier Top / Luxury",
+      "exShowroomPrice": 26.44,
+      "onRoadPriceEst": 30.41,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹10.95 Lakh"
+    }
+  ],
+  "specs": {}
+}

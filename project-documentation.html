@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CarBikeKharido - Architecture, Prompts & Technical Documentation</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Google Fonts Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- Mermaid.js for Diagramming -->
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ 
+      startOnLoad: true, 
+      theme: 'neutral',
+      fontFamily: 'Plus Jakarta Sans',
+      themeVariables: {
+        primaryColor: '#e0e7ff',
+        edgeLabelBackground: '#ffffff',
+        tertiaryColor: '#f1f5f9'
+      }
+    });
+  </script>
+
+  <style>
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+    pre, code {
+      font-family: 'JetBrains Mono', monospace;
+    }
+    /* Custom scrollbar */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #f1f5f9;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #cbd5e1;
+      border-radius: 9999px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #94a3b8;
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 antialiased selection:bg-indigo-500 selection:text-white">
+
+  <!-- Sticky Top Navigation -->
+  <header class="sticky top-0 z-50 bg-white/90 backdrop-blur-md border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <div class="h-10 w-10 bg-indigo-600 rounded-xl flex items-center justify-center text-white font-black text-xl shadow-md shadow-indigo-200">
+          CK
+        </div>
+        <div>
+          <span class="text-lg font-extrabold tracking-tight bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">
+            CarBikeKharido
+          </span>
+          <span class="text-xs ml-2 px-2 py-0.5 bg-indigo-50 text-indigo-700 font-semibold rounded-full border border-indigo-200">
+            System Blueprint
+          </span>
+        </div>
+      </div>
+      <nav class="hidden md:flex items-center space-x-6 text-xs font-bold uppercase tracking-wider text-slate-600">
+        <a href="#overview" class="hover:text-indigo-600 transition">Overview</a>
+        <a href="#architecture" class="hover:text-indigo-600 transition">Hybrid Flow</a>
+        <a href="#schema" class="hover:text-indigo-600 transition">Database</a>
+        <a href="#scraper" class="hover:text-indigo-600 transition">Scraper</a>
+        <a href="#prompts" class="hover:text-indigo-600 transition">Cursor Prompts</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="relative py-16 bg-gradient-to-b from-indigo-50/60 via-white to-slate-50 border-b border-slate-200">
+    <div class="max-w-5xl mx-auto px-4 text-center">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-100 text-indigo-800 text-xs font-semibold mb-4 border border-indigo-200">
+        <span class="h-2 w-2 rounded-full bg-indigo-600 animate-pulse"></span>
+        Next.js 15 &bull; Prisma &bull; PostgreSQL &bull; Edge Caching
+      </div>
+      <h1 class="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight">
+        CarBikeKharido.com Engineering Blueprint
+      </h1>
+      <p class="mt-4 text-slate-600 text-base sm:text-lg max-w-3xl mx-auto leading-relaxed">
+        Complete operational runbook containing high-throughput caching workflows, multi-brand asset scraping pipelines, normalized PostgreSQL schemas, and copy-ready AI prompts.
+      </p>
+    </div>
+  </section>
+
+  <!-- Main Container -->
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+
+    <!-- Section 1: Architectural & Work Flow -->
+    <section id="architecture" class="scroll-mt-20">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-200 mb-6">
+        <div>
+          <h2 class="text-2xl font-bold text-slate-900 tracking-tight">1. System Workflow & Hybrid Caching Architecture</h2>
+          <p class="text-sm text-slate-500">How 95%+ of dynamic traffic is served instantly without database bottleneck.</p>
+        </div>
+        <span class="px-2.5 py-1 bg-emerald-50 text-emerald-700 text-xs font-semibold rounded-md border border-emerald-200">
+          Zero-Egress Cost Model
+        </span>
+      </div>
+
+      <!-- Mermaid Flowchart -->
+      <div class="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm overflow-x-auto mb-6">
+        <div class="mermaid text-center">
+flowchart TD
+    Visitor[Incoming Visitor] --> CDN[Global CDN / Edge Cache]
+    CDN -- 95% Traffic (Hit) --> Cached[Cached Static HTML / ISR Revalidated]
+    CDN -- Images/Media (0$ Egress) --> CloudflareR2[Cloudflare R2 / Object Storage]
+    
+    CDN -- Cache Miss / Dynamic Filters --> Serverless[Next.js Serverless Function / Route Handler]
+    Serverless --> DB[(Local / Managed PostgreSQL DB)]
+    
+    subgraph Data Pipeline
+      Scraper[Python Playwright Scraper] --> AssetStorage[public/vehicles/ & Image CDN]
+      Scraper --> SeedData[prisma/scraped_seed_data.json]
+      SeedData --> PrismaSeed[Prisma ORM Ingestion]
+      PrismaSeed --> DB
+    end
+        </div>
+      </div>
+
+      <!-- Technology Details Table -->
+      <div class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+        <div class="px-6 py-4 border-b border-slate-100 bg-slate-50/50">
+          <h3 class="font-bold text-slate-900 text-sm uppercase tracking-wider">Technology Stack Specification</h3>
+        </div>
+        <div class="divide-y divide-slate-100 text-sm">
+          <div class="grid grid-cols-1 md:grid-cols-3 p-4 hover:bg-slate-50/80">
+            <span class="font-semibold text-slate-700">Frontend Layer</span>
+            <span class="md:col-span-2 text-slate-600">Next.js 15 (App Router, Server Components), TypeScript, Tailwind CSS, Lucide Icons, Framer Motion</span>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-3 p-4 hover:bg-slate-50/80">
+            <span class="font-semibold text-slate-700">Database & ORM</span>
+            <span class="md:col-span-2 text-slate-600">PostgreSQL (Relational engine) with Prisma ORM (Indexed queries on body types, slugs, budget slabs)</span>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-3 p-4 hover:bg-slate-50/80">
+            <span class="font-semibold text-slate-700">State & Performance</span>
+            <span class="md:col-span-2 text-slate-600">Zustand (Persistent comparison dock), Incremental Static Regeneration (<code class="text-xs bg-slate-100 px-1 py-0.5 rounded">revalidate = 3600</code>)</span>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-3 p-4 hover:bg-slate-50/80">
+            <span class="font-semibold text-slate-700">Media Pipeline</span>
+            <span class="md:col-span-2 text-slate-600">Cloudflare R2 Object Storage / Local Public Folder with Next.js Image Optimization</span>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-3 p-4 hover:bg-slate-50/80">
+            <span class="font-semibold text-slate-700">Data Sourcing Engine</span>
+            <span class="md:col-span-2 text-slate-600">Python 3.x, Playwright (Headless Chromium), AsyncIO, AioHTTP for parallel high-res asset scraping</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2: PostgreSQL / Prisma Schema -->
+    <section id="schema" class="scroll-mt-20">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-200 mb-6">
+        <div>
+          <h2 class="text-2xl font-bold text-slate-900 tracking-tight">2. PostgreSQL & Prisma Database Schema</h2>
+          <p class="text-sm text-slate-500">Supports variants, color swatches, upcoming lifecycle states, and lead capture.</p>
+        </div>
+        <span class="px-2.5 py-1 bg-indigo-50 text-indigo-700 text-xs font-semibold rounded-md border border-indigo-200">
+          prisma/schema.prisma
+        </span>
+      </div>
+
+      <div class="bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 shadow-xl">
+        <div class="flex items-center justify-between px-4 py-2.5 bg-slate-950/80 border-b border-slate-800 text-xs text-slate-400">
+          <span>Prisma Schema Configuration</span>
+          <span>PostgreSQL Syntax</span>
+        </div>
+        <pre class="p-6 text-xs text-emerald-400 overflow-x-auto leading-relaxed"><code>datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum VehicleType {
+  CAR
+  BIKE
+}
+
+enum LaunchStatus {
+  UPCOMING
+  PRE_BOOKING_OPEN
+  LAUNCHED
+  DISCONTINUED
+}
+
+enum LeadType {
+  OFFER
+  TEST_DRIVE
+  LAUNCH_ALERT
+}
+
+model Brand {
+  id          String      @id @default(cuid())
+  name        String      @unique
+  slug        String      @unique
+  logoUrl     String?
+  vehicleType VehicleType
+  vehicles    Vehicle[]
+  createdAt   DateTime    @default(now())
+}
+
+model Vehicle {
+  id                   String        @id @default(cuid())
+  brandId              String
+  brand                Brand         @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  name                 String
+  slug                 String        @unique
+  category             VehicleType
+  tagline              String?
+  bodyType             String        // Hatchback, Sedan, Compact SUV, etc.
+  fuelTypes            String[]      // Petrol, Diesel, EV, CNG
+  transmissionTypes    String[]      // Manual, Automatic
+  heroImage            String
+  priceMin             Decimal       @db.Decimal(10, 2)
+  priceMax             Decimal       @db.Decimal(10, 2)
+  budgetRange          String
+  ncapRating           Int?
+  
+  // Upcoming Vehicle Lifecycle Fields
+  launchStatus         LaunchStatus  @default(LAUNCHED)
+  expectedLaunchDate   String?
+  isDateConfirmed      Boolean       @default(false)
+  expectedPriceMinLakh Decimal?      @db.Decimal(10, 2)
+  expectedPriceMaxLakh Decimal?      @db.Decimal(10, 2)
+  preBookingAmount     String?
+  spyShotGallery       String[]      @default([])
+
+  // Engine Specs
+  engineOrBattery      String
+  powerBhp             String
+  torqueNm             String
+  mileageOrRange       String
+  groundClearanceMm    Int?
+  seatingCapacity      Int?          // 5, 7 for Cars
+  bikeStyle            String?       // Commuter, Cruiser, Sport for Bikes
+
+  variants             Variant[]
+  colors               VehicleColor[]
+  dealers              Dealer[]
+  reviews              Review[]
+  leads                Lead[]
+
+  createdAt            DateTime      @default(now())
+  updatedAt            DateTime      @updatedAt
+
+  @@index([category, bodyType])
+  @@index([category, budgetRange])
+  @@index([launchStatus])
+}
+
+model Variant {
+  id               String   @id @default(cuid())
+  vehicleId        String
+  vehicle          Vehicle  @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  name             String
+  exShowroomPrice  Decimal  @db.Decimal(10, 2)
+  onRoadPriceEst   Decimal  @db.Decimal(10, 2)
+  transmission     String
+  keyFeatures      String[]
+  createdAt        DateTime @default(now())
+}
+
+model VehicleColor {
+  id         String   @id @default(cuid())
+  vehicleId  String
+  vehicle    Vehicle  @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  name       String
+  hexCode    String
+  previewUrl String
+}
+
+model Dealer {
+  id         String   @id @default(cuid())
+  vehicleId  String
+  vehicle    Vehicle  @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  name       String
+  city       String
+  address    String
+  phone      String
+  rating     Decimal  @default(4.5) @db.Decimal(3, 1)
+
+  @@index([city])
+}
+
+model Review {
+  id             String   @id @default(cuid())
+  vehicleId      String
+  vehicle        Vehicle  @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  authorName     String
+  city           String
+  ratingOverall  Int
+  title          String
+  comment        String
+  isVerified     Boolean  @default(true)
+}
+
+model Lead {
+  id         String     @id @default(cuid())
+  userName   String
+  phone      String
+  city       String
+  vehicleId  String
+  vehicle    Vehicle    @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+  leadType   LeadType   @default(OFFER)
+  createdAt  DateTime   @default(now())
+}</code></pre>
+      </div>
+    </section>
+
+    <!-- Section 3: Data Ingestion & Scraper Pipeline -->
+    <section id="scraper" class="scroll-mt-20">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-200 mb-6">
+        <div>
+          <h2 class="text-2xl font-bold text-slate-900 tracking-tight">3. Automated Playwright Scraper Pipeline</h2>
+          <p class="text-sm text-slate-500">Directly extracts HD media to <code class="text-xs bg-slate-100 px-1 py-0.5 rounded font-mono">public/vehicles/</code> and seeds <code class="text-xs bg-slate-100 px-1 py-0.5 rounded font-mono">prisma/scraped_seed_data.json</code>.</p>
+        </div>
+        <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-semibold rounded-md border border-blue-200">
+          scripts/scraper.py
+        </span>
+      </div>
+
+      <div class="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm space-y-4">
+        <p class="text-sm text-slate-600">
+          Automobile OEM homepages rely heavily on geo-location modals and dynamic video headers. The robust solution uses <strong>canonical product endpoints</strong> and uncaps CDN image resolution:
+        </p>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="p-4 bg-slate-50 rounded-xl border border-slate-100">
+            <h4 class="font-bold text-xs uppercase text-slate-500 mb-2">Supported Car Endpoints</h4>
+            <ul class="text-xs text-slate-700 space-y-1 list-disc pl-4">
+              <li><strong>Tata Motors:</strong> Nexon, Punch, Curvv, Harrier (ICE/EV)</li>
+              <li><strong>Maruti Suzuki:</strong> Brezza, Swift, Dzire, Ertiga</li>
+              <li><strong>Mahindra Auto:</strong> XUV700, Thar, Scorpio-N</li>
+              <li><strong>Hyundai India:</strong> Creta, Venue</li>
+            </ul>
+          </div>
+          <div class="p-4 bg-slate-50 rounded-xl border border-slate-100">
+            <h4 class="font-bold text-xs uppercase text-slate-500 mb-2">Supported Bike Endpoints</h4>
+            <ul class="text-xs text-slate-700 space-y-1 list-disc pl-4">
+              <li><strong>Royal Enfield:</strong> Classic 350, Hunter 350, Himalayan 450</li>
+              <li><strong>TVS Motor:</strong> Raider 125, Apache RTR 160 4V</li>
+              <li><strong>Hero MotoCorp:</strong> Splendor Plus, Xtreme 125R</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="p-4 bg-indigo-50/60 rounded-xl border border-indigo-100 text-xs text-indigo-900">
+          <strong>HD Un-capping Algorithm:</strong> Automatically parses <code class="font-mono font-semibold">srcset</code> to select the highest resolution width (e.g. 2000w) and strips query downscaling parameters like <code class="font-mono font-semibold">?w=400&q=50</code> to force 100% master quality downloads.
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: All Executed Prompts Documentation -->
+    <section id="prompts" class="scroll-mt-20">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-200 mb-6">
+        <div>
+          <h2 class="text-2xl font-bold text-slate-900 tracking-tight">4. Master Prompt Archive for Cursor Composer</h2>
+          <p class="text-sm text-slate-500">Every prompt used to generate, configure, and upgrade the application in sequential order.</p>
+        </div>
+        <span class="px-2.5 py-1 bg-violet-50 text-violet-700 text-xs font-semibold rounded-md border border-violet-200">
+          Agent Mode Ready
+        </span>
+      </div>
+
+      <div class="space-y-6">
+
+        <!-- Prompt 1: Initial System Prompt -->
+        <div class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+          <div class="px-6 py-4 bg-slate-50/80 border-b border-slate-100 flex items-center justify-between">
+            <span class="font-bold text-sm text-slate-800">Prompt 1: Project Scaffolding & System Architecture</span>
+            <span class="text-xs text-slate-400 font-mono">Cursor Composer (Step 1)</span>
+          </div>
+          <div class="p-6 bg-slate-900 text-slate-200 text-xs font-mono overflow-x-auto leading-relaxed max-h-80 overflow-y-auto">
+# Role & Project Scope
+You are an expert full-stack engineer and UI/UX architect. Build "CarBikeKharido", a high-performance, modern automotive discovery, comparison, and review portal for cars, bikes, and electric vehicles (EVs) in India. 
+
+The application must replace legacy static CMS architectures with a modular, modern tech stack:
+- Framework: Next.js 15 (App Router, React Server Components, TypeScript)
+- Styling & UI: Tailwind CSS, shadcn/ui, Lucide Icons, Framer Motion
+- State & Data Fetching: TanStack Query / React Query, Zustand (for persistent filters & comparison trays)
+- Form & Validation: React Hook Form + Zod
+- Backend / Database Schema: Supabase / PostgreSQL (Prisma ORM)
+- SEO & Metadata: Dynamic OpenGraph tags, JSON-LD vehicle schema, dynamic sitemaps
+          </div>
+        </div>
+
+        <!-- Prompt 2: Integrated Local DB & Matching Engine Prompt -->
+        <div class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+          <div class="px-6 py-4 bg-slate-50/80 border-b border-slate-100 flex items-center justify-between">
+            <span class="font-bold text-sm text-slate-800">Prompt 2: Home Page Match Finder & Local PostgreSQL Integration</span>
+            <span class="text-xs text-slate-400 font-mono">Cursor Composer (Step 2)</span>
+          </div>
+          <div class="p-6 bg-slate-900 text-slate-200 text-xs font-mono overflow-x-auto leading-relaxed max-h-80 overflow-y-auto">
+# Role & Project Scope
+You are an expert full-stack engineer and UI/UX architect. Build "CarBikeKharido" using a local PostgreSQL database via Prisma ORM connected to DATABASE_URL="postgresql://<user>:<password>@localhost:5432/carbikekharido?schema=public".
+
+Implement:
+1. Local PostgreSQL schema with lifecycle states for Upcoming Vehicles (UPCOMING, PRE_BOOKING_OPEN, LAUNCHED).
+2. Dynamic Match-Finder Home Page Component featuring:
+   - Car / Bike category switch buttons.
+   - Dynamic Dropdowns: Budget, Fuel, Transmission, and conditional Seating/Riding Style.
+   - Live Vehicle Recommendation card with interactive color switcher, specs grid, variant tabs, reviews, and city-wise dealer locator.
+3. Financial Calculators: State-wise On-Road Price Estimator, Loan EMI Calculator, and EV Savings Comparator.
+          </div>
+        </div>
+
+        <!-- Prompt 3: Asset Wiring Prompt -->
+        <div class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+          <div class="px-6 py-4 bg-slate-50/80 border-b border-slate-100 flex items-center justify-between">
+            <span class="font-bold text-sm text-slate-800">Prompt 3: Ingesting Scraped Media into Next.js & Prisma</span>
+            <span class="text-xs text-slate-400 font-mono">Cursor Composer (Step 3)</span>
+          </div>
+          <div class="p-6 bg-slate-900 text-slate-200 text-xs font-mono overflow-x-auto leading-relaxed max-h-80 overflow-y-auto">
+# Role & Objective
+I have executed scripts/scraper.py, which scraped vehicle specifications into prisma/scraped_seed_data.json and saved high-resolution vehicle media into public/vehicles/<category>/<brand>/<model-slug>/.
+
+Please wire these downloaded local assets into the Next.js application:
+1. Configure next.config.ts for local and remote image domains.
+2. Ingest prisma/scraped_seed_data.json via prisma/seed.ts.
+3. Create src/components/vehicle/VehicleImage.tsx with onError fallback.
+4. Implement multi-angle thumbnail gallery in ImageGallery.tsx.
+          </div>
+        </div>
+
+        <!-- Prompt 4: Filter Update Prompt -->
+        <div class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+          <div class="px-6 py-4 bg-slate-50/80 border-b border-slate-100 flex items-center justify-between">
+            <span class="font-bold text-sm text-slate-800">Prompt 4: Non-Destructive "Vehicle / Body Type" Filter Upgrade</span>
+            <span class="text-xs text-slate-400 font-mono">Cursor Composer (Final Step)</span>
+          </div>
+          <div class="p-6 bg-slate-900 text-slate-200 text-xs font-mono overflow-x-auto leading-relaxed max-h-80 overflow-y-auto">
+# Role & Update Scope
+Perform a non-destructive update to integrate an explicit "Vehicle / Body Type" dropdown into the existing home page filter card and synchronize the database layer.
+
+1. Add CAR_BODY_TYPES constant ("Hatchback", "Sedan", "Compact SUV", "Mid-Size SUV", "Full-Size SUV", "SUV Coupe", "Off-Roader (4x4)", "MUV / MPV", etc.) and BIKE_BODY_TYPES in src/types/vehicle.ts.
+2. Index @@index([category, bodyType]) in prisma/schema.prisma and run npx prisma db push.
+3. Expand filter grid from 4 to 5 columns on the homepage.
+4. Add state for bodyType and bind it to filter match computation without breaking existing styles.
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-white border-t border-slate-200 py-8">
+    <div class="max-w-7xl mx-auto px-4 text-center text-xs text-slate-500">
+      <p>CarBikeKharido.com System Architecture & Documentation &bull; Built with Next.js 15, Prisma, PostgreSQL & Tailwind CSS</p>
+    </div>
+  </footer>
+
+</body>
+</html>

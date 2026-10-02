@@ -1,0 +1,52 @@
+{
+  "model": "Suzuki Gixxer SF 250",
+  "slug": "suzuki-gixxer-sf-250",
+  "exShowroomRange": "₹1.92 - ₹2.06 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Suzuki Gixxer SF 250 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Suzuki Gixxer SF 250 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Suzuki Gixxer SF 250 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Suzuki Gixxer SF 250 Standard / Base",
+      "exShowroomPrice": 1.92,
+      "onRoadPriceEst": 2.17,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Suzuki Gixxer SF 250 Top / Luxury",
+      "exShowroomPrice": 2.06,
+      "onRoadPriceEst": 2.37,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.14 Lakh"
+    }
+  ],
+  "specs": {}
+}

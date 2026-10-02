@@ -1,0 +1,52 @@
+{
+  "model": "Maruti Brezza",
+  "slug": "maruti-brezza",
+  "exShowroomRange": "₹8.34 - ₹14.14 Lakh",
+  "brochureUrl": "/cars/maruti/maruti-brezza/brochure.pdf",
+  "colors": [
+    {
+      "name": "Maruti Brezza Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/maruti/maruti-brezza/hero.jpeg"
+    },
+    {
+      "name": "Maruti Brezza Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/maruti/maruti-brezza/img_1.jpg"
+    },
+    {
+      "name": "Maruti Brezza Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/maruti/maruti-brezza/img_2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Maruti Brezza Standard / Base",
+      "exShowroomPrice": 8.34,
+      "onRoadPriceEst": 9.42,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Maruti Brezza Top / Luxury",
+      "exShowroomPrice": 14.14,
+      "onRoadPriceEst": 16.26,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹5.8 Lakh"
+    }
+  ],
+  "specs": {}
+}

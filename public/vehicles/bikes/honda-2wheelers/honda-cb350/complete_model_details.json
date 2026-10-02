@@ -1,0 +1,52 @@
+{
+  "model": "Honda CB350",
+  "slug": "honda-cb350",
+  "exShowroomRange": "₹2.0 - ₹2.18 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Honda CB350 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Honda CB350 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Honda CB350 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Honda CB350 Standard / Base",
+      "exShowroomPrice": 2.0,
+      "onRoadPriceEst": 2.26,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Honda CB350 Top / Luxury",
+      "exShowroomPrice": 2.18,
+      "onRoadPriceEst": 2.51,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.18 Lakh"
+    }
+  ],
+  "specs": {}
+}

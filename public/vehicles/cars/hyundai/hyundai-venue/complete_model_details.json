@@ -1,0 +1,77 @@
+{
+  "model": "Hyundai Venue",
+  "slug": "hyundai-venue",
+  "exShowroomRange": "₹7.94 - ₹13.48 Lakh",
+  "brochureUrl": "/cars/hyundai/hyundai-venue/brochure.pdf",
+  "colors": [
+    {
+      "name": "Color 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/hero.jpg"
+    },
+    {
+      "name": "Color 2",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/img_1.jpg"
+    },
+    {
+      "name": "Color 3",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/img_2.jpg"
+    },
+    {
+      "name": "Color 4",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/img_3.jpg"
+    },
+    {
+      "name": "Color 5",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/img_4.jpg"
+    },
+    {
+      "name": "Color 6",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/img_5.jpg"
+    },
+    {
+      "name": "Color 7",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/img_6.jpg"
+    },
+    {
+      "name": "Color 8",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-venue/img_7.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Hyundai Venue Standard / Base",
+      "exShowroomPrice": 7.94,
+      "onRoadPriceEst": 8.97,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Hyundai Venue Top / Luxury",
+      "exShowroomPrice": 13.48,
+      "onRoadPriceEst": 15.5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹5.54 Lakh"
+    }
+  ],
+  "specs": {}
+}

@@ -1,0 +1,52 @@
+{
+  "model": "Mahindra XUV700",
+  "slug": "mahindra-xuv700",
+  "exShowroomRange": "₹14.49 - ₹26.99 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Mahindra XUV700 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Mahindra XUV700 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Mahindra XUV700 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Mahindra XUV700 Standard / Base",
+      "exShowroomPrice": 14.49,
+      "onRoadPriceEst": 16.37,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Mahindra XUV700 Top / Luxury",
+      "exShowroomPrice": 26.99,
+      "onRoadPriceEst": 31.04,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹12.5 Lakh"
+    }
+  ],
+  "specs": {}
+}

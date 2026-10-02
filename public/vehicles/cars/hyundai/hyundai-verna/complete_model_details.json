@@ -1,0 +1,72 @@
+{
+  "model": "Hyundai Verna",
+  "slug": "hyundai-verna",
+  "exShowroomRange": "₹11.0 - ₹17.42 Lakh",
+  "brochureUrl": "/cars/hyundai/hyundai-verna/brochure.pdf",
+  "colors": [
+    {
+      "name": "Color 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-verna/hero.jpg"
+    },
+    {
+      "name": "Color 2",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-verna/img_1.jpg"
+    },
+    {
+      "name": "Color 3",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-verna/img_2.jpg"
+    },
+    {
+      "name": "Color 4",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-verna/img_3.jpg"
+    },
+    {
+      "name": "Color 5",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-verna/img_4.jpg"
+    },
+    {
+      "name": "Color 6",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-verna/img_5.jpg"
+    },
+    {
+      "name": "Color 7",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/hyundai/hyundai-verna/img_6.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Hyundai Verna Standard / Base",
+      "exShowroomPrice": 11.0,
+      "onRoadPriceEst": 12.43,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Hyundai Verna Top / Luxury",
+      "exShowroomPrice": 17.42,
+      "onRoadPriceEst": 20.03,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹6.42 Lakh"
+    }
+  ],
+  "specs": {}
+}

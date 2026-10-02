@@ -1,0 +1,52 @@
+{
+  "model": "Toyota Urban Cruiser Hyryder",
+  "slug": "toyota-urban-cruiser-hyryder",
+  "exShowroomRange": "₹11.14 - ₹20.19 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Toyota Urban Cruiser Hyryder Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+    },
+    {
+      "name": "Toyota Urban Cruiser Hyryder Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+    },
+    {
+      "name": "Toyota Urban Cruiser Hyryder Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/toyota/toyota-urban-cruiser-hyryder/hero.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Toyota Urban Cruiser Hyryder Standard / Base",
+      "exShowroomPrice": 11.14,
+      "onRoadPriceEst": 12.59,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Toyota Urban Cruiser Hyryder Top / Luxury",
+      "exShowroomPrice": 20.19,
+      "onRoadPriceEst": 23.22,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹9.05 Lakh"
+    }
+  ],
+  "specs": {}
+}

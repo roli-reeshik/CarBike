@@ -1,0 +1,52 @@
+{
+  "model": "Skoda Kushaq",
+  "slug": "skoda-kushaq",
+  "exShowroomRange": "₹10.89 - ₹18.79 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Skoda Kushaq Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/vehicles/cars/skoda/skoda-kushaq/Kushaq-1.png"
+    },
+    {
+      "name": "Skoda Kushaq Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/skoda/skoda-kushaq/img_1.webp"
+    },
+    {
+      "name": "Skoda Kushaq Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/skoda/skoda-kushaq/img_2.webp"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Skoda Kushaq Standard / Base",
+      "exShowroomPrice": 10.89,
+      "onRoadPriceEst": 12.31,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Skoda Kushaq Top / Luxury",
+      "exShowroomPrice": 18.79,
+      "onRoadPriceEst": 21.61,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹7.9 Lakh"
+    }
+  ],
+  "specs": {}
+}

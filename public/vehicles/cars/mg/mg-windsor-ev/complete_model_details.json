@@ -1,0 +1,52 @@
+{
+  "model": "MG Windsor EV",
+  "slug": "mg-windsor-ev",
+  "exShowroomRange": "₹13.5 - ₹15.5 Lakh",
+  "brochureUrl": "/cars/mg/mg-windsor-ev/brochure.pdf",
+  "colors": [
+    {
+      "name": "MG Windsor EV Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/mg/mg-windsor-ev/hero.jpg"
+    },
+    {
+      "name": "MG Windsor EV Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/mg/mg-windsor-ev/hero.jpg"
+    },
+    {
+      "name": "MG Windsor EV Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/mg/mg-windsor-ev/hero.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "MG Windsor EV Standard / Base",
+      "exShowroomPrice": 13.5,
+      "onRoadPriceEst": 15.25,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "MG Windsor EV Top / Luxury",
+      "exShowroomPrice": 15.5,
+      "onRoadPriceEst": 17.82,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹2.0 Lakh"
+    }
+  ],
+  "specs": {}
+}

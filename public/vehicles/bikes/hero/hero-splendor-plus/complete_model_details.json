@@ -1,0 +1,52 @@
+{
+  "model": "Hero Splendor Plus",
+  "slug": "hero-splendor-plus",
+  "exShowroomRange": "₹0.75 - ₹0.79 Lakh",
+  "brochureUrl": "/bikes/hero/hero-splendor-plus/brochure.pdf",
+  "colors": [
+    {
+      "name": "Hero Splendor Plus Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/hero/hero-splendor-plus/hero.png"
+    },
+    {
+      "name": "Hero Splendor Plus Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/hero/hero-splendor-plus/img_1.png"
+    },
+    {
+      "name": "Hero Splendor Plus Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/hero/hero-splendor-plus/img_2.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Hero Splendor Plus Standard / Base",
+      "exShowroomPrice": 0.75,
+      "onRoadPriceEst": 0.85,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Hero Splendor Plus Top / Luxury",
+      "exShowroomPrice": 0.79,
+      "onRoadPriceEst": 0.91,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.04 Lakh"
+    }
+  ],
+  "specs": {}
+}

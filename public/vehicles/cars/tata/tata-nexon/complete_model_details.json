@@ -1,0 +1,47 @@
+{
+  "model": "Tata Nexon",
+  "slug": "tata-nexon",
+  "exShowroomRange": "₹8.15 - ₹15.6 Lakh",
+  "brochureUrl": "/cars/tata/tata-nexon/brochure.pdf",
+  "colors": [
+    {
+      "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/tata/tata-nexon/hero.png"
+    },
+    {
+      "name": "I Agree To The Terms And Conditions \n            By Clicking On Apply, I Acknowledge That I Have Read And Accept The Terms And Conditions And Privacy Policy.Terms And Conditions",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/tata/tata-nexon/img_1.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Tata Nexon Standard / Base",
+      "exShowroomPrice": 8.15,
+      "onRoadPriceEst": 9.21,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Tata Nexon Top / Luxury",
+      "exShowroomPrice": 15.6,
+      "onRoadPriceEst": 17.94,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹7.45 Lakh"
+    }
+  ],
+  "specs": {}
+}

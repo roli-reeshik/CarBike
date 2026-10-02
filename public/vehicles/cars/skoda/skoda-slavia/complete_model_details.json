@@ -1,0 +1,52 @@
+{
+  "model": "Skoda Slavia",
+  "slug": "skoda-slavia",
+  "exShowroomRange": "₹10.69 - ₹18.69 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Skoda Slavia Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/skoda/skoda-slavia/hero.webp"
+    },
+    {
+      "name": "Skoda Slavia Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/skoda/skoda-slavia/img_1.webp"
+    },
+    {
+      "name": "Skoda Slavia Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/skoda/skoda-slavia/img_2.webp"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Skoda Slavia Standard / Base",
+      "exShowroomPrice": 10.69,
+      "onRoadPriceEst": 12.08,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Skoda Slavia Top / Luxury",
+      "exShowroomPrice": 18.69,
+      "onRoadPriceEst": 21.49,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹8.0 Lakh"
+    }
+  ],
+  "specs": {}
+}

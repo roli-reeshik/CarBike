@@ -1,0 +1,62 @@
+{
+  "model": "MG Hector",
+  "slug": "mg-hector",
+  "exShowroomRange": "₹13.99 - ₹22.24 Lakh",
+  "brochureUrl": "/cars/mg/mg-hector/brochure.pdf",
+  "colors": [
+    {
+      "name": "Slide 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/mg/mg-hector/hero.png"
+    },
+    {
+      "name": "Slide 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/mg/mg-hector/img_1.png"
+    },
+    {
+      "name": "Slide 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/mg/mg-hector/img_2.png"
+    },
+    {
+      "name": "Slide 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/mg/mg-hector/img_3.png"
+    },
+    {
+      "name": "Slide 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/mg/mg-hector/img_4.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "MG Hector Standard / Base",
+      "exShowroomPrice": 13.99,
+      "onRoadPriceEst": 15.81,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "MG Hector Top / Luxury",
+      "exShowroomPrice": 22.24,
+      "onRoadPriceEst": 25.58,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹8.25 Lakh"
+    }
+  ],
+  "specs": {}
+}

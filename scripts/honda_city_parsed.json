@@ -1,0 +1,1559 @@
+{
+  "engineSpecs": [
+    {
+      "category": "Engine Specifications",
+      "headers": [
+        "Parameter",
+        "e:HEV (Self-Charging Strong Hybrid)",
+        "i-VTEC (Petrol)"
+      ],
+      "specs": [
+        {
+          "parameter": "Type",
+          "eHev": "Water-Cooled Inline 4 Cylinder Atkinson cycle DOHC with VTC",
+          "iVtec": "Water-Cooled Inline 4 Cylinder DOHC with VTC"
+        },
+        {
+          "parameter": "Displacement (cm³)",
+          "eHev": "1 498",
+          "iVtec": "1 498"
+        },
+        {
+          "parameter": "No. of Valves",
+          "eHev": "16",
+          "iVtec": "16"
+        },
+        {
+          "parameter": "Max Power (kW [PS] @ rpm)",
+          "eHev": "74 (100) @ 5 600 - 6 400",
+          "iVtec": "89 [121] @ 6 600"
+        },
+        {
+          "parameter": "Max Torque (Nm @ rpm)",
+          "eHev": "131 @ 4 500 - 5 000",
+          "iVtec": "145 @ 4 300"
+        },
+        {
+          "parameter": "Fuel Efficiency* (km/l)",
+          "eHev": "27.26",
+          "iVtec": "17.77 (MT), 17.97 (CVT)"
+        },
+        {
+          "parameter": "Fuel Type",
+          "eHev": "Compliant with E20 (20% Ethanol blended) Petrol",
+          "iVtec": "Compliant with E20 (20% Ethanol blended) Petrol"
+        }
+      ]
+    },
+    {
+      "category": "Hybrid EV System",
+      "headers": [
+        "Parameter",
+        "e:HEV (Self-Charging Strong Hybrid)",
+        "i-VTEC (Petrol)"
+      ],
+      "specs": [
+        {
+          "parameter": "System Combined Max Power (kW [ps])",
+          "eHev": "93 [126]",
+          "iVtec": "—"
+        },
+        {
+          "parameter": "Battery Charging",
+          "eHev": "Self-Charging",
+          "iVtec": "—"
+        },
+        {
+          "parameter": "Hybrid Vehicle Type",
+          "eHev": "Strong Hybrid Electric Vehicle (SHEV)",
+          "iVtec": "—"
+        },
+        {
+          "parameter": "Electric Drive (Traction) Motor Type",
+          "eHev": "AC Synchronous (Permanent Magnet)",
+          "iVtec": "—"
+        },
+        {
+          "parameter": "Max Power (kW [ps] @ rpm)",
+          "eHev": "80 (109) @ 3 500",
+          "iVtec": "—"
+        },
+        {
+          "parameter": "Max Torque (Nm @ rpm)",
+          "eHev": "253 @ 0 - 3 000",
+          "iVtec": "—"
+        },
+        {
+          "parameter": "Rechargeable Energy Storage System (ReESS) Type",
+          "eHev": "Advanced Lithium Ion High-Voltage Battery",
+          "iVtec": "—"
+        },
+        {
+          "parameter": "Nominal Voltage (V)",
+          "eHev": "172.8",
+          "iVtec": "—"
+        }
+      ]
+    },
+    {
+      "category": "Transmission",
+      "headers": [
+        "Parameter",
+        "e:HEV (Self-Charging Strong Hybrid)",
+        "i-VTEC (Petrol)"
+      ],
+      "specs": [
+        {
+          "parameter": "Manual",
+          "eHev": "—",
+          "iVtec": "6 Forward & 1 Reverse"
+        },
+        {
+          "parameter": "Automatic",
+          "eHev": "e-CVT (Electrically-coupled Continuously Variable Transmission) with Engine-Linked Clutch (Wet-type Multi-Plate)",
+          "iVtec": "CVT (Continuously Variable Transmission)"
+        },
+        {
+          "parameter": "Automatic Drive Modes",
+          "eHev": "• [D (Drive) / B (Brake), ECON On/Off - Selectable Drive Modes]\n• [EV Drive Mode, Hybrid Drive & Engine Drive Mode - Auto Selection]",
+          "iVtec": "• [D (Drive) / S (Sports) / SM (Sequential Shift Sports), ECON On/Off - Selectable Drive Modes]"
+        }
+      ]
+    },
+    {
+      "category": "Dimensions and Weight",
+      "headers": [
+        "Parameter",
+        "e:HEV (Self-Charging Strong Hybrid)",
+        "i-VTEC (Petrol)"
+      ],
+      "specs": [
+        {
+          "parameter": "Overall Length (mm)",
+          "eHev": "4 594",
+          "iVtec": "4 594"
+        },
+        {
+          "parameter": "Overall Width (mm)",
+          "eHev": "1 748",
+          "iVtec": "1 748"
+        },
+        {
+          "parameter": "Overall Height (mm)",
+          "eHev": "1 489",
+          "iVtec": "1 489"
+        },
+        {
+          "parameter": "Wheelbase (mm)",
+          "eHev": "2 600",
+          "iVtec": "2 600"
+        },
+        {
+          "parameter": "Front Track (mm)",
+          "eHev": "1 496",
+          "iVtec": "1 496"
+        },
+        {
+          "parameter": "Rear Track (mm)",
+          "eHev": "1 485",
+          "iVtec": "1 484"
+        },
+        {
+          "parameter": "Kerb Weight (kg)",
+          "eHev": "1 294",
+          "iVtec": "1 123 - 1 142 (MT), 1 144 - 1 168 (CVT)"
+        },
+        {
+          "parameter": "Max. GVW (kg)",
+          "eHev": "1 700",
+          "iVtec": "1 580"
+        },
+        {
+          "parameter": "Fuel Tank Capacity (Litres)",
+          "eHev": "40",
+          "iVtec": "40"
+        },
+        {
+          "parameter": "Seating Capacity (Persons)",
+          "eHev": "5",
+          "iVtec": "5"
+        },
+        {
+          "parameter": "Steering System",
+          "eHev": "Collapsible Electric Power Assisted",
+          "iVtec": "Collapsible Electric Power Assisted"
+        },
+        {
+          "parameter": "Turning Circle Radius (m)",
+          "eHev": "5.3",
+          "iVtec": "5.3"
+        }
+      ]
+    },
+    {
+      "category": "Suspension",
+      "headers": [
+        "Parameter",
+        "e:HEV (Self-Charging Strong Hybrid)",
+        "i-VTEC (Petrol)"
+      ],
+      "specs": [
+        {
+          "parameter": "Front Suspension",
+          "eHev": "MacPherson Strut with Coil Spring",
+          "iVtec": "MacPherson Strut with Coil Spring"
+        },
+        {
+          "parameter": "Rear Suspension",
+          "eHev": "Torsion Beam with Coil Spring",
+          "iVtec": "Torsion Beam with Coil Spring"
+        },
+        {
+          "parameter": "Shock Absorbers",
+          "eHev": "Telescopic Hydraulic Nitrogen Gas-Filled",
+          "iVtec": "Telescopic Hydraulic Nitrogen Gas-Filled"
+        },
+        {
+          "parameter": "Stabilizer Bar",
+          "eHev": "Torsion Bar Type (Front)",
+          "iVtec": "Torsion Bar Type (Front)"
+        }
+      ]
+    },
+    {
+      "category": "Brake System",
+      "headers": [
+        "Parameter",
+        "e:HEV (Self-Charging Strong Hybrid)",
+        "i-VTEC (Petrol)"
+      ],
+      "specs": [
+        {
+          "parameter": "Front Brakes",
+          "eHev": "Ventilated Disc",
+          "iVtec": "Ventilated Disc"
+        },
+        {
+          "parameter": "Rear Brakes",
+          "eHev": "Disc (Solid)",
+          "iVtec": "Drum"
+        },
+        {
+          "parameter": "Parking Brake Type",
+          "eHev": "Electric Parking Brake (EPB) with Automatic Brake Hold",
+          "iVtec": "Mechanical Handbrake (Lever Type)"
+        },
+        {
+          "parameter": "Assistance Systems",
+          "eHev": "ABS with EBD, Brake Assist (BA), Regenerative Braking System",
+          "iVtec": "ABS with EBD, Brake Assist (BA)"
+        }
+      ]
+    },
+    {
+      "category": "Tyres and Wheels",
+      "headers": [
+        "Parameter",
+        "e:HEV (Self-Charging Strong Hybrid)",
+        "i-VTEC (Petrol)"
+      ],
+      "specs": [
+        {
+          "parameter": "Wheel Type",
+          "eHev": "16x6J Alloy",
+          "iVtec": "15x6J Steel & Alloy, 16x6 J Alloy"
+        },
+        {
+          "parameter": "Tyre Type & Size",
+          "eHev": "Tubeless Radial 185/55 R16 87H",
+          "iVtec": "Tubeless Radial 185/60 R15 84H, 185/55 R16 83H"
+        },
+        {
+          "parameter": "Spare Wheel Type",
+          "eHev": "15x4 T Steel, T135/80D15 100M (Compact Spare Tyre)",
+          "iVtec": "Steel Wheel, 185/60R15 84H"
+        }
+      ]
+    }
+  ],
+  "featureMatrix": [
+    {
+      "category": "Exterior Design",
+      "trims": [
+        "SV",
+        "V",
+        "VX",
+        "ZX",
+        "ZX+"
+      ],
+      "features": [
+        {
+          "feature": "Blade-Eye Signature LED Lighting System",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Signature Bi-LED Projector Headlamps with Integrated Split LED DRL & Turn Signals",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Front Grille Connected Centre Light Bar (Position Lamp)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Signature Z-Edge Wrap-around LED Tail Lamps",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y (Clear Lens)",
+            "ZX": "Y (Clear Lens)",
+            "ZX+": "Y (Clear Lens)"
+          }
+        },
+        {
+          "feature": "LED Side Marker Lights in Tail Lamp",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Signature Matrix-Mesh Black Painted Front Upper Grille",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Aero-Blade Front Bumper Air Curtains",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y (Black Painted)",
+            "ZX+": "Y (Black Painted)"
+          }
+        },
+        {
+          "feature": "Signature Matrix Mesh Front & Rear Lower Bumper Garnish",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y (Black Painted)",
+            "ZX+": "Y (Black Painted)"
+          }
+        },
+        {
+          "feature": "Body Coloured Trunk Lip Spoiler",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Gloss-Black Trunk Centre Moulding",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "One-Touch Electric Sunroof with Slide/Tilt Function and Pinch Guard",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Steel Wheels R15 with Silver Trim Cover",
+          "trims": {
+            "SV": "Y",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "—"
+          }
+        },
+        {
+          "feature": "Multi-Spoke Gray Painted Alloy Wheels R15",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "—"
+          }
+        },
+        {
+          "feature": "Aero-Blade Diamond Cut Alloy Wheels R16",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y (Shark Gray & Bright-Clear Cut)",
+            "ZX": "Y (Berlina Black & Dark-Clear Cut)",
+            "ZX+": "Y (Berlina Black & Dark-Clear Cut)"
+          }
+        },
+        {
+          "feature": "Body Coloured Door Handles",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Body Coloured Shark Fin Antenna",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Body Coloured Door Mirrors",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Integrated LED Side Turn Indicator on Door Mirrors",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "e:HEV Signature Rear Emblem",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Black Sash Tape on B-Pillar",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Interior & Finish",
+      "trims": [
+        "SV",
+        "V",
+        "VX",
+        "ZX",
+        "ZX+"
+      ],
+      "features": [
+        {
+          "feature": "Leather Upholstery with Luxurious Ivory & Black Two-Tone Interiors",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Embossed-Fabric Upholstery with Premium Beige & Black Two-Tone Interiors",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "—",
+            "ZX+": "—"
+          }
+        },
+        {
+          "feature": "Exclusive Seat Design",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y (Contemporary)",
+            "ZX+": "Y (Sporty)"
+          }
+        },
+        {
+          "feature": "Instrument Panel Assistant-side Garnish",
+          "trims": {
+            "SV": "—",
+            "V": "Y (Piano Black)",
+            "VX": "Y (Piano Black)",
+            "ZX": "Y (Dark Iron 3D Pattern)",
+            "ZX+": "Y (Dark Iron 3D Pattern)"
+          }
+        },
+        {
+          "feature": "Leather Shift Lever Boot with Stitch",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Smooth Leather Steering Wheel with Stitch",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Hand-wrapped Leather Soft Pads (Dashboard Mid Pad, Centre Console Knee Pad, Front Centre Armrest, Door Lining - Armrest & Centre Pads)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Fabric Soft Pads (Front Centre Armrest, Door Lining - Armrest & Centre Pads)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "—",
+            "ZX+": "—"
+          }
+        },
+        {
+          "feature": "AC Vents Surround Finish",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y (Piano Black)",
+            "ZX+": "Y (Piano Black)"
+          }
+        },
+        {
+          "feature": "AC Vent Knobs Chrome Finish",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Piano Black Garnish on Steering Wheel",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Inside Door Handle Chrome Finish",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Chrome Decoration Ring for Map Lamp & Rear Reading Lamp",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Trunk Lid Inside Lining Cover",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Ambient Illumination Light (Dashboard & Display Audio)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Front Footwell Ambient Illumination Light",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Centre Console Pocket Ambient Illumination Light",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Safety and Security",
+      "trims": [
+        "SV",
+        "V",
+        "VX",
+        "ZX",
+        "ZX+"
+      ],
+      "features": [
+        {
+          "feature": "Honda SENSING (ADAS*)",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Collision Mitigation Braking System (CMBS)",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Adaptive Cruise Control",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Low Speed Follow (LSF)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Auto High-Beam",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Lane Keeping Assist System (LKAS)",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Road Departure Mitigation System",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Lead Car Departure Notification System",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "360-degree Surround-Vision Camera (Multi-View with Guidelines & MOD)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Multi-Angle Rear Camera with Guidelines (Normal, Wide, Top-Down)",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Rear Parking Sensors",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "LaneWatch™ Camera",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Advanced Compatibility Engineering (ACE™) Body Structure",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "6 Airbags System (Dual Front i-SRS, Front Seats i-Side & Side Curtain)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Energy Absorbing Front Pretensioner Seatbelts with Load Limiter",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "All 5 Seats 3-Point Emergency Locking Retractor (ELR) Seatbelts",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "All 5 Seats Head Restraints",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "ISOFIX Compatible Rear Side Seats with Lower Anchorage & Top Tether",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Anti-Lock Brake System (ABS)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Brake Assist (BA) with Electronic Brake-force Distribution (EBD)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Vehicle Stability Assist (VSA) with Electronic Stability & Traction Control",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Agile Handling Assist (AHA)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Hill Start Assist",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Emergency Stop Signal",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Tyre Pressure Monitoring System (Deflation Warning System)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "AVAS (Acoustic Vehicle Alerting System at low speed EV Mode)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "All 4 Wheels Disc Brakes",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Electric Parking Brake (EPB)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Automatic Brake Hold System",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Automatic Headlight Control with Light Sensor",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Inside Rear View Mirror (Day/Night)",
+          "trims": {
+            "SV": "Y (Manual)",
+            "V": "Y (Manual)",
+            "VX": "Y (Manual)",
+            "ZX": "Y (Auto-Dimming)",
+            "ZX+": "Y (Auto-Dimming)"
+          }
+        },
+        {
+          "feature": "Advanced Wipers & Washer with Variable Intermittent Speed",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "—",
+            "ZX+": "—"
+          }
+        },
+        {
+          "feature": "Advanced Auto-Wiper System with Rain Sensor",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Rear Windshield Demister",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "All Seats Seatbelt Indicator & Reminder",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Speed Alarm Indicator & Reminder",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Door Ajar & Trunk Open Indicator & Reminder",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Vehicle Immobilizer with Security System Alarm",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Dual Horn",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Battery Sensor",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Tyre Pressure Monitoring System (Linked via Honda Connect App)",
+          "trims": {
+            "SV": "(Optional)#",
+            "V": "(Optional)#",
+            "VX": "(Optional)#",
+            "ZX": "(Optional)#",
+            "ZX+": "(Optional)#"
+          }
+        },
+        {
+          "feature": "Front & Rear DVR with Parking Monitoring (Linked via Honda Connect App)",
+          "trims": {
+            "SV": "(Optional)#",
+            "V": "(Optional)#",
+            "VX": "(Optional)#",
+            "ZX": "(Optional)#",
+            "ZX+": "(Optional)#"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Comfort and Convenience",
+      "trims": [
+        "SV",
+        "V",
+        "VX",
+        "ZX",
+        "ZX+"
+      ],
+      "features": [
+        {
+          "feature": "Active Ventilation System (Front Seats)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Honda Smart Key System with Keyless Remote (x2)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "One-Push Start/Stop Button",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Touch-Sensor Based Smart Keyless Access",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Electrical Trunk Lock with Keyless Release",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Remote Engine Start",
+          "trims": {
+            "SV": "—",
+            "V": "Y (CVT only)",
+            "VX": "Y (CVT only)",
+            "ZX": "Y (CVT only)",
+            "ZX+": "Y (CVT & e:HEV only)"
+          }
+        },
+        {
+          "feature": "Walk Away Auto Lock (Customizable)",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Power Windows & Sunroof Keyless Remote Open/Close",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Follow-Me-Home / Lead-Me-To-Car Headlights (Auto Off Timer)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Power Windows Auto-Open/Close Function with Pinch Guard",
+          "trims": {
+            "SV": "Y (Driver only)",
+            "V": "Y (Driver only)",
+            "VX": "Y (Driver only)",
+            "ZX": "Y (Driver only)",
+            "ZX+": "Y (All 4 Doors)"
+          }
+        },
+        {
+          "feature": "Auto-Folding Remote Retractable Door Mirrors (Welcome Function)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Power Adjustable & Folding Door Mirrors",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Auto Engine Stop/Start",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Electric AC Compressor & Coolant Pump with Heater",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Fully Automatic Climate Control with MAX COOL & Click-Feel Dials",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Rear AC Vents",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Rear Sunshade",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "PM2.5 Dust & Pollen Cabin Filter",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Power Central Door Lock w. Driver Master Switch",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Automatic Door Locking & Unlock",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Telescopic & Tilt Steering Adjustment for Reach & Height",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Driver Seat Height Adjuster",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Adaptive Cruise Control & LKAS Switches on Steering Wheel",
+          "trims": {
+            "SV": "—",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "7-Speed Paddle Shifters (for Sequential Shifts)",
+          "trims": {
+            "SV": "—",
+            "V": "Y (CVT only)",
+            "VX": "Y (CVT only)",
+            "ZX": "Y (CVT only)",
+            "ZX+": "Y (CVT only)"
+          }
+        },
+        {
+          "feature": "Deceleration Selector Paddle Shifters (for Battery Regeneration)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "LED Shift Lever Position Indicator",
+          "trims": {
+            "SV": "—",
+            "V": "Y (CVT only)",
+            "VX": "Y (CVT only)",
+            "ZX": "Y (CVT only)",
+            "ZX+": "Y (CVT & e:HEV only)"
+          }
+        },
+        {
+          "feature": "Easy Shift Lock Release Slot",
+          "trims": {
+            "SV": "—",
+            "V": "Y (CVT only)",
+            "VX": "Y (CVT only)",
+            "ZX": "Y (CVT only)",
+            "ZX+": "Y (CVT & e:HEV only)"
+          }
+        },
+        {
+          "feature": "One Touch Turn Signal for Lane Change Signalling",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Front Accessory Charging Ports with Lid",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Front Centre Armrest & Storage Box",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Front Console Lower Pocket for Smartphones",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Floor Console Cupholders & Utility Space for Smartphones",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Wireless Charger (Plug & Play Type)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y",
+            "ZX": "Y (MT & CVT only)",
+            "ZX+": "Y (MT & CVT only)"
+          }
+        },
+        {
+          "feature": "Wireless Charger (Centre Console Smartphone Tray)",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "—",
+            "ZX": "—",
+            "ZX+": "Y (e:HEV only)"
+          }
+        },
+        {
+          "feature": "Rear Centre Foldable Armrest with Cupholder",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "1L Bottle Holders in All Doors",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Seat Back Pockets",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y (Passenger side)",
+            "ZX": "Y (Driver & Passenger)",
+            "ZX+": "Y (Driver & Passenger)"
+          }
+        },
+        {
+          "feature": "Sun-visor Vanity Mirrors",
+          "trims": {
+            "SV": "Y (Passenger side)",
+            "V": "Y (Passenger side)",
+            "VX": "Y (Driver & Passenger)",
+            "ZX": "Y (Driver & Passenger)",
+            "ZX+": "Y (Driver & Passenger)"
+          }
+        },
+        {
+          "feature": "Driver Side Coin Pocket with Lid",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Foldable Grab Handles (Soft Closing Motion)",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        },
+        {
+          "feature": "Front Map Lamps",
+          "trims": {
+            "SV": "Y (Bulb)",
+            "V": "Y (Bulb)",
+            "VX": "Y (Bulb)",
+            "ZX": "Y (LED)",
+            "ZX+": "Y (LED)"
+          }
+        },
+        {
+          "feature": "Rear Reading Lamps",
+          "trims": {
+            "SV": "—",
+            "V": "—",
+            "VX": "Y (Bulb)",
+            "ZX": "Y (LED)",
+            "ZX+": "Y (LED)"
+          }
+        },
+        {
+          "feature": "Interior Centre Roof Light",
+          "trims": {
+            "SV": "Y (Bulb)",
+            "V": "Y (Bulb)",
+            "VX": "Y (Bulb)",
+            "ZX": "—",
+            "ZX+": "—"
+          }
+        },
+        {
+          "feature": "Trunk Light for Cargo Area Illumination",
+          "trims": {
+            "SV": "Y",
+            "V": "Y",
+            "VX": "Y",
+            "ZX": "Y",
+            "ZX+": "Y"
+          }
+        }
+      ]
+    }
+  ]
+}

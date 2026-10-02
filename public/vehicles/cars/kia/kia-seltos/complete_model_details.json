@@ -1,0 +1,79 @@
+{
+  "model": "Kia Seltos",
+  "slug": "kia-seltos",
+  "exShowroomRange": "₹10.9 - ₹20.35 Lakh",
+  "brochureUrl": "/cars/kia/kia-seltos/brochure.pdf",
+  "colors": [
+    {
+      "name": "Color 1",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/hero.png"
+    },
+    {
+      "name": "Color 2",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/img_1.png"
+    },
+    {
+      "name": "Color 3",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/img_2.png"
+    },
+    {
+      "name": "Color 4",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/img_3.png"
+    },
+    {
+      "name": "Color 5",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/img_4.png"
+    },
+    {
+      "name": "Color 6",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/img_5.png"
+    },
+    {
+      "name": "Color 7",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/img_6.jpg"
+    },
+    {
+      "name": "Color 8",
+      "hexCode": "#3b82f6",
+      "previewUrl": "/cars/kia/kia-seltos/img_7.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Kia Seltos Standard / Base",
+      "exShowroomPrice": 10.9,
+      "onRoadPriceEst": 12.32,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Kia Seltos Top / Luxury",
+      "exShowroomPrice": 20.35,
+      "onRoadPriceEst": 23.4,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹9.45 Lakh"
+    }
+  ],
+  "specs": {
+    "how it works": "Book Online"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "model": "Honda Elevate",
+  "slug": "honda-elevate",
+  "exShowroomRange": "₹11.69 - ₹16.43 Lakh",
+  "brochureUrl": "/cars/honda-cars/honda-elevate/brochure.pdf",
+  "colors": [
+    {
+      "name": "Honda Elevate Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/honda-cars/honda-elevate/hero.jpg"
+    },
+    {
+      "name": "Honda Elevate Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/honda-cars/honda-elevate/img_1.jpg"
+    },
+    {
+      "name": "Honda Elevate Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/honda-cars/honda-elevate/img_2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Honda Elevate Standard / Base",
+      "exShowroomPrice": 11.69,
+      "onRoadPriceEst": 13.21,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Honda Elevate Top / Luxury",
+      "exShowroomPrice": 16.43,
+      "onRoadPriceEst": 18.89,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹4.74 Lakh"
+    }
+  ],
+  "specs": {}
+}

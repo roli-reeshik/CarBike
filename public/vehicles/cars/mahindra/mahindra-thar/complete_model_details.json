@@ -1,0 +1,52 @@
+{
+  "model": "Mahindra Thar",
+  "slug": "mahindra-thar",
+  "exShowroomRange": "₹11.35 - ₹17.6 Lakh",
+  "brochureUrl": null,
+  "colors": [
+    {
+      "name": "Mahindra Thar Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": ""
+    },
+    {
+      "name": "Mahindra Thar Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": ""
+    },
+    {
+      "name": "Mahindra Thar Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": ""
+    }
+  ],
+  "variants": [
+    {
+      "name": "Mahindra Thar Standard / Base",
+      "exShowroomPrice": 11.35,
+      "onRoadPriceEst": 12.83,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Mahindra Thar Top / Luxury",
+      "exShowroomPrice": 17.6,
+      "onRoadPriceEst": 20.24,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹6.25 Lakh"
+    }
+  ],
+  "specs": {}
+}

@@ -1,0 +1,52 @@
+{
+  "model": "Maruti Ertiga",
+  "slug": "maruti-ertiga",
+  "exShowroomRange": "₹8.69 - ₹13.03 Lakh",
+  "brochureUrl": "/cars/maruti/maruti-ertiga/brochure.pdf",
+  "colors": [
+    {
+      "name": "Maruti Ertiga Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/cars/maruti/maruti-ertiga/hero.jpg"
+    },
+    {
+      "name": "Maruti Ertiga Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/cars/maruti/maruti-ertiga/img_1.jpg"
+    },
+    {
+      "name": "Maruti Ertiga Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/cars/maruti/maruti-ertiga/img_2.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Maruti Ertiga Standard / Base",
+      "exShowroomPrice": 8.69,
+      "onRoadPriceEst": 9.82,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Maruti Ertiga Top / Luxury",
+      "exShowroomPrice": 13.03,
+      "onRoadPriceEst": 14.98,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹4.34 Lakh"
+    }
+  ],
+  "specs": {}
+}

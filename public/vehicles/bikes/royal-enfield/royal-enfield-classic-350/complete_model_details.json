@@ -1,0 +1,52 @@
+{
+  "model": "Royal Enfield Classic 350",
+  "slug": "royal-enfield-classic-350",
+  "exShowroomRange": "₹1.93 - ₹2.3 Lakh",
+  "brochureUrl": "/bikes/royal-enfield/royal-enfield-classic-350/brochure.pdf",
+  "colors": [
+    {
+      "name": "Royal Enfield Classic 350 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-classic-350/hero.jpg"
+    },
+    {
+      "name": "Royal Enfield Classic 350 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-classic-350/img_1.jpg"
+    },
+    {
+      "name": "Royal Enfield Classic 350 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/royal-enfield/royal-enfield-classic-350/img_2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Royal Enfield Classic 350 Standard / Base",
+      "exShowroomPrice": 1.93,
+      "onRoadPriceEst": 2.18,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Royal Enfield Classic 350 Top / Luxury",
+      "exShowroomPrice": 2.3,
+      "onRoadPriceEst": 2.64,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.37 Lakh"
+    }
+  ],
+  "specs": {}
+}

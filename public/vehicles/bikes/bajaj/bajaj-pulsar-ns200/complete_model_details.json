@@ -1,0 +1,52 @@
+{
+  "model": "Bajaj Pulsar NS200",
+  "slug": "bajaj-pulsar-ns200",
+  "exShowroomRange": "₹1.58 - ₹1.62 Lakh",
+  "brochureUrl": "/bikes/bajaj/bajaj-pulsar-ns200/brochure.pdf",
+  "colors": [
+    {
+      "name": "Bajaj Pulsar NS200 Pristine White",
+      "hexCode": "#FFFFFF",
+      "previewUrl": "/bikes/bajaj/bajaj-pulsar-ns200/hero.webp"
+    },
+    {
+      "name": "Bajaj Pulsar NS200 Daytona Grey",
+      "hexCode": "#4A4D4E",
+      "previewUrl": "/bikes/bajaj/bajaj-pulsar-ns200/img_1.webp"
+    },
+    {
+      "name": "Bajaj Pulsar NS200 Signature Red",
+      "hexCode": "#B91C1C",
+      "previewUrl": "/bikes/bajaj/bajaj-pulsar-ns200/img_2.png"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Bajaj Pulsar NS200 Standard / Base",
+      "exShowroomPrice": 1.58,
+      "onRoadPriceEst": 1.79,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Front Power Windows",
+        "Dual Airbags",
+        "ABS with EBD"
+      ],
+      "priceDifferenceOverBase": "Base Standard"
+    },
+    {
+      "name": "Bajaj Pulsar NS200 Top / Luxury",
+      "exShowroomPrice": 1.62,
+      "onRoadPriceEst": 1.86,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "keyFeatures": [
+        "Touchscreen Infotainment",
+        "Alloy Wheels",
+        "Connected Car Tech"
+      ],
+      "priceDifferenceOverBase": "+₹0.04 Lakh"
+    }
+  ],
+  "specs": {}
+}
