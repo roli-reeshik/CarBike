@@ -1,0 +1,128 @@
+Choose an Engine	
+1.5 l U2 CRDi diesel
+Overview
+tableTypeCol
+Category	SUV
+Product Label	1.5 l U2 CRDi diesel
+Model Name	CRETA
+Seats	5
+Performance
+Engine
+Engine Type1.5 l U2 CRDi
+Displacement(cm3)1 493 cm3
+Max. Power85 kW (116 PS) @ 4 000 r/min
+Max. Torque250 Nm (25.5 kgm) @ 1 500 - 2 750 r/min
+Configuration4 cylinders, 16 valves
+Valvetrain TypeDOHC
+Transmission
+Transmission Type6-speed manual & 6-speed automatic
+Suspension
+Suspension FrontMcPherson strut with coil spring
+Suspension RearCouple torsion beam axle
+Suspension Shock Absorber-
+Brake
+Brake FrontDisc
+Brake RearDisc
+Fuel
+Fuel TypeDiesel
+Fuel Tank Capacity50 l
+Dimension
+Exterior
+Overall Length (mm)4330 mm
+Overall Width (mm)1 790 mm
+Overall Height (mm)1 635^^ mm
+Wheelbase (mm)2 610 mm
+Space
+Boot Space-
+Wheels
+Exterior
+Size205/65 R16(D=405.6mm)steel wheel with wheel cover(E,EX,EX,EX(O)),DT styled steel wheel(EX(O))
+215/60 R17(D=436.6 mm) alloy (S(O),S(O),SX,SX ,SX Premium,SX Premium )
+Spare wheel205/65 R16(D=405.6mm)steel(E,EX,EX,EX(O),EX(O),S(O),S(O),SX,SX,SXPremium,SX Premium)
+215 / 60 R17 Steel (D=436.6 mm) (S(O) Knight, S(O) Knight , King, King Knight)
+
+Choose an Engine	
+1.5 l MPi Petrol
+Overview
+tableTypeCol
+Category	SUV
+Product Label	1.5 l MPi Petrol
+Model Name	CRETA
+Seats	5
+Performance
+Engine
+Engine Type1.5 l MPi
+Fuel System-
+Displacement(cm3)1 497 cm3
+Max. Power84.4 kW (115 PS) @ 6 300 r/min
+Max. Torque143.8 Nm (14.7 kgm) @ 4 500 r/min
+Configuration4 cylinders, 16 valves
+Valvetrain TypeDOHC
+Transmission
+Transmission Type6-speed manual & Intelligent variable transmission (IVT)
+Suspension
+Suspension FrontMcPherson strut with coil spring
+Suspension RearCoupled torsion beam axle
+Suspension Shock Absorber-
+Brake
+Brake FrontDisc
+Brake RearDisc
+Fuel
+Fuel TypePetrol
+Fuel Tank Capacity50 l
+Dimension
+Exterior
+Overall Length (mm)4330 mm
+Overall Width (mm)1 790 mm
+Overall Height (mm)1 635^^ mm
+Wheelbase (mm)2 610 mm
+Wheels
+Exterior
+Size205/65 R16(D=405.6mm)steel wheel with wheel cover(E,EX,EX,EX(O)),DT styled steel wheel(EX(O))
+215/60 R17(D=436.6 mm) alloy (S(O),S(O),SX,SX ,SX Premium,SX Premium
+Spare wheel205/65 R16(D=405.6mm)steel(E,EX,EX,EX(O),EX(O),S(O),S(O),SX,SX,SXPremium,SX Premium)
+215 / 60 R17 Steel (D=436.6 mm) (S(O) Knight, S(O) Knight , King, King Knight)
+
+Choose an Engine	
+1.5 l Turbo GDi petrol
+Overview
+tableTypeCol
+Category	SUV
+Product Label	1.5 l Turbo GDi petrol
+Model Name	CRETA
+Seats	5
+Performance
+Engine
+Engine Type7-speed DCT
+Displacement(cm3)1 482 cm3
+Max. Power117.5 kW (160 PS) @ 5 500 r/min
+Max. Torque253 Nm (25.8 kgm) @ 1 500~3 500 r/min
+Configuration4 cylinders, 16 valves
+Valvetrain TypeDOHC
+Transmission
+Transmission Type7-speed DCT
+Suspension
+Suspension FrontMcPherson strut with coil spring
+Suspension RearCouple torsion beam axle
+Suspension Shock Absorber-
+Brake
+Brake FrontDisc
+Brake RearDisc
+Fuel
+Fuel TypePetrol
+Fuel Tank Capacity50 l
+Dimension
+Exterior
+Overall Length (mm)4330 mm
+Overall Width (mm)1 790 mm
+Overall Height (mm)1 635^^ mm
+Wheelbase (mm)2 610 mm
+Space
+Boot Space
+
+Wheels
+Exterior
+Size205/65 R16(D=405.6mm)steel wheel with wheel cover(E,EX,EX,EX(O)),DT styled steel wheel(EX(O))
+215/60 R17(D=436.6 mm) alloy (S(O),S(O),SX,SX ,SX Premium,SX Premium)
+Spare wheel205/65 R16(D=405.6mm)steel(E,EX,EX,EX(O),EX(O),S(O),S(O),SX,SX,SXPremium,SX Premium)
+215 / 60 R17 Steel (D=436.6 mm) (S(O) Knight, S(O) Knight , King, King Knight)

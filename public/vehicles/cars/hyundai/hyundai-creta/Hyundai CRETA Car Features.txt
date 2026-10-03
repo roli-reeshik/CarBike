@@ -1,0 +1,182 @@
+New Hyundai CRETA Car Features
+Engine & Trim Plan	E	EX	EX(O)	S(O)	S(O) Knight	SX	SX Premium	King	King Knight	Lounge Edition
+1.5 l Mpi Petrol	MT	●	●	●	●	●	●	●	●	-	-
+IVT	-	-	●	●	-	-	●	●	●	●
+1.5 l U2 CRDi diesel	MT	●	●	●	●	●	-	●	●	-	-
+AT	-	-	●	●	-	-	-	●	●	●
+1.5 l turbo GDi petrol	DCT	-	-	-	-	-	-	-	●	-	-
+Safety
+Feature	E	EX	EX(O)	S(O)	S(O) Knight	SX	SX Premium	King	King Knight	Lounge Edition
+Airbag	Driver & passenger	S	S	S	S	S	S	S	S	S	S
+Side & curtain	S	S	S	S	S	S	S	S	S	S
+ABS(Anti-lock braking system) with EBD	S	S	S	S	S	S	S	S	S	S
+Electronic stability control (ESC)	S	S	S	S	S	S	S	S	S	S
+Vehicle stability management (VSM)	S	S	S	S	S	S	S	S	S	S
+Hill start assist control (HAC)	S	S	S	S	S	S	S	S	S	S
+Tyre pressure monitoring system(TPMS) Highline	S	S	S	S	S	S	S	S	S	S
+Rear disc brakes	S	S	S	S	S	S	S	S	S	S
+Seat belt pretensioners - driver & passenger	S	S	S	S	S	S	S	S	S	S
+Driver anchor pretensioner	S	S	S	S	S	S	S	S	S	S
+Height adjustable front seat belts	S	S	S	S	S	S	S	S	S	S
+3 Point seat belts (all seats)	S	S	S	S	S	S	S	S	S	S
+Seatbelt reminder (all seats)	S	S	S	S	S	S	S	S	S	S
+ISOFIX	S	S	S	S	S	S	S	S	S	S
+Emergency stop signal (ESS)	S	S	S	S	S	S	S	S	S	S
+Impact sensing auto door unlock	S	S	S	S	S	S	S	S	S	S
+Speed sensing auto door lock	S	S	S	S	S	S	S	S	S	S
+Inside door override (Driver only)	S	S	S	S	S	S	S	S	S	S
+Driver Power window with auto up down and safety	-	-	-	-	-	S	S	S	S	S
+Immobilizer	S	S	S	S	S	S	S	S	S	S
+Burglar alarm	S	S	S	S	S	S	S	S	S	S
+Central Locking	S	S	S	S	S	S	S	S	S	S
+Inside rear	Day and night mirror	S	S	S	S	S	-	-	-	-	-
+Day and night mirror with telematics switches	-	-	-	-	-	S	S	-	-	-
+Electro chromic mirror (ECM) with telematics switches	-	-	-	-	-	-	-	S	S	S
+Automatic headlamps	-	-	-	S	S	S	S	S	S	S
+Headlamp escort function	S	S	S	S	S	S	S	S	S	S
+Rear defogger with timer	-	-	-	S	S	S	S	S	S	S
+Puddle lamps with welcome function	Driver side	-	-	-	-	-	S	S	S	S	S
+Passenger side	-	-	-	-	-	-	-	S	S	S
+Parking assist	Rear parking sensors	S	S	S	S	S	S	S	S	S	S
+Rear camera with dynamic guidelines	-	-	S	S	S	S	S	S	S	S
+Front Parking sensors	-	-	-	-	-	-	S	S	S	S
+Driver rear view monitor (DRVM)	-	-	-	S	S	S	S	S	S	S
+Hyundai SmartSense (Advanced driver assistance system)	Forward Collision Warning (FCW)	-	-	-	-	-	-	-	S	S	S
+Forward Collision - Avoidance Assist - Car (FCA-Car)	-	-	-	-	-	-	-	S	S	S
+Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)	-	-	-	-	-	-	-	S	S	S
+Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)	-	-	-	-	-	-	-	S	S	S
+Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)	-	-	-	-	-	-	-	S	S	S
+Forward Collision - Avoidance Assist - Direct Oncoming (FCA-DO)	-	-	-	-	-	-	-	S	S	S
+Blind-spot Collision Warning (BCW)	-	-	-	-	-	-	-	S	S	S
+Blind-spot Collision - Avoidance Assist (BCA)	-	-	-	-	-	-	-	S	S	S
+Lane Keeping Assist (LKA)	-	-	-	-	-	-	-	S	S	S
+Lane Departure Warning (LDW)	-	-	-	-	-	-	-	S	S	S
+Driver Attention Warning (DAW)	-	-	-	-	-	-	-	S	S	S
+Safe Exit Warning (SEW)	-	-	-	-	-	-	-	S	S	S
+Smart Cruise Control with Stop & Go (SCC with S&G)	-	-	-	-	-	-	-	S*	S*	S*
+Lane Following Assist (LFA)	-	-	-	-	-	-	-	S	S	S
+High Beam Assist (HBA)	-	-	-	-	-	-	-	S	S	S
+Leading Vehicle Departure Alert (LVDA)	-	-	-	-	-	-	-	S	S	S
+Rear Cross - Traffic Collision Warning (RCCW)	-	-	-	-	-	-	-	S	S	S
+Rear Cross - Traffic Collision - Avoidance Assist (RCCA)	-	-	-	-	-	-	-	S	S	S
+Surround view monitor (SVM)	-	-	-	-	-	-	S	S	S	S
+Blind-spot view monitor (BVM)	-	-	-	-	-	-	S	S	S	S
+Dash cam	-	-	-	S	S	S	S	S	S	S
+EXTERIOR
+Feature	E	EX	EX(O)	S(O)	S(O) Knight	SX	SX Premium	King	King Knight	Lounge Edition
+Wheels	R16 (D=405.6 mm) Steel wheel with wheel cover	S	S	-	-	-	-	-	-	-	-
+R16 (D=405.6 mm) Dual tone styled steel wheel	-	-	S	-	-	-	-	-	-	-
+R17 (D=436.6 mm) Black alloys	-	-	-	S	-	-	-	-	-	-
+R17 (D=436.6 mm) Diamond cut alloys	-	-	-	-	-	S	S	-	-	-
+R18 (D=462 mm) Diamond cut alloys	-	-	-	-	-	-	-	S	-	-
+R18 (D=462 mm) Matte Black alloys	-	-	-	-	S	-	-	-	S	S
+Front & rear skid plate	Silver	S	S	S	S	-	S	S	S	-	-
+Black Painted	-	-	-	-	S	-	-	-	S	S
+Lightening arch C-pillar	Silver	S	S	S	S	-	S	S	S	-	-
+Black Painted	-	-	-	-	S	-	-	-	S	S
+Lighting	Quad Beam LED Headlamp	-	-	S	S	S	S	S	S	S	S
+Projector headlamps	S	S	-	-	-	-	-	-	-	-
+LED Positioning lamp	S	S	S	-	-	-	-	-	-	-
+Horizon LED positioning lamp & DRLs	-	-	S	S	S	S	S	S	S	S
+LED High mounted stop lamp (HMSL)	S	S	S	S	S	S	S	S	S	S
+LED tail lamps	-	-	S	S	S	S	S	S	S	S
+Rear horizon LED lamp	S	S	S	S	S	S	S	S	S	S
+LED turn signal with Sequential Function	-	-	-	-	-	S	S	S	S	S
+LED turn indicators on outside mirrors	-	-	-	S	S	S	S	S	S	S
+Integrated roof rails	Silver	-	-	-	S	-	S	S	S	-	-
+Black Painted	-	-	-	-	S	-	-	-	S	S
+parametric radiator grille	Dark Chrome	-	-	-	S	-	S	S	S	-	S
+Outside door handles	Chrome	-	-	-	-	-	S	S	S	-	-
+Outside door mirrors(ORVM)	Body colour	S	S	S	S	-	S	S	S	-	-
+Black Painted	-	-	-	-	S	-	-	-	S	S
+Side sill garnish	Silver	-	S	S	S	-	S	S	S	-	-
+Black Painted	-	-	-	-	S	-	-	-	S	S
+Antenna	Shark fin	-	S	S	S	S	S	S	S	S	S
+Micro roof	S	-	-	-	-	-	-	-	-	-
+Emblem	King	-	-	-	-	-	-	-	S	-	S
+Knight	-	-	-	-	-	-	-	-	S	-
+Red brake calipers	Front	-	-	-	-	S	-	-	-	S	-
+Rear	-	-	-	-	-	-	-	-	S	-
+Rear spoiler	Body colour	S	S	S	S	-	S	S	S	-	-
+Black Painted	-	-	-	-	S	-	-	-	S	S
+Dual tone pack (Black painted)	Lightening arch C pillar	-	-	-	-	S	S	S	S	S	S
+Integrated roof rails	-	-	-	-	S	S	S	S	S	S
+Oustide door mirrors	-	-	-	-	S	S	S	S	S	S
+Rear Spoiler	-	-	-	-	S	S	S	S	S	S
+INTERIOR
+COMFORT & CONVENIENCE
+Feature	E	EX	EX(O)	S(O)	S(O) Knight	SX	SX Premium	King	King Knight	Lounge Edition
+Sunroof	Smart panoramic	-	-	S	S	S	-	-	-	-	-
+Voice enabled smart panoramic	-	-	-	-	-	S	S	S	S	S
+Air Conditioning	Manual	S	S	S	-	-	-	-	-	-	-
+Dual zone automatic temperature control (DATC)	-	-	-	S	S	S	S	S	S	S
+Front row ventilated seats	-	-	-	-	-	-	S	S	S	S
+Electric parking brake with auto hold	-	-	-	S*	S*	-	S*	S	S	S
+Smartphone wireless charger**	-	-	-	-	-	S	S	S	S	S
+Drive mode select (Eco, Normal, Sport)	-	-	-	S*	S*	-	S*	S*	S*	S*
+Traction control modes (Snow, Mud, Sand)	-	-	-	S*	S*	-	S*	S*	S*	S*
+Paddle shifters	-	-	-	S*	S*	-	S*	S*	S*	S*
+Cruise control	-	-	-	S	S	S	S	S	S	S
+Keyless entry	Foldable key	S	-	-	-	-	-	-	-	-	-
+Smart key with push button start and motion sensor	-	S	S	S	S	S	S	S	S	S
+Outside mirror	Electrically adjustable	-	S	S	S	S	S	S	S	S	S
+Electric Folding	-	-	-	S	S	S	S	S	S	S
+Auto fold	-	-	-	S	S	S	S	S	S	S
+Front console armrest with storage	S	S	S	S	S	S	S	S	S	S
+Remote engine Start with smart key	-	-	-	-	-	S	S	S	S	S
+Rear center armrest with cup holders	S	S	S	S	S	S	S	S	S	S
+Electric tailgate release	S	S	S	S	S	S	S	S	S	S
+Rear AC vent	S	S	S	S	S	S	S	S	S	S
+USB Charger (C-Type)	Front	S	S	S	S	S	S	S	S	S	S
+Rear(x1)	S	S	S	S	S	S	S	-	-	-
+Rear(x2)	-	-	-	-	-	-	-	S	S	S
+Power outlet	S	S	S	S	S	S	S	S	S	S
+Rear wiper and washer	-	-	-	S	S	S	S	S	S	S
+Motor driven power steering	Tilt Function	S	S	S	S	S	S	S	S	S	S
+Telescopic function	S	S	S	S	S	S	S	S	S	S
+Luggage Lamp	-	-	-	S	S	S	S	S	S	S
+Power Windows	Front	S	S	S	S	S	S	S	S	S	S
+Rear	S	S	S	S	S	S	S	S	S	S
+Idle stop & go (ISG)	S	S	S	S	S	S	S	S	S	S
+Passenger vanity mirror	S	S	S	S	S	S	S	S	S	S
+Map lamps	-	S	S	S	S	S	S	S	S	S
+Room lamp	S	S	-	-	-	-	-	-	-	-
+LED reading lamps (Rear)	-	-	S	S	S	S	S	S	S	S
+Sunglass holder	-	S	S	S	S	S	S	S	S	S
+Glove box cooling	-	-	-	S	S	S	S	S	S	S
+Rear wireless charger	-	-	-	-	-	-	-	S	S	S
+Rain sensing wiper	-	-	-	-	-	-	-	S	S	S
+INFOTAINMENT AND CONNECTIVITY
+Feature	E	EX	EX(O)	S(O)	S(O) Knight	SX	SX Premium	King	King Knight	Lounge Edition
+Infotainment system	20.32 cm (8.0") touchscreen infotainment system	-	S	S	S	S	-	-	-	-	-
+26.03 cm (10.25") HD audio video navigation system	-	-	-	-	-	S	S	S	S	S
+29.46 cm (11.6") Touchscreen Rear Seat Entertainment System (Passenger Side)	-	-	-	-	-	-	-	-	-	S
+Bose premium sound 8 speaker system with front central speaker & sub-woofer	-	-	-	-	-	-	S	S	S	S
+Smartphone connectivity	Wireless Android Auto & Apple CarPlay	-	S	S	S	S	S~	S~	S~	S~	S~
+Bluetooth connectivity	-	S	S	S	S	S	S	S	S	S
+JioSaavn music streaming	-	-	-	-	-	S	S	S	S	S
+Digital Cluster	Digital cluster with color TFT MID	S	S	S	S	S	-	-	-	-	-
+26.03 cm (10.25") Multi display digital cluster	-	-	-	-	-	S	S	S	S	S
+Front & rear speakers	-	S	S	S	S	S	S	S	S	S
+Front tweeters	-	S	S	S	S	S	S	S	S	S
+Hyundai Bluelink (connected car technology)	-	-	-	-	-	S	S	S	S	S
+Voice recognition**	-	S	S	S	S	S	S	S	S	S
+Steering wheel with audio & bluetooth controls	-	S	S	S	S	S	S	S	S	S
+Over-the-air (OTA) updates for map and infotainment	-	-	-	-	-	S	S	S	S	S
+Home to car (H2C) with Alexa#	-	-	-	-	-	S	S	S	S	S
+^^ Leatherette
+* IVT/AT/DCT only
+** Works with compatible smartphones only
+# Alexa Amazon Echo is not a standard car accessory and customer needs to purchase from third party
+Disclaimer: SX (O), SX Tech, King & King Knight with AT/DCT/IVT will have smart cruise control
+with stop & go instead of cruise control.
+MT (Manual transmission) | AT (Automatic transmission) | IVT (Intelligent variable transmission) | DCT (Dual-clutch transmission)
+~ Through wired to wireless adapter
+
+Disclaimer
+• Functionality of Bluelink depends on adequate power supply and uninterrupted network connectivity to infotainment system. The Bluelink system is designed in such a way that it makes vehicle theft difficult if its circuit and battery connection is uninterrupted.
+• Some of the equipments illustrated or described in the leaflet may not be supplied as standard equipment and may be available at extra cost.
+• Hyundai Motor India reserves the right to change specifications and equipment without prior notice.
+• The colour plates shown may vary slightly from the actual colours due to the limitations of the web image process.
+• Please consult your dealer for full information and availability on colours and trim.
+
