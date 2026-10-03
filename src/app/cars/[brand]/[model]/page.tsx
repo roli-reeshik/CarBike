@@ -4,6 +4,7 @@ import { getVehicleBySlug } from "@/lib/catalog";
 import { VehicleDetailView } from "@/components/vehicle-details/vehicle-detail-view";
 import { VernaDetailView } from "@/components/vehicle-details/verna-detail-view";
 import { SlaviaDetailView } from "@/components/vehicle-details/slavia-detail-view";
+import { CretaDetailView } from "@/components/vehicle-details/creta-detail-view";
 import { formatInr } from "@/lib/utils";
 
 interface PageProps {
@@ -50,7 +51,9 @@ export default async function CarDetailBrandModelPage({ params }: PageProps) {
 
   return (
     <main className="mx-auto max-w-7xl px-4 pt-6 pb-20 sm:px-6">
-      {vehicle.slug === "hyundai-verna" ? (
+      {vehicle.slug === "hyundai-creta" ? (
+        <CretaDetailView vehicle={vehicle} />
+      ) : vehicle.slug === "hyundai-verna" ? (
         <VernaDetailView vehicle={vehicle} />
       ) : vehicle.slug === "skoda-slavia" ? (
         <SlaviaDetailView vehicle={vehicle} />

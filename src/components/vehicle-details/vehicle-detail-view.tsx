@@ -258,7 +258,14 @@ export function VehicleDetailView({ vehicle }: { vehicle: CatalogVehicle }) {
   }, [featureMatrix, trimA, trimB, vehicle.variants]);
 
   // Brochure URL
-  const brochureUrl = "/vehicles/cars/honda-cars/honda-city/brochure.pdf";
+  const brochureUrl =
+    vehicle.slug === "hyundai-creta"
+      ? "/vehicles/cars/hyundai/hyundai-creta/brochure.pdf"
+      : vehicle.slug === "hyundai-verna"
+      ? "/vehicles/cars/hyundai/hyundai-verna/Verna/verna.pdf"
+      : vehicle.slug === "skoda-slavia"
+      ? "/vehicles/cars/skoda/skoda-slavia/slavia.pdf"
+      : "/vehicles/cars/honda-cars/honda-city/brochure.pdf";
 
   return (
     <div className="space-y-8 pb-20">

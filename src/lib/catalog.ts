@@ -349,6 +349,7 @@ function formatCarPrice(min: number, max: number, isUpcoming = false): string {
 function getVehicleHref(slug: string, brandSlug: string): string {
   if (slug === "skoda-slavia") return "/cars/skoda/skoda-slavia";
   if (slug === "hyundai-verna") return "/cars/hyundai/hyundai-verna";
+  if (slug === "hyundai-creta") return "/cars/hyundai/hyundai-creta";
   if (slug === "honda-city") return "/cars/honda-cars/honda-city";
   return `/cars/${brandSlug}/${slug}`;
 }
