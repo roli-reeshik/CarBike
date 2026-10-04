@@ -51,6 +51,21 @@ const remotePatterns: ImageRemotePattern[] = [
     hostname: "**.auto.dev",
     pathname: "/**",
   },
+  {
+    protocol: "https",
+    hostname: "carimagesapi.com",
+    pathname: "/**",
+  },
+  {
+    protocol: "https",
+    hostname: "**.carimagesapi.com",
+    pathname: "/**",
+  },
+  {
+    protocol: "https",
+    hostname: "cdn.carimagesapi.com",
+    pathname: "/**",
+  },
 ];
 
 

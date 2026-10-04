@@ -3,7 +3,8 @@ import { BrandLogoGrid } from "@/components/home/BrandLogoGrid";
 import { HomeCarShowcase } from "@/components/home/HomeCarShowcase";
 import { getCatalog, getHomeShowcaseData, getAllBrands } from "@/lib/catalog";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 export default async function HomePage() {
   const [vehicles, showcaseData, allBrands] = await Promise.all([

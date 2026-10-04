@@ -1,27 +1,26 @@
 "use client";
 
 import { useState } from "react";
-import { Sparkles, TrendingUp, CalendarClock, Building2 } from "lucide-react";
+import { Sparkles, TrendingUp, CalendarClock } from "lucide-react";
 import { VerticalCarScroll, type CarCardItem } from "./VerticalCarScroll";
-import { BrandLogoList, type BrandItem } from "./BrandLogoList";
+import { type BrandItem } from "./BrandLogoList";
 import { cn } from "@/lib/utils";
 
 interface HomeCarShowcaseProps {
-  brands: BrandItem[];
+  brands?: BrandItem[];
   newLaunches: CarCardItem[];
   upcoming: CarCardItem[];
   popular: CarCardItem[];
 }
 
-type TabOption = "brands" | "new_launches" | "upcoming" | "popular";
+type TabOption = "new_launches" | "upcoming" | "popular";
 
 export function HomeCarShowcase({
-  brands,
   newLaunches,
   upcoming,
   popular,
 }: HomeCarShowcaseProps) {
-  const [activeMobileTab, setActiveMobileTab] = useState<TabOption>("brands");
+  const [activeMobileTab, setActiveMobileTab] = useState<TabOption>("new_launches");
 
   return (
     <section className="space-y-6">
@@ -42,21 +41,7 @@ export function HomeCarShowcase({
       </div>
 
       {/* Mobile / Tablet Tab Switcher (< lg) */}
-      <div className="flex lg:hidden items-center gap-1.5 overflow-x-auto no-scrollbar border-b border-line pb-2">
-        <button
-          type="button"
-          onClick={() => setActiveMobileTab("brands")}
-          className={cn(
-            "flex shrink-0 items-center gap-1.5 rounded-xl px-4 py-2 text-xs font-bold transition-all",
-            activeMobileTab === "brands"
-              ? "bg-ink text-card shadow-xs"
-              : "bg-card text-muted border border-line hover:text-ink"
-          )}
-        >
-          <Building2 className="size-3.5" />
-          Popular Brands ({brands.length})
-        </button>
-
+      <div className="flex lg:hidden items-center gap-2 overflow-x-auto no-scrollbar border-b border-line pb-2">
         <button
           type="button"
           onClick={() => setActiveMobileTab("new_launches")}
@@ -68,7 +53,7 @@ export function HomeCarShowcase({
           )}
         >
           <Sparkles className="size-3.5" />
-          New Launches ({newLaunches.length})
+          New Launch Cars ({newLaunches.length})
         </button>
 
         <button
@@ -82,7 +67,7 @@ export function HomeCarShowcase({
           )}
         >
           <CalendarClock className="size-3.5" />
-          Upcoming ({upcoming.length})
+          Upcoming Cars ({upcoming.length})
         </button>
 
         <button
@@ -96,65 +81,59 @@ export function HomeCarShowcase({
           )}
         >
           <TrendingUp className="size-3.5" />
-          Popular ({popular.length})
+          Popular Cars ({popular.length})
         </button>
       </div>
 
       {/* Mobile View: Render Selected Column */}
       <div className="block lg:hidden max-w-md mx-auto">
-        {activeMobileTab === "brands" && <BrandLogoList brands={brands} />}
         {activeMobileTab === "new_launches" && (
           <VerticalCarScroll
-            title="New Launch Cars"
+            title="a. New Launch Cars"
             badge="Latest"
             cars={newLaunches}
           />
         )}
         {activeMobileTab === "upcoming" && (
           <VerticalCarScroll
-            title="Upcoming Cars"
+            title="b. Upcoming Cars"
             badge="Upcoming"
             cars={upcoming}
           />
         )}
         {activeMobileTab === "popular" && (
           <VerticalCarScroll
-            title="Popular Cars"
+            title="c. Popular Cars"
             badge="Trending"
             cars={popular}
           />
         )}
       </div>
 
-      {/* Desktop Multi-Column Grid (lg and above: 4 Side-by-Side Columns) */}
-      <div className="hidden lg:grid lg:grid-cols-4 gap-4 items-start">
-        {/* Column 1: Popular Brands */}
-        <div className="w-full">
-          <BrandLogoList brands={brands} />
-        </div>
-
-        {/* Column 2: New Launch Cars */}
+      {/* Desktop Multi-Column Grid (lg: 3 Side-by-Side Columns for a, b, c) */}
+      <div className="hidden lg:grid lg:grid-cols-3 gap-6 items-start">
+        {/* Column a: New Launch Cars */}
         <div className="w-full">
           <VerticalCarScroll
-            title="New Launch Cars"
+            title="a. New Launch Cars"
             badge="Latest"
             cars={newLaunches}
           />
         </div>
 
-        {/* Column 3: Upcoming Cars */}
+        {/* Column b: Upcoming Cars */}
         <div className="w-full">
           <VerticalCarScroll
-            title="Upcoming Cars"
+            title="b. Upcoming Cars"
             badge="Upcoming"
             cars={upcoming}
           />
         </div>
 
-        {/* Column 4: Popular Cars */}
+        {/* Column c: Popular Cars */}
         <div className="w-full">
           <VerticalCarScroll
-            title="Popular Cars"
+            title="c. Popular Cars"
             badge="Trending"
             cars={popular}
           />
