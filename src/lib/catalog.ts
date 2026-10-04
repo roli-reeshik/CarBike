@@ -1,5 +1,6 @@
 import type { Prisma } from "@prisma/client";
 import { db } from "@/lib/db";
+import { resolveVehicle } from "@/lib/vehicle-resolver";
 import type {
   CatalogDealer,
   CatalogVehicle,
@@ -86,6 +87,7 @@ export async function getCatalog(): Promise<CatalogVehicle[]> {
     powerBhp: vehicle.powerBhp,
     torqueNm: vehicle.torqueNm,
     mileageOrRange: vehicle.mileageOrRange,
+    groundClearanceMm: vehicle.groundClearanceMm,
     seatingCapacity: vehicle.seatingCapacity,
     bikeStyle: vehicle.bikeStyle,
     engineSpecs: vehicle.engineSpecs as unknown as EngineSpecCategory[] | null,
@@ -128,97 +130,14 @@ export async function getCatalog(): Promise<CatalogVehicle[]> {
   }));
 }
 
-export async function getVehicleBySlug(slug: string): Promise<CatalogVehicle | null> {
-  const vehicle = await db.vehicle.findUnique({
-    where: { slug },
-    include: {
-      brand: true,
-      variants: { orderBy: { exShowroomPrice: "asc" } },
-      colors: { orderBy: { name: "asc" } },
-      reviews: { orderBy: { createdAt: "desc" } },
-    },
-  });
-
-  if (!vehicle) return null;
-
-  const dealers = await db.dealer.findMany({
-    where: {
-      OR: [
-        { vehicleId: vehicle.id },
-        { brandId: vehicle.brandId },
-      ],
-    },
-    include: { brand: true },
-    orderBy: [{ city: "asc" }, { rating: "desc" }, { name: "asc" }],
-  });
-
-  return {
-    id: vehicle.id,
-    slug: vehicle.slug,
-    name: vehicle.name,
-    brandName: vehicle.brand.name,
-    brandSlug: vehicle.brand.slug,
-    category: vehicle.category as VehicleCategory,
-    tagline: vehicle.tagline,
-    bodyType: vehicle.bodyType,
-    fuelTypes: vehicle.fuelTypes,
-    transmissionTypes: vehicle.transmissionTypes,
-    heroImage: vehicle.heroImage,
-    priceMin: asNumber(vehicle.priceMin) ?? 0,
-    priceMax: asNumber(vehicle.priceMax) ?? 0,
-    budgetRange: vehicle.budgetRange,
-    ncapRating: vehicle.ncapRating,
-    launchStatus: vehicle.launchStatus as LaunchStatusName,
-    expectedLaunchDate: vehicle.expectedLaunchDate,
-    isDateConfirmed: vehicle.isDateConfirmed,
-    expectedPriceMinLakh: asNumber(vehicle.expectedPriceMinLakh),
-    expectedPriceMaxLakh: asNumber(vehicle.expectedPriceMaxLakh),
-    preBookingAmount: vehicle.preBookingAmount,
-    engineOrBattery: vehicle.engineOrBattery,
-    powerBhp: vehicle.powerBhp,
-    torqueNm: vehicle.torqueNm,
-    mileageOrRange: vehicle.mileageOrRange,
-    seatingCapacity: vehicle.seatingCapacity,
-    bikeStyle: vehicle.bikeStyle,
-    engineSpecs: vehicle.engineSpecs as unknown as EngineSpecCategory[] | null,
-    featureMatrix: vehicle.featureMatrix as unknown as FeatureCategory[] | null,
-    variants: vehicle.variants.map((variant) => ({
-      id: variant.id,
-      name: variant.name,
-      powertrain: variant.powertrain,
-      exShowroomPrice: asNumber(variant.exShowroomPrice) ?? 0,
-      onRoadPriceEst: asNumber(variant.onRoadPriceEst) ?? 0,
-      transmission: variant.transmission,
-      seatingCapacity: variant.seatingCapacity,
-      keyFeatures: variant.keyFeatures,
-      powerBhp: asNumber(variant.powerBhp),
-      torqueNm: asNumber(variant.torqueNm),
-      mileageKmpl: asNumber(variant.mileageKmpl),
-      engineCc: variant.engineCc,
-    })),
-    colors: vehicle.colors.map((color) => ({
-      id: color.id,
-      name: color.name,
-      hexCode: color.hexCode ?? "#000000",
-      previewUrl: color.previewUrl,
-      imageUrl: color.imageUrl,
-    })),
-    dealers: dealers.map((dealer) =>
-      mapDealer(dealer, vehicle.brand.name, vehicle.brand.slug)
-    ),
-    reviews: vehicle.reviews.map((review) => ({
-      id: review.id,
-      authorName: review.authorName,
-      city: review.city,
-      ratingOverall: review.ratingOverall,
-      ratingMileage: review.ratingMileage,
-      ratingComfort: review.ratingComfort,
-      title: review.title,
-      comment: review.comment,
-      isVerified: review.isVerified,
-    })),
-  };
+export async function getVehicleBySlug(
+  slug: string,
+  options?: { forceSync?: boolean; brandSlug?: string }
+): Promise<CatalogVehicle | null> {
+  const result = await resolveVehicle(slug, options);
+  return result.vehicle;
 }
+
 
 export async function getDealers(filters?: {
   brandSlug?: string;
@@ -317,6 +236,22 @@ export async function getDealerNetworkBrands(): Promise<
   }));
 }
 
+export async function getAllBrands(): Promise<
+  Array<{ id: string; name: string; slug: string; vehicleType: "CAR" | "BIKE" }>
+> {
+  const brands = await db.brand.findMany({
+    select: { id: true, name: true, slug: true, vehicleType: true },
+    orderBy: { name: "asc" },
+  });
+
+  return brands.map((b) => ({
+    id: b.id,
+    name: b.name,
+    slug: b.slug,
+    vehicleType: b.vehicleType as "CAR" | "BIKE",
+  }));
+}
+
 export interface HomeCarItem {
   id: string;
   name: string;
@@ -412,12 +347,27 @@ export async function getHomeShowcaseData(): Promise<{
     .filter((v) => v.launchStatus === "NEW_LAUNCH")
     .map((v) => mapToHomeCar(v));
 
+  // Upcoming: STRICT FILTER - Only genuine upcoming models & upcoming EVs.
+  // Strict exclusion guarantees no existing launched vehicle is ever shown under Upcoming.
+  const existingCarSlugs = new Set([
+    "skoda-slavia",
+    "hyundai-verna",
+    "hyundai-creta",
+    "honda-city",
+    "honda-civic",
+    "toyota-camry",
+  ]);
+
   const upcoming = allCars
-    .filter((v) => v.launchStatus === "UPCOMING")
+    .filter(
+      (v) =>
+        (v.launchStatus === "UPCOMING" || v.launchStatus === "PRE_BOOKING_OPEN") &&
+        !existingCarSlugs.has(v.slug)
+    )
     .map((v) => mapToHomeCar(v, true));
 
   const popular = allCars
-    .filter((v) => v.launchStatus === "POPULAR")
+    .filter((v) => v.launchStatus === "POPULAR" || v.launchStatus === "LAUNCHED")
     .map((v) => mapToHomeCar(v));
 
   return {

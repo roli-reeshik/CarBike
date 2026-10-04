@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState, type ReactNode } from "react";
-import { Bike, Car, ChevronDown, RotateCcw } from "lucide-react";
+import { Bike, Car, ChevronDown, RotateCcw, Sparkles } from "lucide-react";
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import {
   FUEL_OPTIONS,
@@ -19,8 +19,10 @@ import { VehicleResult } from "@/components/vehicle-result";
 
 export function RequirementSelector({
   vehicles,
+  allBrands = [],
 }: {
   vehicles: CatalogVehicle[];
+  allBrands?: Array<{ name: string; vehicleType: "CAR" | "BIKE" }>;
 }) {
   const category = useRequirementStore((state) => state.category);
   const brand = useRequirementStore((state) => state.brand);
@@ -41,13 +43,20 @@ export function RequirementSelector({
 
   const availableBrands = useMemo(() => {
     const brandSet = new Set<string>();
+    // 1. Include all official brands registered for this category
+    for (const b of allBrands) {
+      if (b.vehicleType === category && b.name) {
+        brandSet.add(b.name);
+      }
+    }
+    // 2. Include any brands present in catalog vehicles
     for (const v of vehicles) {
       if (v.category === category && v.brandName) {
         brandSet.add(v.brandName);
       }
     }
     return Array.from(brandSet).sort((a, b) => a.localeCompare(b));
-  }, [vehicles, category]);
+  }, [vehicles, category, allBrands]);
 
   function handleCategorySwitch(next: "CAR" | "BIKE") {
     setCategory(next);
@@ -168,7 +177,7 @@ export function RequirementSelector({
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-5">
           <SelectField
             id="body-type"
-            label="Vehicle Type"
+            label={category === "CAR" ? "Body style" : "Riding style"}
             value={bodyType}
             onChange={(value) => {
               setRemote(null);
@@ -190,7 +199,10 @@ export function RequirementSelector({
             id="budget"
             label="Budget range"
             value={budget}
-            onChange={setBudget}
+            onChange={(value) => {
+              setRemote(null);
+              setBudget(value);
+            }}
           >
             <option value="">Any budget</option>
             {budgets.map((option) => (
@@ -199,7 +211,15 @@ export function RequirementSelector({
               </option>
             ))}
           </SelectField>
-          <SelectField id="fuel" label="Fuel / powertrain" value={fuel} onChange={setFuel}>
+          <SelectField
+            id="fuel"
+            label="Fuel / powertrain"
+            value={fuel}
+            onChange={(value) => {
+              setRemote(null);
+              setFuel(value);
+            }}
+          >
             <option value="">Any fuel</option>
             {FUEL_OPTIONS.map((option) => (
               <option key={option} value={option}>
@@ -211,7 +231,10 @@ export function RequirementSelector({
             id="transmission"
             label="Transmission"
             value={transmission}
-            onChange={setTransmission}
+            onChange={(value) => {
+              setRemote(null);
+              setTransmission(value);
+            }}
           >
             <option value="">Any transmission</option>
             {TRANSMISSION_OPTIONS.map((option) => (
@@ -225,7 +248,10 @@ export function RequirementSelector({
               id="seating"
               label="Seating capacity"
               value={seating}
-              onChange={setSeating}
+              onChange={(value) => {
+                setRemote(null);
+                setSeating(value);
+              }}
             >
               <option value="">Any seating</option>
               {SEATING_OPTIONS.map((option) => (
@@ -239,7 +265,10 @@ export function RequirementSelector({
               id="riding"
               label="Riding segment"
               value={riding}
-              onChange={setRiding}
+              onChange={(value) => {
+                setRemote(null);
+                setRiding(value);
+              }}
             >
               <option value="">Any segment</option>
               {RIDING_OPTIONS.map((option) => (
@@ -262,18 +291,38 @@ export function RequirementSelector({
         </div>
       </div>
 
-      {listError ? (
-        <p className="text-sm text-accent" role="status">
-          {listError}
-        </p>
-      ) : null}
-      <p className="text-sm text-muted" aria-live="polite">
-        {matches.length === 0
-          ? `No ${noun}s match these criteria.`
-          : matches.length === 1
-            ? `1 ${noun} matches.`
-            : `${matches.length} ${noun}s match.`}
-      </p>
+      {/* 2. Cars Match, with all variants */}
+      <div id="cars-match" className="space-y-6 pt-6 border-t border-line/70">
+        <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-3">
+          <div>
+            <div className="inline-flex items-center gap-1.5 rounded-full border border-accent/20 bg-accent-soft px-3 py-1 text-xs font-semibold text-accent mb-2">
+              <Sparkles className="size-3.5" />
+              Real-Time Match &amp; Trims
+            </div>
+            <h2 className="font-display text-2xl font-bold tracking-tight text-ink sm:text-3xl">
+              {category === "CAR" ? "Cars" : "Bikes"} Match, with all variants
+            </h2>
+            <p className="mt-1 text-xs text-muted sm:text-sm">
+              Explore matching vehicles, compare complete variant lineups, check on-road prices, colors, and verified dealers.
+            </p>
+          </div>
+          <div
+            className="text-xs sm:text-sm font-semibold text-muted bg-paper px-3.5 py-1.5 rounded-full border border-line shrink-0"
+            aria-live="polite"
+          >
+            {matches.length === 0
+              ? `0 ${noun}s found`
+              : matches.length === 1
+                ? `1 ${noun} matches`
+                : `${matches.length} ${noun}s match`}
+          </div>
+        </div>
+
+        {listError ? (
+          <p className="text-sm text-accent" role="status">
+            {listError}
+          </p>
+        ) : null}
 
       {matches.length > 1 ? (
         <div className="flex gap-2 overflow-x-auto pb-1">
@@ -337,6 +386,7 @@ export function RequirementSelector({
           </motion.div>
         )}
       </AnimatePresence>
+      </div>
     </section>
   );
 }

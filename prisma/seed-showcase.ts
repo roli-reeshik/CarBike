@@ -90,6 +90,7 @@ async function run() {
       torqueNm: '178 Nm',
       mileageOrRange: '19.8 kmpl',
     },
+    // Column 3: Popular
     {
       name: 'Škoda Slavia',
       slug: 'skoda-slavia',
@@ -103,14 +104,13 @@ async function run() {
       priceMin: 1069000,
       priceMax: 1869000,
       budgetRange: '8_15',
-      launchStatus: LaunchStatus.UPCOMING,
+      launchStatus: LaunchStatus.POPULAR,
       isFeatured: true,
       engineOrBattery: '1.0L TSI / 1.5L TSI',
       powerBhp: '147.51 bhp',
       torqueNm: '250 Nm',
       mileageOrRange: '19.36 kmpl',
     },
-    // Column 3: Popular
     {
       name: 'Hyundai Verna',
       slug: 'hyundai-verna',

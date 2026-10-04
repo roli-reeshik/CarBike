@@ -41,7 +41,18 @@ const remotePatterns: ImageRemotePattern[] = [
     hostname: "s3.*.amazonaws.com",
     pathname: "/**",
   },
+  {
+    protocol: "https",
+    hostname: "auto.dev",
+    pathname: "/**",
+  },
+  {
+    protocol: "https",
+    hostname: "**.auto.dev",
+    pathname: "/**",
+  },
 ];
+
 
 function withCdnHost(patterns: ImageRemotePattern[]): ImageRemotePattern[] {
   const raw = process.env.NEXT_PUBLIC_CDN_URL;

@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
-import prisma from '@/lib/prisma';
+import { resolveVehicle } from '@/lib/vehicle-resolver';
 import {
   Calendar,
   CheckCircle2,
@@ -14,24 +14,13 @@ import { dealerCityOptions } from '@/lib/requirements';
 
 interface PageProps {
   params: Promise<{ brand: string; model: string }>;
+  searchParams?: Promise<{ forceSync?: string }>;
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { brand: brandSlug, model: modelSlug } = await params;
 
-  const vehicle = await prisma.vehicle.findFirst({
-    where: {
-      slug: modelSlug,
-      brand: {
-        slug: {
-          in: [brandSlug, brandSlug.replace(/-cars$/, ''), `${brandSlug}-cars`],
-        },
-      },
-    },
-    include: {
-      brand: true,
-    },
-  });
+  const { vehicle } = await resolveVehicle(modelSlug, { brandSlug });
 
   if (!vehicle) {
     return {
@@ -73,34 +62,22 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-export default async function CarModelPage({ params }: PageProps) {
-  // 1. Resolve asynchronous route parameters (Next.js 15+)
+export default async function CarModelPage({ params, searchParams }: PageProps) {
+  // 1. Resolve asynchronous route parameters & query flags (Next.js 15+)
   const { brand: brandSlug, model: modelSlug } = await params;
+  const query = (await searchParams) || {};
+  const isForceSync = query.forceSync === 'true' || query.forceSync === '1';
 
-  // 2. Fetch vehicle record with relations
-  const vehicle = await prisma.vehicle.findFirst({
-    where: {
-      slug: modelSlug,
-      brand: {
-        slug: {
-          in: [brandSlug, brandSlug.replace(/-cars$/, ''), `${brandSlug}-cars`],
-        },
-      },
-    },
-    include: {
-      brand: true,
-      variants: {
-        orderBy: { exShowroomPrice: 'asc' },
-      },
-      colors: true,
-      dealers: true,
-      reviews: true,
-    },
+  // 2. Fetch vehicle record via Hybrid Resolver (Database-First, Live API Fallback & Write-Through)
+  const { vehicle, synced } = await resolveVehicle(modelSlug, {
+    brandSlug,
+    forceSync: isForceSync,
   });
 
   if (!vehicle) {
     notFound();
   }
+
 
   // 3. Defensive fallbacks for partial or pending vehicle data
   const variants = vehicle.variants || [];
@@ -134,9 +111,16 @@ export default async function CarModelPage({ params }: PageProps) {
       {/* Hero Header Card */}
       <div className="bg-white rounded-3xl p-6 sm:p-8 border border-stone-200/80 shadow-sm grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
         <div>
-          <span className="inline-block px-3 py-1 bg-amber-100 text-amber-800 rounded-full text-xs font-bold uppercase tracking-wider mb-3">
-            {vehicle.launchStatus ? vehicle.launchStatus.replace(/_/g, ' ') : 'LAUNCHED'}
-          </span>
+          <div className="flex items-center gap-2 mb-3">
+            <span className="inline-block px-3 py-1 bg-amber-100 text-amber-800 rounded-full text-xs font-bold uppercase tracking-wider">
+              {vehicle.launchStatus ? vehicle.launchStatus.replace(/_/g, ' ') : 'LAUNCHED'}
+            </span>
+            {synced && (
+              <span className="inline-block px-3 py-1 bg-emerald-100 text-emerald-800 rounded-full text-xs font-bold uppercase tracking-wider">
+                Live Hydrated
+              </span>
+            )}
+          </div>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-stone-900 tracking-tight">
             {vehicle.name}
           </h1>
