@@ -174,6 +174,9 @@ export default async function CarModelPage({ params, searchParams }: PageProps) 
             <Image
               src={vehicle.heroImage}
               alt={vehicle.name}
+              data-ci-type={vehicle.category === 'BIKE' ? 'moto' : 'car'}
+              data-ci-make={vehicle.brand?.name || vehicle.brandName || brandSlug}
+              data-ci-model={vehicle.name}
               fill
               className="object-contain p-4 transition-transform duration-300 hover:scale-105"
               sizes="(max-width: 1024px) 100vw, 50vw"

@@ -67,6 +67,9 @@ export function VerticalCarScroll({
                   <Image
                     src={car.imageUrl || "/vehicles/cars/skoda/skoda-slavia/Candy White.png"}
                     alt={car.name}
+                    data-ci-type="car"
+                    data-ci-make={car.brandName}
+                    data-ci-model={car.name}
                     fill
                     sizes="96px"
                     className="object-contain group-hover/card:scale-105 transition-transform duration-300"

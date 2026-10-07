@@ -60,14 +60,25 @@ export function VehicleResult({
         <div className="relative flex min-h-[300px] sm:min-h-[360px] lg:min-h-[420px] w-full items-center justify-center bg-gradient-to-br from-[#f8f6f0] via-[#ece7dc] to-[#e0dad0] p-4 lg:p-6">
           <div className="relative aspect-[16/10] w-full max-w-xl">
             <Image
-              key={color.previewUrl}
-              src={imgError ? "/vehicles/placeholder.svg" : color.previewUrl}
+              key={`${vehicle.id}-${color.id}-${color.previewUrl}`}
+              src={
+                imgError
+                  ? vehicle.heroImage || "/vehicles/placeholder.svg"
+                  : color.previewUrl || vehicle.heroImage || "/vehicles/placeholder.svg"
+              }
               alt={`${vehicle.brandName} ${vehicle.name} in ${color.name}`}
+              data-ci-type={vehicle.category === "BIKE" ? "moto" : "car"}
+              data-ci-make={vehicle.brandName}
+              data-ci-model={vehicle.name}
               fill
               priority
               sizes="(min-width: 1024px) 640px, 100vw"
               className="object-contain drop-shadow-2xl transition-all duration-300"
-              onError={() => setImgError(true)}
+              onError={() => {
+                if (!imgError && color.previewUrl !== vehicle.heroImage) {
+                  setImgError(true);
+                }
+              }}
             />
           </div>
           <div className="absolute bottom-4 left-4 flex items-center gap-2 rounded-full bg-card/95 px-3 py-1.5 text-sm shadow-sm backdrop-blur-sm">

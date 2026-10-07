@@ -81,4 +81,9 @@ export const MAIN_NAV_ITEMS: NavItem[] = [
     href: "/dealers",
     hasDropdown: false,
   },
+  {
+    title: "News & Reviews",
+    href: "/blogs",
+    hasDropdown: false,
+  },
 ];

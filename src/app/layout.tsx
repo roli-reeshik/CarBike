@@ -28,8 +28,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${geist.variable} ${fraunces.variable}`}>
-      <body className="antialiased">
+    <html
+      lang="en"
+      suppressHydrationWarning
+      className={`${geist.variable} ${fraunces.variable}`}
+    >
+      <body suppressHydrationWarning className="antialiased">
         <Suspense
           fallback={
             <div className="sticky top-0 z-50 h-16 border-b border-line/80 bg-white/95 backdrop-blur-md" />
@@ -47,7 +51,7 @@ export default function RootLayout({
             __html: `
 window.CI_DEFAULT_TYPE='any';
 (function(c,a,r,i){c.CI_API_KEY=i;var s=a.createElement('script');
-s.async=1;s.src=r+'?v='+new Date().toISOString().slice(0,10).replace(/-/g,'');
+s.async=1;s.src=r;
 a.head.appendChild(s)})(window,document,'https://carimagesapi.com/assets/js/carimages.js','ci_98cee377cdd0b4da8ed2513d4d31c6354aec589c0a337653fd49c120');
             `,
           }}
